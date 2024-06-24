@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+7400,Data Mining,Data Mining,1,0,False,2.0,[]
+7401,Entropy,Entropy,2,0,False,1.0,[]
+7402,Farmer Bill’s Problem,Farmer Bill’s Problem,4,10,False,3.5,"[{'tagBOJ': 100, 'tagSA': 'geometry'}]"
+7403,Game,Game,10,16,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}]"
+7404,Hypertransmission,Hypertransmission,2,0,False,1.0,[]
+7405,Illumination,Illumination,1,0,False,2.0,[]
+7406,Jurassic Remains,Jurassic Remains,4,14,False,2.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+7407,King’s Quest,King’s Quest,1,0,False,2.0,[]
+7408,Amusing Numbers,Amusing Numbers,2,13,False,2.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7409,Bricks,Bricks,0,0,False,0.0,[]
+7410,Cricket Field,Cricket Field,0,0,False,0.0,[]
+7411,Decoding Task,Decoding Task,51,5,False,2.1765,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7412,Evacuation Plan,Evacuation Plan,4,18,False,1.25,"[{'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 48, 'tagSA': 'mcmf'}, {'tagBOJ': 167, 'tagSA': 'mfmc'}]"
+7413,Folding,Folding,1,0,False,1.0,[]
+7414,Ghost Busters,Ghost Busters,0,0,False,0.0,[]
+7415,Heroes Of Might And Magic,Heroes Of Might And Magic,0,0,False,0.0,[]
+7416,Inlay Cutters,Inlay Cutters,0,0,False,0.0,[]
+7417,Team them up!,Team them up!,3,0,False,2.3333,[]
+7418,Brackets sequence,Brackets sequence,8,14,False,1.375,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+7419,Cable master,Cable master,42,8,False,3.7619,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}]"
+7420,맹독 방벽,Wall,876,17,False,2.4098,"[{'tagBOJ': 20, 'tagSA': 'convex_hull'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+7421,Chemical reactions,Chemical reactions,3,10,False,1.0,"[{'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7422,Statistical trouble,Statistical trouble,0,0,False,0.0,[]
+7423,Library,Library,0,0,False,0.0,[]
+7424,숫자 쌍,Pairs of integers,30,19,False,2.1,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7425,Flip Game,Flip Game,12,9,False,1.25,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+7426,Buffer Manager,Buffer Manager,4,9,False,1.25,"[{'tagBOJ': 68, 'tagSA': 'sliding_window'}]"
+7427,Triathlon,Triathlon,2,23,False,8.0,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 190, 'tagSA': 'half_plane_intersection'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7428,Domino Puzzle,Domino Puzzle,1,18,False,3.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 93, 'tagSA': 'eulerian_path'}, {'tagBOJ': 7, 'tagSA': 'graphs'}]"
+7429,Binary Search,Binary Search,4,9,False,1.75,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7430,Frontier,Frontier,2,15,False,1.0,"[{'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7431,Garland,Garland,8,10,False,2.125,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}]"
+7432,디스크 트리,Disk Tree,642,13,False,1.7648,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}]"
+7433,Divisibility,Divisibility,12,12,False,1.0833,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+7434,Loan,Loan,0,0,False,0.0,[]
+7435,Expression,Expression,1,0,False,3.0,[]
+7436,Computer Dialogue,Computer Dialogue,0,0,False,0.0,[]
+7437,Lock Manager,Lock Manager,4,10,False,5.25,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7438,Dictionary,Dictionary,0,0,False,0.0,[]
+7439,Highways,Highways,22,13,False,1.8636,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 49, 'tagSA': 'mst'}]"
+7440,Advertisement,Advertisement,1,0,False,1.0,[]
+7441,False coin,False coin,24,8,False,2.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7442,Rating,Rating,0,0,False,0.0,[]
+7443,Fence,Fence,2,18,False,2.5,"[{'tagBOJ': 111, 'tagSA': 'calculus'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 116, 'tagSA': 'physics'}]"
+7444,Parliament,Parliament,11,14,False,1.6364,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7445,Defragment,Defragment,2,0,False,3.0,[]
+7446,The dog task,The dog task,2,18,False,1.0,"[{'tagBOJ': 13, 'tagSA': 'bipartite_matching'}]"
+7447,Spell checker,Spell checker,18,6,False,1.7222,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7448,Gangsters,Gangsters,8,12,False,2.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+7449,The mysterious X network,The mysterious X network,1,0,False,1.0,[]
+7450,Bin Packing,Bin Packing,82,11,False,2.378,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+7451,On Storing Clothes,On Storing Clothes,0,0,False,0.0,[]
+7452,Buy or Build,Buy or Build,2,15,False,1.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 49, 'tagSA': 'mst'}]"
+7453,합이 0인 네 정수,4 Values whose Sum is 0,5751,14,False,4.4158,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 46, 'tagSA': 'mitm'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+7454,Keep the Customer Satisfied,Keep the Customer Satisfied,0,0,False,0.0,[]
+7455,UFO Cubes in Roswell,UFO Cubes in Roswell,0,0,False,0.0,[]
+7456,Black Box,Black Box,0,0,False,0.0,[]
+7457,Pixel Shuffle,Pixel Shuffle,0,0,False,0.0,[]
+7458,Consecutive ones,Consecutive ones,0,0,False,0.0,[]
+7459,Angry Teacher,Angry Teacher,13,7,False,2.1538,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}]"
+7460,Beth Tableaux,Beth Tableaux,0,0,False,0.0,[]
+7461,Collecting Bugs,Collecting Bugs,4,13,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 177, 'tagSA': 'probability'}]"
+7462,Drawing Windows,Drawing Windows,0,0,False,0.0,[]
+7463,Ellipse,Ellipse,6,19,False,14.3333,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7464,Fool’s Day,Fool’s Day,0,0,False,0.0,[]
+7465,Graveyard Design,Graveyard Design,6,12,False,1.8333,"[{'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+7466,Honey and Milk Land,Honey and Milk Land,69,5,False,2.6087,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 60, 'tagSA': 'pythagoras'}]"
+7467,Incredible! Impossible!,Incredible! Impossible!,2,13,False,1.5,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+7468,Jackpot,Jackpot,1,14,False,3.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+7469,K번째 수,K-th Number,1712,19,False,3.1133,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 155, 'tagSA': 'merge_sort_tree'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+7470,Artinals,Artinals,0,0,False,0.0,[]
+7471,Banal Tickets,Banal Tickets,1,15,False,2.0,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+7472,Crankshaft,Crankshaft,2,14,False,1.0,"[{'tagBOJ': 100, 'tagSA': 'geometry'}]"
+7473,Destroying The Graph,Destroying The Graph,2,18,False,1.0,"[{'tagBOJ': 45, 'tagSA': 'flow'}]"
+7474,"Experiment ""X"": Explosions Expected","Experiment ""X"": Explosions Expected",1,15,False,1.0,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}, {'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7475,Factoring a Polynomial,Factoring a Polynomial,14,12,False,1.3571,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+7476,최대 공통 증가 수열,Greatest Common Increasing Subsequence,223,15,False,5.7399,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+7477,Highways,Highways,31,5,False,2.9032,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+7478,Invariant Polynomials,Invariant Polynomials,4,14,False,1.5,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+7479,Jogging,Jogging,1,21,False,1.0,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7480,Key Insertion,Key Insertion,15,21,False,2.4667,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 69, 'tagSA': 'splay_tree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+7481,ATM놀이,Automatic Cash Terminal,85,9,False,3.5294,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+7482,상자 만들기,Box,368,6,False,1.913,"[{'tagBOJ': 111, 'tagSA': 'calculus'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7483,Weird sort,Weird sort,32,16,False,3.8125,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+7484,Bowling,Bowling,44,8,False,1.7273,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7485,Exam,Exam,0,0,False,0.0,[]
+7486,Platforms,Platforms,0,0,False,0.0,[]
+7487,The Very Greatest Common Divisor,The Very Greatest Common Divisor,72,6,False,1.4028,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}, {'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+7488,앵그리 라바,Hamster 2,5,0,False,5.4,[]
+7489,팩토리얼,Factorials,799,4,False,2.4218,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7490,0 만들기,Zero,3501,11,False,2.0474,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7491,Lucky Controller,Lucky Controller,1,0,False,2.0,[]
+7492,Bukazoids,Bukazoids,7,0,False,1.4286,[]
+7493,Collisions,Collisions,20,16,False,2.9,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+7494,Dancers,Dancers,8,10,False,1.125,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7495,Embassy,Embassy,0,0,False,0.0,[]
+7496,Dictionary of Obscene Words,Dictionary of Obscene Words,1,0,False,2.0,[]
+7497,Greatest Product,Greatest Product,21,13,False,1.4286,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+7498,Fractal Cake,Fractal Cake,1,0,False,1.0,[]
+7499,Hexaroman Numbers,Hexaroman Numbers,1,0,False,1.0,[]

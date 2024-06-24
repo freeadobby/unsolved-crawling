@@ -1,0 +1,34 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+6,combinatorics,조합론,combinatorics,"[{'alias': 'combination'}, {'alias': 'permutation'}, {'alias': 'probability'}, {'alias': '확률'}, {'alias': '순열'}]"
+13,bipartite_matching,이분 매칭,bipartite matching,[]
+18,centroid_decomposition,센트로이드 분할,centroid decomposition,[{'alias': '센트로이드'}]
+24,divide_and_conquer,분할 정복,divide and conquer,[{'alias': 'dnc'}]
+25,dp,다이나믹 프로그래밍,dynamic programming,"[{'alias': '동적계획법'}, {'alias': '동적 계획법'}, {'alias': '다이나믹프로그래밍'}]"
+26,euclidean,유클리드 호제법,euclidean algorithm,[{'alias': '유클리드알고리즘'}]
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+38,inclusion_and_exclusion,포함 배제의 원리,inclusion and exclusion,[]
+39,exponentiation_by_squaring,분할 정복을 이용한 거듭제곱,exponentiation by squaring,"[{'alias': '거듭제곱'}, {'alias': '제곱'}, {'alias': 'power'}, {'alias': 'square'}]"
+40,kmp,KMP,knuth–morris–pratt,[]
+59,priority_queue,우선순위 큐,priority queue,"[{'alias': 'heap'}, {'alias': '힙'}]"
+68,sliding_window,슬라이딩 윈도우,sliding window,[{'alias': '슬라이딩윈도'}]
+69,splay_tree,스플레이 트리,splay tree,[]
+70,sprague_grundy,스프라그–그런디 정리,sprague–grundy theorem,"[{'alias': '님버'}, {'alias': 'nimber'}]"
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+120,trees,트리,tree,[{'alias': 'trees'}]
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+128,constructive,해 구성하기,constructive,"[{'alias': 'constructive'}, {'alias': '컨스트럭티브'}, {'alias': '구성적'}]"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': '해싱'}, {'alias': 'hashing'}, {'alias': 'dict'}]"
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+140,game_theory,게임 이론,game theory,"[{'alias': '게임이론'}, {'alias': '님'}, {'alias': 'nim'}]"
+141,simulation,시뮬레이션,simulation,[]
+144,linear_algebra,선형대수학,linear algebra,[{'alias': '선형대수'}]
+158,string,문자열,string,[{'alias': '스트링'}]
+172,precomputation,런타임 전의 전처리,precomputation,"[{'alias': 'lookup table'}, {'alias': 'db'}, {'alias': 'database'}]"
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+188,centroid,센트로이드,centroid,[]

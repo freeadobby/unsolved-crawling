@@ -1,0 +1,48 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+6,combinatorics,조합론,combinatorics,"[{'alias': 'combination'}, {'alias': 'permutation'}, {'alias': 'probability'}, {'alias': '확률'}, {'alias': '순열'}]"
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+10,bellman_ford,벨만–포드,bellman–ford,"[{'alias': 'bellmanford'}, {'alias': '벨만포드'}, {'alias': 'spfa'}]"
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+12,binary_search,이분 탐색,binary search,"[{'alias': '이분탐색'}, {'alias': '이진탐색'}]"
+13,bipartite_matching,이분 매칭,bipartite matching,[]
+20,convex_hull,볼록 껍질,convex hull,[{'alias': '컨벡스헐'}]
+22,dijkstra,데이크스트라,dijkstra's,"[{'alias': '다익'}, {'alias': '다익스트라'}, {'alias': '데이크스트라'}]"
+25,dp,다이나믹 프로그래밍,dynamic programming,"[{'alias': '동적계획법'}, {'alias': '동적 계획법'}, {'alias': '다이나믹프로그래밍'}]"
+31,floyd_warshall,플로이드–워셜,floyd–warshall,"[{'alias': '플로이드'}, {'alias': '플로이드와셜'}, {'alias': '플로이드와샬'}]"
+32,gaussian_elimination,가우스 소거법,gaussian elimination,[]
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+39,exponentiation_by_squaring,분할 정복을 이용한 거듭제곱,exponentiation by squaring,"[{'alias': '거듭제곱'}, {'alias': '제곱'}, {'alias': 'power'}, {'alias': 'square'}]"
+40,kmp,KMP,knuth–morris–pratt,[]
+49,mst,최소 스패닝 트리,minimum spanning tree,[]
+59,priority_queue,우선순위 큐,priority queue,"[{'alias': 'heap'}, {'alias': '힙'}]"
+64,rotating_calipers,회전하는 캘리퍼스,rotating calipers,[]
+68,sliding_window,슬라이딩 윈도우,sliding window,[{'alias': '슬라이딩윈도'}]
+70,sprague_grundy,스프라그–그런디 정리,sprague–grundy theorem,"[{'alias': '님버'}, {'alias': 'nimber'}]"
+73,deque,덱,deque,[]
+76,scc,강한 연결 요소,strongly connected component,[]
+89,cht,볼록 껍질을 이용한 최적화,convex hull trick,"[{'alias': '컨벡스헐트릭'}, {'alias': '컨벡스헐최적화'}]"
+92,dp_tree,트리에서의 다이나믹 프로그래밍,dynamic programming on trees,[{'alias': '트리dp'}]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,[{'alias': '라인 스위핑'}]
+109,ad_hoc,애드 혹,ad-hoc,[]
+110,berlekamp_massey,벌리캠프–매시,berlekamp–massey,"[{'alias': '벌레캠프'}, {'alias': '벌래캠프'}]"
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"[{'alias': '빅인티저'}, {'alias': '빅데시멀'}, {'alias': 'biginteger'}, {'alias': 'bigdecimal'}]"
+120,trees,트리,tree,[{'alias': 'trees'}]
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+127,dfs,깊이 우선 탐색,depth-first search,"[{'alias': 'depth first'}, {'alias': 'depthfirst'}]"
+128,constructive,해 구성하기,constructive,"[{'alias': 'constructive'}, {'alias': '컨스트럭티브'}, {'alias': '구성적'}]"
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+140,game_theory,게임 이론,game theory,"[{'alias': '게임이론'}, {'alias': '님'}, {'alias': 'nim'}]"
+141,simulation,시뮬레이션,simulation,[]
+144,linear_algebra,선형대수학,linear algebra,[{'alias': '선형대수'}]
+158,string,문자열,string,[{'alias': '스트링'}]
+161,coordinate_compression,값 / 좌표 압축,value / coordinate compression,[{'alias': 'zip'}]
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+188,centroid,센트로이드,centroid,[]
+198,generating_function,생성 함수,generating function,[]
+215,shortest_path,최단 경로,shortest path,[]
+216,deque_trick,덱을 이용한 구간 최댓값 트릭,deque range maximum trick,[]

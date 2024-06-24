@@ -1,0 +1,95 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+7106,Wonderful Fours,Wonderful Fours,16,10,False,1.1875,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+7107,Journey of A Knight,Journey of A Knight,44,9,False,1.9318,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+7108,Billiards,Billiards,3,10,False,1.6667,"[{'tagBOJ': 100, 'tagSA': 'geometry'}]"
+7109,The Value of an Expression,The Value of an Expression,0,0,False,0.0,[]
+7110,The Folded Sheet,The Folded Sheet,0,0,False,0.0,[]
+7111,The Strange Sequence,The Strange Sequence,6,13,False,1.5,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 62, 'tagSA': 'recursion'}]"
+7112,Cutting Out of Factorials,Cutting Out of Factorials,6,18,False,2.1667,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+7113,Rectangle,Rectangle,149,6,False,1.698,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 62, 'tagSA': 'recursion'}]"
+7114,Numbers,Numbers,22,7,False,2.9545,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7115,Circle,Circle,25,10,False,1.76,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 60, 'tagSA': 'pythagoras'}]"
+7116,Series,Series,14,15,False,1.5,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7117,"Sevens, twos and zeros","Sevens, twos and zeros",31,16,False,2.9032,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 46, 'tagSA': 'mitm'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+7118,Ones,Ones,9,12,False,1.1111,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+7119,The Magician,The Magician,13,12,False,1.9231,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+7120,String,String,235,4,False,1.2979,"[{'tagBOJ': 158, 'tagSA': 'string'}]"
+7121,Pencil Factory,Pencil Factory,38,7,False,1.4737,"[{'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 38, 'tagSA': 'inclusion_and_exclusion'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+7122,Heating Main,Heating Main,1,0,False,1.0,[]
+7123,Vanaisa lotomängud,,16,5,False,2.125,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7124,Sarnased kolmnurgad,,1,0,False,1.0,[]
+7125,Algarvu-Scrabble,,0,0,False,0.0,[]
+7126,Sarnased hulknurgad,,0,0,False,0.0,[]
+7127,Algarvu-Scrabble,,0,0,False,0.0,[]
+7128,Bakterid,,1,0,False,1.0,[]
+7129,Sarnased hulknurgad,,0,0,False,0.0,[]
+7130,Milk and Honey,Milk and Honey,205,3,False,1.0976,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7131,Õhne vanaraamatupood,,0,0,False,0.0,[]
+7132,Hammasrattad,,37,5,False,1.1892,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+7133,Milk and Honey,Milk and Honey,52,4,False,1.0385,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7134,Maksusüsteem,,1,0,False,1.0,[]
+7135,Tee,,0,0,False,0.0,[]
+7136,Positsioonilised arvusüsteemid,,0,0,False,0.0,[]
+7137,Teed,,0,0,False,0.0,[]
+7138,Robots,Robots,28,22,False,3.3571,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7139,Toll,Toll,34,27,False,2.3529,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 49, 'tagSA': 'mst'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+7140,데이터 만들기 1,,149,12,False,2.4966,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7141,데이터 만들기 2,,77,17,False,3.5844,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 10, 'tagSA': 'bellman_ford'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7142,데이터 만들기 3,,114,12,False,1.7105,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 10, 'tagSA': 'bellman_ford'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7143,데이터 만들기 4,,53,20,False,1.9057,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7144,데이터 만들기 5,,66,17,False,2.5303,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 10, 'tagSA': 'bellman_ford'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7145,데이터 만들기 6,,51,20,False,1.9608,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 10, 'tagSA': 'bellman_ford'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7146,데이터 만들기 7,,59,11,False,2.2881,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+7147,데이터 만들기 8,,55,16,False,1.8545,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+7148,Winter Roads,Winter Roads,14,19,False,4.0714,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 49, 'tagSA': 'mst'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}]"
+7149,Can of Worms,Can of Worms,27,23,False,3.2222,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 76, 'tagSA': 'scc'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+7150,Automatic Trading,Automatic Trading,9,18,False,2.7778,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 61, 'tagSA': 'rabin_karp'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7151,3D Printer,3D Printer,9,20,False,1.7778,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 131, 'tagSA': 'geometry_3d'}]"
+7152,Flooding Fields,Flooding Fields,5,19,False,2.2,"[{'tagBOJ': 45, 'tagSA': 'flow'}]"
+7153,Goat Ropes,Goat Ropes,23,23,False,2.1739,"[{'tagBOJ': 180, 'tagSA': 'duality'}, {'tagBOJ': 103, 'tagSA': 'linear_programming'}]"
+7154,Job Postings,Job Postings,174,18,False,3.3046,"[{'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 48, 'tagSA': 'mcmf'}]"
+7155,Overlapping Maps,Overlapping Maps,12,13,False,1.25,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+7156,Unreal Estate,Unreal Estate,10,18,False,3.8,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+7157,조건문,Satisfaction Guaranteed,1,0,False,1.0,[]
+7158,유니폼 서브트리,Uniform Subtrees,4,24,False,4.75,"[{'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+7159,Pack,Pack,13,8,False,1.2308,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 73, 'tagSA': 'deque'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7160,Puzzle of numbers,Puzzle of numbers,0,0,False,0.0,[]
+7161,Swimming pool,Swimming pool,15,17,False,2.2667,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+7162,House construction,House construction,1,18,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+7163,Jalgpall,,0,0,False,0.0,[]
+7164,Palindroomide vastulöök,,0,0,False,0.0,[]
+7165,Kuuseehe,,0,0,False,0.0,[]
+7166,Värvipalett,,1,21,False,10.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+7167,Tulevärk,,0,0,False,0.0,[]
+7168,Nonogramm,,73,4,False,1.3562,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7169,Tehtemärgid,,0,0,False,0.0,[]
+7170,Kodufinantsid,,0,0,False,0.0,[]
+7171,Miljonär ja vaeslapsed,,0,0,False,0.0,[]
+7172,Hulkade kahendpuu,,0,0,False,0.0,[]
+7173,Klass,,56,4,False,2.0714,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7174,Hinded,,10,8,False,1.3,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+7175,Geopeitus,,9,7,False,1.3333,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7176,Geopeitus,,1,0,False,1.0,[]
+7177,Klass,,0,0,False,0.0,[]
+7178,Ralli,,0,0,False,0.0,[]
+7179,Geopeitus,,1,0,False,2.0,[]
+7180,Relvaturg,,0,0,False,0.0,[]
+7181,Mõttemeister,,121,3,False,1.1322,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7182,Tekstülesanne,,0,0,False,0.0,[]
+7183,Takistusrada,,0,0,False,0.0,[]
+7184,Mõttemeister,,0,0,False,0.0,[]
+7185,IP-aadressid,,0,0,False,0.0,[]
+7186,Takistusrada,,0,0,False,0.0,[]
+7187,Takistusrada,,0,0,False,0.0,[]
+7188,Disko,,1,22,False,1.0,"[{'tagBOJ': 161, 'tagSA': 'coordinate_compression'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+7189,Walk,,1,0,False,4.0,[]
+7190,Carpets,,1,0,False,6.0,[]
+7191,Turning a Tree,,0,0,False,0.0,[]
+7192,Paper Strips,,0,0,False,0.0,[]
+7193,Dorm Party,,0,0,False,0.0,[]
+7194,Harmoonia,,0,0,False,0.0,[]
+7195,Lohe,,1,0,False,1.0,[]
+7196,Pindala,,7,10,False,1.2857,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 3, 'tagSA': 'polygon_area'}]"
+7197,Harmoonia,,0,0,False,0.0,[]
+7198,Tähekabe,,0,0,False,0.0,[]
+7199,Vang,,0,0,False,0.0,[]

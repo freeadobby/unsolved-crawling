@@ -1,0 +1,67 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+1,2_sat,2-sat,2-sat,"[{'alias': '투셋'}, {'alias': 'twosat'}, {'alias': '2sat'}]"
+2,aho_corasick,아호-코라식,aho-corasick,"[{'alias': '아호코라식'}, {'alias': 'ahocorasick'}]"
+5,backtracking,백트래킹,backtracking,"[{'alias': '백트래킹'}, {'alias': '퇴각검색'}, {'alias': '퇴각 검색'}]"
+6,combinatorics,조합론,combinatorics,"[{'alias': 'combination'}, {'alias': 'permutation'}, {'alias': 'probability'}, {'alias': '확률'}, {'alias': '순열'}]"
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+10,bellman_ford,벨만–포드,bellman–ford,"[{'alias': 'bellmanford'}, {'alias': '벨만포드'}, {'alias': 'spfa'}]"
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+12,binary_search,이분 탐색,binary search,"[{'alias': '이분탐색'}, {'alias': '이진탐색'}]"
+13,bipartite_matching,이분 매칭,bipartite matching,[]
+14,bitmask,비트마스킹,bitmask,"[{'alias': '비트필드'}, {'alias': '비트마스크'}]"
+22,dijkstra,데이크스트라,dijkstra's,"[{'alias': '다익'}, {'alias': '다익스트라'}, {'alias': '데이크스트라'}]"
+24,divide_and_conquer,분할 정복,divide and conquer,[{'alias': 'dnc'}]
+25,dp,다이나믹 프로그래밍,dynamic programming,"[{'alias': '동적계획법'}, {'alias': '동적 계획법'}, {'alias': '다이나믹프로그래밍'}]"
+26,euclidean,유클리드 호제법,euclidean algorithm,[{'alias': '유클리드알고리즘'}]
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+35,hld,Heavy-light 분할,heavy-light decomposition,[]
+38,inclusion_and_exclusion,포함 배제의 원리,inclusion and exclusion,[]
+41,lca,최소 공통 조상,lowest common ancestor,[]
+45,flow,최대 유량,maximum flow,"[{'alias': 'dinic'}, {'alias': 'dinitz'}, {'alias': 'ford'}, {'alias': 'fulkerson'}, {'alias': 'fordfulkerson'}, {'alias': '디닉'}, {'alias': '디니츠'}, {'alias': '포드풀커슨'}, {'alias': '플로우'}]"
+46,mitm,중간에서 만나기,meet in the middle,[]
+49,mst,최소 스패닝 트리,minimum spanning tree,[]
+59,priority_queue,우선순위 큐,priority queue,"[{'alias': 'heap'}, {'alias': '힙'}]"
+60,pythagoras,피타고라스 정리,pythagoras theorem,[]
+62,recursion,재귀,recursion,[]
+65,segtree,세그먼트 트리,segment tree,"[{'alias': '구간트리'}, {'alias': '세그트리'}, {'alias': 'fenwick'}, {'alias': '펜윅'}]"
+66,lazyprop,느리게 갱신되는 세그먼트 트리,segment tree with lazy propagation,"[{'alias': '레이지'}, {'alias': '레이지프로퍼게이션'}, {'alias': '레이지프로파게이션'}, {'alias': '구간트리'}, {'alias': 'fenwick'}, {'alias': '펜윅'}]"
+71,stack,스택,stack,[]
+73,deque,덱,deque,[]
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': 'bbst'}, {'alias': '트리'}, {'alias': 'tree'}]"
+76,scc,강한 연결 요소,strongly connected component,[]
+77,suffix_array,접미사 배열과 LCP 배열,suffix array and lcp array,[]
+78,topological_sorting,위상 정렬,topological sorting,[]
+79,trie,트라이,trie,[]
+80,two_pointer,두 포인터,two-pointer,"[{'alias': '투포인터'}, {'alias': '인치웜'}, {'alias': 'inchworm'}, {'alias': 'twopointer'}]"
+81,disjoint_set,분리 집합,disjoint set,"[{'alias': 'union'}, {'alias': 'find'}, {'alias': '유니온'}, {'alias': '파인드'}, {'alias': 'dsu'}]"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"[{'alias': '동적계획법'}, {'alias': '비트마스크'}, {'alias': '비트dp'}]"
+89,cht,볼록 껍질을 이용한 최적화,convex hull trick,"[{'alias': '컨벡스헐트릭'}, {'alias': '컨벡스헐최적화'}]"
+92,dp_tree,트리에서의 다이나믹 프로그래밍,dynamic programming on trees,[{'alias': '트리dp'}]
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,[{'alias': '라인 스위핑'}]
+108,dp_deque,덱을 이용한 다이나믹 프로그래밍,dynamic programming using a deque,"[{'alias': '동적계획법'}, {'alias': '덱dp'}]"
+109,ad_hoc,애드 혹,ad-hoc,[]
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"[{'alias': '빅인티저'}, {'alias': '빅데시멀'}, {'alias': 'biginteger'}, {'alias': 'bigdecimal'}]"
+120,trees,트리,tree,[{'alias': 'trees'}]
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+126,bfs,너비 우선 탐색,breadth-first search,"[{'alias': 'breadthfirst'}, {'alias': 'breadth first'}]"
+127,dfs,깊이 우선 탐색,depth-first search,"[{'alias': 'depth first'}, {'alias': 'depthfirst'}]"
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+140,game_theory,게임 이론,game theory,"[{'alias': '게임이론'}, {'alias': '님'}, {'alias': 'nim'}]"
+141,simulation,시뮬레이션,simulation,[]
+148,knapsack,배낭 문제,knapsack,[{'alias': '냅색'}]
+157,slope_trick,함수 개형을 이용한 최적화,slope trick,"[{'alias': '슬로프트릭'}, {'alias': '슬로프 트릭'}]"
+158,string,문자열,string,[{'alias': '스트링'}]
+161,coordinate_compression,값 / 좌표 압축,value / coordinate compression,[{'alias': 'zip'}]
+169,smaller_to_larger,작은 집합에서 큰 집합으로 합치는 테크닉,smaller to larger technique,"[{'alias': 'merge heuristics'}, {'alias': 'sack'}, {'alias': 'small to large'}, {'alias': '작은거'}, {'alias': '큰거'}]"
+170,parametric_search,매개 변수 탐색,parametric search,[{'alias': '파라메트릭'}]
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+210,flood_fill,플러드 필,flood-fill,[]
+213,dag,방향 비순환 그래프,directed acyclic graph,[]
+215,shortest_path,최단 경로,shortest path,[]
+216,deque_trick,덱을 이용한 구간 최댓값 트릭,deque range maximum trick,[]

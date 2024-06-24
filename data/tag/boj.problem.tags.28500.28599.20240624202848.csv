@@ -1,0 +1,28 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+9,primality_test,소수 판정,primality test,"[{'alias': '소수'}, {'alias': '소수판별'}, {'alias': '소수판정'}, {'alias': 'prime'}]"
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+12,binary_search,이분 탐색,binary search,"[{'alias': '이분탐색'}, {'alias': '이진탐색'}]"
+31,floyd_warshall,플로이드–워셜,floyd–warshall,"[{'alias': '플로이드'}, {'alias': '플로이드와셜'}, {'alias': '플로이드와샬'}]"
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+49,mst,최소 스패닝 트리,minimum spanning tree,[]
+65,segtree,세그먼트 트리,segment tree,"[{'alias': '구간트리'}, {'alias': '세그트리'}, {'alias': 'fenwick'}, {'alias': '펜윅'}]"
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,[{'alias': '라인 스위핑'}]
+109,ad_hoc,애드 혹,ad-hoc,[]
+120,trees,트리,tree,[{'alias': 'trees'}]
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+124,math,수학,mathematics,[]
+126,bfs,너비 우선 탐색,breadth-first search,"[{'alias': 'breadthfirst'}, {'alias': 'breadth first'}]"
+127,dfs,깊이 우선 탐색,depth-first search,"[{'alias': 'depth first'}, {'alias': 'depthfirst'}]"
+128,constructive,해 구성하기,constructive,"[{'alias': 'constructive'}, {'alias': '컨스트럭티브'}, {'alias': '구성적'}]"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': '해싱'}, {'alias': 'hashing'}, {'alias': 'dict'}]"
+137,case_work,많은 조건 분기,case work,"[{'alias': '케이스'}, {'alias': '케이스워크'}, {'alias': '케이스 워크'}]"
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+158,string,문자열,string,[{'alias': '스트링'}]
+170,parametric_search,매개 변수 탐색,parametric search,[{'alias': '파라메트릭'}]
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+215,shortest_path,최단 경로,shortest path,[]

@@ -1,0 +1,63 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+6,combinatorics,조합론,combinatorics,"[{'alias': 'combination'}, {'alias': 'permutation'}, {'alias': 'probability'}, {'alias': '확률'}, {'alias': '순열'}]"
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+8,hashing,해싱,hashing,[]
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+12,binary_search,이분 탐색,binary search,"[{'alias': '이분탐색'}, {'alias': '이진탐색'}]"
+13,bipartite_matching,이분 매칭,bipartite matching,[]
+14,bitmask,비트마스킹,bitmask,"[{'alias': '비트필드'}, {'alias': '비트마스크'}]"
+22,dijkstra,데이크스트라,dijkstra's,"[{'alias': '다익'}, {'alias': '다익스트라'}, {'alias': '데이크스트라'}]"
+24,divide_and_conquer,분할 정복,divide and conquer,[{'alias': 'dnc'}]
+25,dp,다이나믹 프로그래밍,dynamic programming,"[{'alias': '동적계획법'}, {'alias': '동적 계획법'}, {'alias': '다이나믹프로그래밍'}]"
+28,fft,고속 푸리에 변환,fast fourier transform,"[{'alias': '푸리에변환'}, {'alias': '컨볼루션'}, {'alias': 'convolution'}]"
+31,floyd_warshall,플로이드–워셜,floyd–warshall,"[{'alias': '플로이드'}, {'alias': '플로이드와셜'}, {'alias': '플로이드와샬'}]"
+32,gaussian_elimination,가우스 소거법,gaussian elimination,[]
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+54,pbs,병렬 이분 탐색,parallel binary search,[]
+55,pst,퍼시스턴트 세그먼트 트리,persistent segment tree,"[{'alias': '퍼시스턴트구간트리'}, {'alias': '구간트리'}, {'alias': '퍼시스턴트세그트리'}]"
+59,priority_queue,우선순위 큐,priority queue,"[{'alias': 'heap'}, {'alias': '힙'}]"
+61,rabin_karp,라빈–카프,rabin–karp,[{'alias': '라빈카프'}]
+65,segtree,세그먼트 트리,segment tree,"[{'alias': '구간트리'}, {'alias': '세그트리'}, {'alias': 'fenwick'}, {'alias': '펜윅'}]"
+71,stack,스택,stack,[]
+72,queue,큐,queue,[]
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': 'bbst'}, {'alias': '트리'}, {'alias': 'tree'}]"
+77,suffix_array,접미사 배열과 LCP 배열,suffix array and lcp array,[]
+78,topological_sorting,위상 정렬,topological sorting,[]
+80,two_pointer,두 포인터,two-pointer,"[{'alias': '투포인터'}, {'alias': '인치웜'}, {'alias': 'inchworm'}, {'alias': 'twopointer'}]"
+81,disjoint_set,분리 집합,disjoint set,"[{'alias': 'union'}, {'alias': 'find'}, {'alias': '유니온'}, {'alias': '파인드'}, {'alias': 'dsu'}]"
+84,sparse_table,희소 배열,sparse table,"[{'alias': '스파스어레이'}, {'alias': 'sparse table'}]"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"[{'alias': '동적계획법'}, {'alias': '비트마스크'}, {'alias': '비트dp'}]"
+95,number_theory,정수론,number theory,[]
+96,parsing,파싱,parsing,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,[{'alias': '라인 스위핑'}]
+109,ad_hoc,애드 혹,ad-hoc,[]
+111,calculus,미적분학,calculus,"[{'alias': '미분'}, {'alias': '적분'}]"
+115,randomization,무작위화,randomization,[{'alias': '랜덤'}]
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"[{'alias': '빅인티저'}, {'alias': '빅데시멀'}, {'alias': 'biginteger'}, {'alias': 'bigdecimal'}]"
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+123,offline_queries,오프라인 쿼리,offline queries,[{'alias': 'offlinequery'}]
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+126,bfs,너비 우선 탐색,breadth-first search,"[{'alias': 'breadthfirst'}, {'alias': 'breadth first'}]"
+128,constructive,해 구성하기,constructive,"[{'alias': 'constructive'}, {'alias': '컨스트럭티브'}, {'alias': '구성적'}]"
+132,geometry_hyper,4차원 이상의 기하학,geometry; hyperdimensional,"[{'alias': '4차원'}, {'alias': '5차원'}, {'alias': '6차원'}, {'alias': '7차원'}, {'alias': '8차원'}, {'alias': '9차원'}, {'alias': '4d'}, {'alias': '5d'}, {'alias': '6d'}, {'alias': '7d'}, {'alias': '8d'}, {'alias': '9d'}]"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': '해싱'}, {'alias': 'hashing'}, {'alias': 'dict'}]"
+137,case_work,많은 조건 분기,case work,"[{'alias': '케이스'}, {'alias': '케이스워크'}, {'alias': '케이스 워크'}]"
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+140,game_theory,게임 이론,game theory,"[{'alias': '게임이론'}, {'alias': '님'}, {'alias': 'nim'}]"
+141,simulation,시뮬레이션,simulation,[]
+144,linear_algebra,선형대수학,linear algebra,[{'alias': '선형대수'}]
+154,linked_list,연결 리스트,linked list,[{'alias': '링크드리스트'}]
+158,string,문자열,string,[{'alias': '스트링'}]
+170,parametric_search,매개 변수 탐색,parametric search,[{'alias': '파라메트릭'}]
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+177,probability,확률론,probability theory,"[{'alias': 'expected value'}, {'alias': '기대값'}, {'alias': '기댓값'}]"
+192,stable_marriage,안정 결혼 문제,stable marriage problem,[]
+198,generating_function,생성 함수,generating function,[]
+209,polynomial_interpolation,다항식 보간법,polynomial interpolation,[]
+213,dag,방향 비순환 그래프,directed acyclic graph,[]
+214,lgv,린드스트롬–게셀–비엔노 보조정리,lindström–gessel–viennot lemma,[]
+215,shortest_path,최단 경로,shortest path,[]

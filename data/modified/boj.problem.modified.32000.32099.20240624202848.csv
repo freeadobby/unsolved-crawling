@@ -1,0 +1,10 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+32000,Examination 2,Examination 2,2,25,False,1.0,"[{'tagBOJ': 35, 'tagSA': 'hld'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+32001,Heat Stroke,Heat Stroke,1,27,False,10.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+32002,Library 3,Library 3,6,22,False,1.8333,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 171, 'tagSA': 'permutation_cycle_decomposition'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+32003,2024,,1,0,False,1.0,[]
+32004,ALGEBRA,,1,0,False,1.0,[]
+32005,SUDOKU,,1,0,False,2.0,[]
+32006,ZEMLJA,,2,14,False,1.5,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+32007,September,September,1,0,False,1.0,[]
+32008,Train,Train,1,0,False,1.0,[]

@@ -1,0 +1,99 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+25500,무자비한 최단 경로,,81,17,False,4.6049,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+25501,재귀의 귀재,,11580,4,False,1.8099,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 62, 'tagSA': 'recursion'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25502,등차수열? 등비수열?,,79,12,False,3.557,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+25503,순열 뒤집기,,75,17,False,2.3333,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+25504,최적 경로와 쿼리,,17,21,False,5.1176,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 130, 'tagSA': 'sqrt_decomposition'}]"
+25505,공통 부분 문자열 쿼리,,9,23,False,6.3333,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}, {'tagBOJ': 130, 'tagSA': 'sqrt_decomposition'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}]"
+25506,Autoritet,,0,0,False,0.0,[]
+25508,Totoro,,0,0,False,0.0,[]
+25509,Lord of the Characteristic Polynomials (1),,11,26,False,1.8182,"[{'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+25510,Lord of the Characteristic Polynomials (2),,6,28,False,2.3333,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+25511,값이 k인 트리 노드의 깊이,,181,9,False,1.8177,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25512,트리를 간단하게 색칠하는 최소 비용,,115,10,False,2.2522,"[{'tagBOJ': 197, 'tagSA': 'bipartite_graph'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+25513,빠른 오름차순 숫자 탐색,,117,11,False,1.4615,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+25514,고속의 오름차순 숫자 탐색,,37,12,False,2.027,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+25515,트리 노드 합의 최댓값,,124,12,False,1.879,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25516,거리가 k이하인 트리 노드에서 사과 수확하기,,317,9,False,1.8202,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25517,머리 아픈 암산은 이제 그만!,,86,17,False,2.2907,"[{'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 164, 'tagSA': 'modular_multiplicative_inverse'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}]"
+25518,OPK,,0,0,False,0.0,[]
+25519,Štapovi,,1,0,False,1.0,[]
+25520,Zalagaonica,,1,14,False,3.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25521,Klavir,,1,0,False,1.0,[]
+25522,Pikulice,,0,0,False,0.0,[]
+25523,Trošak,,0,0,False,0.0,[]
+25524,K-TI,,1,0,False,1.0,[]
+25525,PARKING,,0,0,False,0.0,[]
+25527,Counting Peaks of Infection,Counting Peaks of Infection,203,3,False,1.1872,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+25528,Leave No One Behind,Leave No One Behind,15,9,False,1.1333,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+25529,Training Schedule for ICPC,Training Schedule for ICPC,19,13,False,1.4737,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}]"
+25530,Audience Queue,Audience Queue,11,18,False,1.4545,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 29, 'tagSA': 'flt'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 164, 'tagSA': 'modular_multiplicative_inverse'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+25531,Village of Lore,Village of Lore,4,22,False,6.5,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 191, 'tagSA': 'circulation'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+25532,Trim It Step by Step,Trim It Step by Step,4,22,False,2.75,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25533,Keep in Touch,Keep in Touch,0,0,False,0.0,[]
+25534,Artist in Agony,Artist in Agony,0,0,False,0.0,[]
+25535,IZAZOV,,0,0,False,0.0,[]
+25536,SKLONIŠTE,,0,0,False,0.0,[]
+25537,VEZUV,,1,18,False,7.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 78, 'tagSA': 'topological_sorting'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}, {'tagBOJ': 213, 'tagSA': 'dag'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+25538,모험가 길드,,15,19,False,2.4667,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 150, 'tagSA': 'euler_tour_technique'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25539,ŠIBICE,,1,0,False,1.0,[]
+25540,SMRAD,,0,0,False,0.0,[]
+25541,KRAFNA,,0,0,False,0.0,[]
+25542,약속 장소,,165,10,False,3.5515,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25543,X 만들기,,38,13,False,1.9474,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+25544,X 만들기 (Hard),,36,17,False,1.9444,"[{'tagBOJ': 43, 'tagSA': 'lis'}]"
+25545,MMST,,64,14,False,5.3438,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 49, 'tagSA': 'mst'}]"
+25546,가채점,,16,22,False,3.625,"[{'tagBOJ': 2, 'tagSA': 'aho_corasick'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}]"
+25547,신기한 숫자,,98,13,False,2.8878,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+25548,신기한 숫자 2,,56,19,False,2.1964,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+25549,트리의 MEX,,106,18,False,2.1792,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 169, 'tagSA': 'smaller_to_larger'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+25550,택배 색칠,,100,7,False,2.41,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+25551,멋쟁이 포닉스,,168,5,False,2.2024,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+25552,잔디 예측하기,,68,13,False,3.2794,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+25553,단짠단짠 피자,,38,15,False,2.8158,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 68, 'tagSA': 'sliding_window'}]"
+25554,포닉스의 신비한 분자 보고서,,19,17,False,2.8421,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+25555,포커,,19,17,False,1.2632,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+25556,포스택,,769,11,False,2.5761,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+25557,수 맞히기 게임,,57,14,False,2.7193,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 179, 'tagSA': 'linearity_of_expectation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 177, 'tagSA': 'probability'}]"
+25558,내비게이션,,272,4,False,2.4853,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+25559,패스,,173,12,False,2.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+25560,포탈,,3,0,False,2.6667,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25561,1-3 트리,,47,17,False,6.1489,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25562,차의 개수,,244,8,False,1.7172,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+25563,"AND, OR, XOR",,60,21,False,2.9,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}, {'tagBOJ': 207, 'tagSA': 'dp_sum_over_subsets'}]"
+25564,역삼역,,29,21,False,2.5172,"[{'tagBOJ': 44, 'tagSA': 'manacher'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}]"
+25565,딸기와 토마토,,150,11,False,3.64,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+25566,김밥,,77,17,False,2.1299,"[{'tagBOJ': 161, 'tagSA': 'coordinate_compression'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+25567,줄 세우기,,63,18,False,2.9365,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 73, 'tagSA': 'deque'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 169, 'tagSA': 'smaller_to_larger'}]"
+25568,피라미드,,55,15,False,1.8182,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+25569,My뷰 꾸미기,,114,17,False,2.193,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 29, 'tagSA': 'flt'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 164, 'tagSA': 'modular_multiplicative_inverse'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+25570,Fold,Fold,0,0,False,0.0,[]
+25571,지그재그 부분배열,Zigzag Subarrays,36,12,False,2.4444,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+25572,Hangman 2,Hangman 2,2,20,False,8.0,"[{'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25573,Circuits,Circuits,0,0,False,0.0,[]
+25574,ABC 배열 놀이,ABC Array Game,10,16,False,2.1,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+25575,이분 그래프 놀이,Bipartite Graph Game,22,16,False,1.9091,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+25576,찾았다 악질,,304,4,False,2.6908,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+25577,열 정렬정렬 정,,197,12,False,1.4822,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 171, 'tagSA': 'permutation_cycle_decomposition'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+25578,고장난 통신탑,,36,15,False,5.4444,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 67, 'tagSA': 'sieve'}]"
+25579,터트려라 풍선,,50,14,False,1.48,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}]"
+25580,Next Level,,8,14,False,4.875,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+25581,땅 두 배로 따먹기,,14,16,False,3.5714,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+25582,pqbd,,24,17,False,3.0,"[{'tagBOJ': 44, 'tagSA': 'manacher'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25583,첨탑 부수기,,15,21,False,4.1333,"[{'tagBOJ': 151, 'tagSA': 'euler_phi'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25584,근무 지옥에 빠진 푸앙이 (Large),,217,6,False,1.553,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25585,86 ─에이티식스─ 1,,115,11,False,2.713,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+25586,마트료시카 박스 I,,43,13,False,3.6279,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25587,배수로,,138,13,False,2.1377,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}]"
+25588,푸앙이와 계단 수열,,58,13,False,3.4483,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+25589,푸앙이와 코인,,28,16,False,2.5,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+25590,마트료시카 박스 III,,27,16,False,2.6667,"[{'tagBOJ': 150, 'tagSA': 'euler_tour_technique'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25591,푸앙이와 종윤이,,1498,2,False,1.2397,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+25592,바둑돌 게임,,516,5,False,1.7112,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+25593,근무 지옥에 빠진 푸앙이 (Small),,260,5,False,2.0154,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25594,HG 음성기호,,220,6,False,2.4364,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+25595,86 ─에이티식스─ 2,,220,5,False,1.55,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+25596,마트료시카 박스 II,,40,12,False,1.675,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+25597,푸앙이와 러닝머신,,71,12,False,2.8451,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+25598,Alive or Dead?,,46,13,False,5.2609,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+25599,푸앙이와 레벨업,,34,17,False,2.7059,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 68, 'tagSA': 'sliding_window'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}]"

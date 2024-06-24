@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+28700,준혁이의 자취방 꾸미기,,5,25,False,1.4,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 152, 'tagSA': 'bitset'}, {'tagBOJ': 32, 'tagSA': 'gaussian_elimination'}, {'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28701,세제곱의 합,Sum of Cubes,2758,1,False,1.3336,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28702,FizzBuzz,FizzBuzz,1480,5,False,1.5243,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28703,Double It,Double It,413,13,False,3.2349,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}]"
+28704,Sum=Product,Sum=Product,115,17,False,3.3826,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28705,RLE Inversion Counting,RLE Inversion Counting,77,18,False,2.2727,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 161, 'tagSA': 'coordinate_compression'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+28706,럭키 세븐,Lucky Seven,435,11,False,2.1425,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+28707,배열 정렬,Array Sorting,271,15,False,1.952,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+28708,소수 피하기,Avoiding Primes,21,23,False,1.8095,"[{'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 167, 'tagSA': 'mfmc'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}]"
+28709,와일드카드 괄호 문자열,Wildcard Parentheses String,188,15,False,3.9149,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28710,Gibonni,,0,0,False,0.0,[]
+28711,Napor,,10,6,False,1.3,"[{'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28712,Trobojnica,,3,11,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+28713,Vjeverice,,0,0,False,0.0,[]
+28714,Оно,,1,0,False,1.0,[]
+28715,Деревянный замок,,1,0,False,1.0,[]
+28716,Алмазы,,4,19,False,2.5,"[{'tagBOJ': 130, 'tagSA': 'sqrt_decomposition'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+28717,Хорошее подмножество,,1,0,False,6.0,[]
+28718,Защитный узор,,1,23,False,2.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 107, 'tagSA': 'dp_connection_profile'}]"
+28719,Они,,1,0,False,3.0,[]
+28720,Ножницы,,2,0,False,1.5,[]
+28721,Побег из заброшенного дома,,1,0,False,1.0,[]
+28722,Звуки в подвале,,98,3,False,1.3367,"[{'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+28723,Перестроения,,0,0,False,0.0,[]
+28724,Сумасшедшие транспортные налоги,,2,0,False,1.0,[]
+28725,Безумный танец,,0,0,False,0.0,[]
+28726,Лечебница Аркхем,,0,0,False,0.0,[]
+28727,Ограбление банка,,0,0,False,0.0,[]
+28728,Странная игра на графе,,0,0,False,0.0,[]
+28729,Беспорядочное выступление,,15,10,False,2.1333,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+28730,Сумасшедшее домино,,14,13,False,1.4286,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+28731,Этажи,,0,0,False,0.0,[]
+28732,Вырваться из окружения,,1,0,False,1.0,[]
+28733,Убийственная математика,,0,0,False,0.0,[]
+28734,Безумные расстановки,,0,0,False,0.0,[]
+28735,За гробоцветами,,1,0,False,1.0,[]
+28736,Сильная группа,,0,0,False,0.0,[]
+28737,Ловушка со свечками,,0,0,False,0.0,[]
+28738,Чары,,0,0,False,0.0,[]
+28739,Ленивые лесорубы,,0,0,False,0.0,[]
+28740,Арифметика и кубики,,0,0,False,0.0,[]
+28741,Счёт в теннисе,,0,0,False,0.0,[]
+28742,Свадьба,,0,0,False,0.0,[]
+28743,Защитный барьер,,0,0,False,0.0,[]
+28744,Малефисумма,,17,12,False,2.0588,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+28745,Магический XML,,0,0,False,0.0,[]
+28746,Блэк & Уайт,,0,0,False,0.0,[]
+28747,Сложности с жетоном,,0,0,False,0.0,[]
+28748,Единая сеть,,1,0,False,13.0,[]
+28749,Квадраты Фибоначчи,,23,16,False,1.8696,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28750,Похожие заказы,,0,0,False,0.0,[]
+28751,Быстрый перевод,,0,0,False,0.0,[]
+28752,Гениальная прогулка,,1,15,False,1.0,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+28753,Сэм и хранилище,,3,14,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}]"
+28754,Постройка дороги,,4,15,False,1.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}]"
+28755,Робот-доставщик,,0,0,False,0.0,[]
+28756,Перерыв на обед,,1,0,False,1.0,[]
+28757,Починка массива,,0,0,False,0.0,[]
+28758,Кодовый замок,,0,0,False,0.0,[]
+28759,Побег с горной базы,,0,0,False,0.0,[]
+28760,Набор текста,,1,0,False,1.0,[]
+28761,Крупная закупка,,2,0,False,2.0,[]
+28762,Поместье мафии,,1,0,False,2.0,[]
+28763,Счастливые билетики,,0,0,False,0.0,[]
+28764,Транспортировка артефактов,,1,0,False,3.0,[]
+28765,Скоростной транспорт,,1,0,False,3.0,[]
+28766,Продукты в экспедиции,,0,0,False,0.0,[]
+28767,Доставка почты,,0,0,False,0.0,[]
+28768,Выживание и шоколад,,13,7,False,1.4615,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+28769,Ловушка для Джерри,,0,0,False,0.0,[]
+28770,Мышеловки,,0,0,False,0.0,[]
+28771,Джерри и задачи,,0,0,False,0.0,[]
+28772,Подсчет хештегов,,33,5,False,2.4545,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28773,Раскладывание приборов,,1,0,False,5.0,[]
+28774,Шестизначные документы,,1,0,False,1.0,[]
+28775,Государственный переполох,,0,0,False,0.0,[]
+28776,Загадочное устройство,,0,0,False,0.0,[]
+28777,Фотографии на память,,1,0,False,1.0,[]
+28778,Волшебные тройки,,3,10,False,2.6667,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+28779,Магическая ПСП,,2,15,False,1.5,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 62, 'tagSA': 'recursion'}]"
+28780,Сокровищница,,1,21,False,7.0,[]
+28781,Йода и приставки Си,,1,0,False,2.0,[]
+28782,Джедайские вычисления,,1,0,False,4.0,[]
+28783,Древний замок,,1,0,False,1.0,[]
+28784,Кроссворд для дроида,,1,0,False,3.0,[]
+28785,Боевые дроиды,,1,22,False,6.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}]"
+28786,Выстрел в голову,,1,0,False,1.0,[]
+28787,Сжатие изображения,,2,0,False,1.0,[]
+28788,Суперагентское блюдо,,1,0,False,2.0,[]
+28789,Секретный код,,21,7,False,3.4762,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28790,Игра в дженгу,,40,5,False,1.425,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}]"
+28791,Кодовый замок,,1,18,False,1.0,"[{'tagBOJ': 1, 'tagSA': '2_sat'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 76, 'tagSA': 'scc'}]"
+28792,Серебряная цепочка,,1,0,False,2.0,[]
+28793,План шпионской сети,,0,0,False,0.0,[]
+28794,Минер,,1,0,False,1.0,[]
+28795,Светский приём,,2,0,False,1.5,[]
+28796,Поедание крыс,,13,7,False,1.0769,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+28797,Дневнегреческая машина,,21,5,False,1.9524,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28798,Старик и шахматная доска,,3,0,False,1.3333,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+28799,Великий бой,,0,0,False,0.0,[]

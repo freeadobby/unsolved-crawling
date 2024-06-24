@@ -1,0 +1,37 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+12,binary_search,이분 탐색,binary search,"[{'alias': '이분탐색'}, {'alias': '이진탐색'}]"
+14,bitmask,비트마스킹,bitmask,"[{'alias': '비트필드'}, {'alias': '비트마스크'}]"
+22,dijkstra,데이크스트라,dijkstra's,"[{'alias': '다익'}, {'alias': '다익스트라'}, {'alias': '데이크스트라'}]"
+25,dp,다이나믹 프로그래밍,dynamic programming,"[{'alias': '동적계획법'}, {'alias': '동적 계획법'}, {'alias': '다이나믹프로그래밍'}]"
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+41,lca,최소 공통 조상,lowest common ancestor,[]
+68,sliding_window,슬라이딩 윈도우,sliding window,[{'alias': '슬라이딩윈도'}]
+69,splay_tree,스플레이 트리,splay tree,[]
+71,stack,스택,stack,[]
+77,suffix_array,접미사 배열과 LCP 배열,suffix array and lcp array,[]
+79,trie,트라이,trie,[]
+80,two_pointer,두 포인터,two-pointer,"[{'alias': '투포인터'}, {'alias': '인치웜'}, {'alias': 'inchworm'}, {'alias': 'twopointer'}]"
+84,sparse_table,희소 배열,sparse table,"[{'alias': '스파스어레이'}, {'alias': 'sparse table'}]"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"[{'alias': '동적계획법'}, {'alias': '비트마스크'}, {'alias': '비트dp'}]"
+95,number_theory,정수론,number theory,[]
+96,parsing,파싱,parsing,[]
+97,sorting,정렬,sorting,[]
+102,implementation,구현,implementation,[]
+120,trees,트리,tree,[{'alias': 'trees'}]
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+123,offline_queries,오프라인 쿼리,offline queries,[{'alias': 'offlinequery'}]
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+126,bfs,너비 우선 탐색,breadth-first search,"[{'alias': 'breadthfirst'}, {'alias': 'breadth first'}]"
+137,case_work,많은 조건 분기,case work,"[{'alias': '케이스'}, {'alias': '케이스워크'}, {'alias': '케이스 워크'}]"
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+141,simulation,시뮬레이션,simulation,[]
+150,euler_tour_technique,오일러 경로 테크닉,euler tour technique,[]
+158,string,문자열,string,[{'alias': '스트링'}]
+170,parametric_search,매개 변수 탐색,parametric search,[{'alias': '파라메트릭'}]
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+177,probability,확률론,probability theory,"[{'alias': 'expected value'}, {'alias': '기대값'}, {'alias': '기댓값'}]"
+182,suffix_tree,접미사 트리,suffix tree,[]
+215,shortest_path,최단 경로,shortest path,[]

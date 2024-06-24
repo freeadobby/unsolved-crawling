@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+10400,Fence the vegetables,Fence the vegetables,2,0,False,1.5,[]
+10401,Galaxy collision,Galaxy collision,22,15,False,2.0,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+10402,Help cupid,Help cupid,42,8,False,1.5952,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+10403,Intrepid climber,Intrepid climber,34,12,False,2.3235,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+10404,Journey through the kingdom,Journey through the kingdom,3,0,False,5.6667,[]
+10405,Knights of the Round Table,Knights of the Round Table,8,14,False,1.625,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 171, 'tagSA': 'permutation_cycle_decomposition'}]"
+10406,The fellowship of the ring,The fellowship of the ring,528,3,False,1.125,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+10407,2 타워,The two towers,259,9,False,1.2239,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+10408,The return of the King,The return of the King,84,5,False,1.2857,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+10409,서버,Server,3034,3,False,1.9506,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10410,Eligibility,Eligibility,110,4,False,1.5091,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+10411,Plane Ticket Pricing,Plane Ticket Pricing,9,13,False,1.2222,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+10412,Facility Locations,Facility Locations,5,12,False,1.4,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}]"
+10413,반복되는 부분 문자열,Repeated Substrings,228,19,False,1.7982,"[{'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}]"
+10414,Landline Telephone Network,Landline Telephone Network,20,17,False,3.55,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 49, 'tagSA': 'mst'}]"
+10415,Aquarium Tank,Aquarium Tank,9,17,False,1.7778,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}, {'tagBOJ': 3, 'tagSA': 'polygon_area'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+10416,Restaurant Ratings,Restaurant Ratings,13,13,False,1.1538,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10417,Locked Treasure,Locked Treasure,21,12,False,1.0476,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10418,Yet Satisfiability Again!,Yet Satisfiability Again!,13,12,False,2.2308,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+10419,지각,,2361,3,False,1.3367,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10420,기념일 1,,649,4,False,2.1664,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+10421,수식 완성하기,,79,11,False,3.5823,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+10422,괄호,,2262,12,False,3.3294,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10423,전기가 부족해,,1981,13,False,1.4341,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 49, 'tagSA': 'mst'}]"
+10424,알고리즘 기말고사,,266,10,False,3.2932,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+10425,피보나치 인버스,,311,9,False,2.6977,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}]"
+10426,기념일 2,,341,5,False,1.8944,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+10427,빚,,198,11,False,1.7576,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+10428,마법의 약,,29,17,False,1.2759,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10429,QUENTO,,175,12,False,1.9657,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+10430,나머지,,182763,1,False,1.9379,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10431,줄세우기,Height Ordering,3051,6,False,1.8633,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+10432,데이터 스트림의 섬,Islands in the Data Stream,171,7,False,1.4269,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+10433,부동소수점 형식 변환,Floating-Point Format Conversion,12,12,False,2.4167,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10434,행복한 소수,Happy Happy Prime Prime,455,9,False,2.6308,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+10435,만칼라,Mancala,84,16,False,1.7262,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+10436,무한 유리수 트리,A Rational Sequence,70,12,False,2.0286,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+10437,자라나는 직교 나선,Growing Rectangular Spiral,31,12,False,1.4839,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10438,페리 수열의 합,Farey Sums,68,19,False,1.9412,"[{'tagBOJ': 151, 'tagSA': 'euler_phi'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+10439,여왕님의 테라스,The Queen's Super-circular Patio,16,14,False,1.4375,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+10440,The Binary Search Efficiency Doubter,The Binary Search Efficiency Doubter,12,13,False,1.25,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+10441,Preorder Traversals,Preorder Traversals,16,10,False,2.0,[]
+10442,Rank Order,Rank Order,34,7,False,1.9706,"[{'tagBOJ': 97, 'tagSA': 'sorting'}]"
+10443,Mokia,Mokia,19,21,False,2.4737,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+10444,Anagram Pyramids,Anagram Pyramids,3,0,False,2.3333,[]
+10445,Groundwater Reserves,Groundwater Reserves,1,0,False,1.0,[]
+10446,Algorist Club,Algorist Club,18,27,False,4.3889,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10447,Deduction,Deduction,0,0,False,0.0,[]
+10448,유레카 이론,Eureka Theorem,7317,5,False,1.7355,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10449,Exploration,Exploration,0,0,False,0.0,[]
+10450,Marbles,Marbles,0,0,False,0.0,[]
+10451,순열 사이클,Permutation Cycles,9267,8,False,1.5876,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 171, 'tagSA': 'permutation_cycle_decomposition'}]"
+10452,Road Repair,Road Repair,0,0,False,0.0,[]
+10453,문자열 변환,String Transformation,518,11,False,1.7124,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+10454,세 네모,Three Squares,70,19,False,4.7286,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}]"
+10455,Torus,Torus,18,0,False,5.3889,[]
+10456,Travel Card,Travel Card,47,16,False,7.7234,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+10457,Two Yachts,Two Yachts,0,0,False,0.0,[]
+10458,How Does Your Garden Grow?,How Does Your Garden Grow?,1,0,False,1.0,[]
+10459,Compressed Words?,Compressed Words?,18,7,False,2.0556,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+10460,Java vs. Scheme Smackdown,Java vs. Scheme Smackdown,10,12,False,2.3,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+10461,Time Travel,Time Travel,1,0,False,10.0,[]
+10462,Matryoshka Dolls,Matryoshka Dolls,33,16,False,3.8788,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 148, 'tagSA': 'knapsack'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+10463,Repel,Repel,3,0,False,1.0,[]
+10464,XOR,XOR,557,12,False,1.3483,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+10465,Rolling Encryption,Rolling Encryption,65,8,False,1.9231,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+10466,Mailing Origami,Mailing Origami,26,22,False,2.5769,"[{'tagBOJ': 20, 'tagSA': 'convex_hull'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 64, 'tagSA': 'rotating_calipers'}]"
+10467,Line Sweep,Line Sweep,3,0,False,3.3333,[]
+10468,숫자뽑기게임,Pick It,53,17,False,1.7736,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+10469,사이 나쁜 여왕들,Eight Queens,228,6,False,2.7719,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+10470,빨강 검정 징검다리,Color Walk,7,22,False,1.2857,[]
+10471,공간을 만들어 봅시다,Flexible Spaces,265,4,False,1.3547,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+10472,십자뒤집기,Flip Five,659,11,False,2.3096,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+10473,인간 대포,Human Cannonball Run,675,14,False,2.0133,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+10474,분수좋아해?,Mixed Fractions,2499,3,False,1.2817,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10475,모기 넌 내꺼야,Pesky Mosquitoes,29,18,False,4.4138,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+10476,좁은 미술전시관,Narrow Art Gallery,211,11,False,2.3934,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+10477,경운기,Tractor,45,12,False,2.9333,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10478,단위,Units,34,13,False,1.9118,"[{'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+10479,따르릉 따르릉,Yikes – Bikes!,16,18,False,3.8125,"[{'tagBOJ': 100, 'tagSA': 'geometry'}]"
+10480,Oddities,Oddities,1361,2,False,1.2234,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10481,Ternarian Weights,Ternarian Weights,24,9,False,1.9167,[]
+10482,Goldbach’s Conjecture,Goldbach’s Conjecture,149,9,False,1.8054,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 67, 'tagSA': 'sieve'}]"
+10483,Shotcube,Shotcube,6,22,False,5.3333,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+10484,Erratic Ants,Erratic Ants,32,10,False,2.3438,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+10485,Plotting Polynomials,Plotting Polynomials,18,14,False,1.0556,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10486,Trapezoid Walkway,Trapezoid Walkway,20,12,False,1.85,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+10487,4 thought,4 thought,51,9,False,1.8824,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+10488,Biggest Slice,Biggest Slice,16,14,False,3.625,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+10489,Even Up Solitaire,Even Up Solitaire,53,7,False,1.1321,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+10490,Island Buses,Island Buses,16,14,False,2.1875,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+10491,Quite a problem,Quite a problem,226,4,False,2.0354,"[{'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+10492,Multi-touch gesture classification,Multi-touch gesture classification,7,17,False,4.8571,[]
+10493,Stacking Curvy Blocks,Stacking Curvy Blocks,19,16,False,2.2105,"[{'tagBOJ': 111, 'tagSA': 'calculus'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+10494,Unicycle counting,Unicycle counting,20,12,False,2.8,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+10495,Choosing Numbers,Choosing Numbers,45,7,False,2.8889,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+10496,Loopy transit,Loopy transit,14,10,False,1.4286,[]
+10497,Hitting the Targets,Hitting the Targets,77,5,False,1.1299,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+10498,Texas Summers,Texas Summers,21,12,False,1.9048,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+10499,Out of context,Out of context,3,22,False,5.3333,[]

@@ -1,0 +1,100 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+28600,Опасные игры,,1,0,False,1.0,[]
+28601,Тренировки миротворцев,,24,9,False,3.2917,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28602,Джинкс и лагерь миротворцев,,0,0,False,0.0,[]
+28603,Поезда в Зауне,,0,0,False,0.0,[]
+28604,Взрывоопасная лестница (Many),,0,0,False,0.0,[]
+28605,Взрывоопасная лестница (Once),,0,0,False,0.0,[]
+28606,Компонентная химия,,1,0,False,1.0,[]
+28607,Палиндромная шифровка,,0,0,False,0.0,[]
+28608,Магический кристалл,,4,13,False,1.75,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+28609,Магические часы,,0,0,False,0.0,[]
+28610,Магические часы (Basic),,0,0,False,0.0,[]
+28611,Оптимизация Матрицы,,0,0,False,0.0,[]
+28612,Нужно больше энергии,,0,0,False,0.0,[]
+28613,Финальное противостояние,,0,0,False,0.0,[]
+28614,Распределенная Матрица,,0,0,False,0.0,[]
+28615,Стать сильнее,,0,0,False,0.0,[]
+28616,Биомаркеры,,0,0,False,0.0,[]
+28617,Свободное перемещение,,0,0,False,0.0,[]
+28618,Подрыв ветряка,,0,0,False,0.0,[]
+28619,Производство роботов,,0,0,False,0.0,[]
+28620,Журнал квестов,,0,0,False,0.0,[]
+28621,Установка модулей GAIA,,0,0,False,0.0,[]
+28622,Подземная лаборатория,,0,0,False,0.0,[]
+28623,В погоне за Пингвином,,0,0,False,0.0,[]
+28624,Большой потоп,,0,0,False,0.0,[]
+28625,Спасительная загадка,,0,0,False,0.0,[]
+28626,Необычная ловушка,,0,0,False,0.0,[]
+28627,Важное научное число,,1,0,False,3.0,[]
+28628,Погоня за бабочкой,,1,0,False,3.0,[]
+28629,стандартный ввод,,2,0,False,1.5,[]
+28630,Починка цепочки,,0,0,False,0.0,[]
+28631,Змейка,,0,0,False,0.0,[]
+28632,Конфликт интересов,,0,0,False,0.0,[]
+28633,Урок математики,,2,0,False,1.0,[]
+28634,Школьные переписки,,0,0,False,0.0,[]
+28635,Индикатор,,2,0,False,1.0,[]
+28636,Марафонец,,96,3,False,1.125,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28637,Смена стиля,,4,0,False,1.25,[]
+28638,Результаты контеста,,22,5,False,1.8636,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+28639,"Собака, предатель и кабеля",,0,0,False,0.0,[]
+28640,Домино,,75,3,False,1.6667,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28641,Настройка коммуникаций,,0,0,False,0.0,[]
+28642,Электронный замок,,30,5,False,1.2667,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+28643,Место преступления,,0,0,False,0.0,[]
+28644,Похожие имена,,0,0,False,0.0,[]
+28645,Теория Рамсея,,0,0,False,0.0,[]
+28646,Супер-счастливые билетики,,2,0,False,1.5,[]
+28647,Супер-счастливые билетики (Basic),,8,6,False,1.875,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}]"
+28648,Торговый центр,,354,2,False,1.1554,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28649,Переливание жижи,,0,0,False,0.0,[]
+28650,Поиск пирамиды,,0,0,False,0.0,[]
+28651,Игра в Мафию,,0,0,False,0.0,[]
+28652,Японский кроссворд,,1,0,False,1.0,[]
+28653,Минимальная строка,,39,4,False,1.3077,"[{'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28654,Большое задание,,0,0,False,0.0,[]
+28655,Большой батут,,0,0,False,0.0,[]
+28656,Ксероксинатор,,1,0,False,1.0,[]
+28657,Выходной,,0,0,False,0.0,[]
+28658,Монетки,,4,12,False,1.75,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+28659,Перестроение лемуров,,0,0,False,0.0,[]
+28660,Электронный замок,,0,0,False,0.0,[]
+28661,Помогите Прапору,,0,0,False,0.0,[]
+28662,Мосты,,0,0,False,0.0,[]
+28663,Случайная задача,,0,0,False,0.0,[]
+28664,Лемурьи вечеринки,,0,0,False,0.0,[]
+28665,Лемурьи вечеринки (Prime),,0,0,False,0.0,[]
+28666,Дом в дереве,,0,0,False,0.0,[]
+28667,Дом в невысоком дереве,,0,0,False,0.0,[]
+28668,Подсчет операций,,2,0,False,1.5,[]
+28669,Черные и белые,,1,0,False,1.0,[]
+28670,Обезвреживание бомбы,,11,10,False,2.9091,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+28671,Поврежденный пароль,,0,0,False,0.0,[]
+28672,Кибер-взлом,,0,0,False,0.0,[]
+28673,Побег из здания,,0,0,False,0.0,[]
+28674,Работа из дома,,0,0,False,0.0,[]
+28675,Орехнительная строка,,0,0,False,0.0,[]
+28676,Игра с массивом,,2,21,False,2.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+28677,Гейзеры,,0,0,False,0.0,[]
+28678,Carnival General,Carnival General,0,0,False,0.0,[]
+28679,Candy,Candy,3,14,False,1.3333,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+28680,Sopsug,Sopsug,0,0,False,0.0,[]
+28682,재우야 임관하자,,355,5,False,2.1437,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 177, 'tagSA': 'probability'}]"
+28683,피타! 피타! 피타츄!,,167,11,False,2.2635,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 60, 'tagSA': 'pythagoras'}]"
+28684,감소하는 성장률의 비극 1,,26,20,False,1.8462,"[{'tagBOJ': 20, 'tagSA': 'convex_hull'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+28685,감소하는 성장률의 비극 2,,13,19,False,2.6923,"[{'tagBOJ': 20, 'tagSA': 'convex_hull'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+28686,감소하는 성장률의 비극 3,,3,25,False,1.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+28687,재우의 Pass를 사수하라!,,23,16,False,6.2609,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+28688,로봇융합관 건설,,88,19,False,2.7841,"[{'tagBOJ': 140, 'tagSA': 'game_theory'}]"
+28689,다포체수,,12,21,False,1.4167,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 209, 'tagSA': 'polynomial_interpolation'}]"
+28690,현철이의 소개팅,,5,22,False,1.0,"[{'tagBOJ': 89, 'tagSA': 'cht'}, {'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 179, 'tagSA': 'linearity_of_expectation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 177, 'tagSA': 'probability'}]"
+28691,정보보호학부 동아리 소개,,2150,1,False,1.2693,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28692,선형 회귀는 너무 쉬워 2,,123,6,False,1.6829,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28693,재우의 카드깡,,30,17,False,2.6333,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 164, 'tagSA': 'modular_multiplicative_inverse'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+28694,양말 부자 동우와 착한 하늘이,,28,16,False,1.2857,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 164, 'tagSA': 'modular_multiplicative_inverse'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 177, 'tagSA': 'probability'}, {'tagBOJ': 178, 'tagSA': 'statistics'}]"
+28695,양말 부자 동우와 츤데레 재우,,7,28,False,1.5714,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 112, 'tagSA': 'kitamasa'}, {'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 164, 'tagSA': 'modular_multiplicative_inverse'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 209, 'tagSA': 'polynomial_interpolation'}, {'tagBOJ': 177, 'tagSA': 'probability'}]"
+28696,섯섯시싀 저주 풀기,,10,20,False,1.1,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28697,오락 고!,,4,23,False,7.25,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+28698,스트릭과 쿼리,,6,22,False,2.1667,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+28699,DAGame Extreme,,6,25,False,1.1667,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 213, 'tagSA': 'dag'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 185, 'tagSA': 'differential_cryptanalysis'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 164, 'tagSA': 'modular_multiplicative_inverse'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}, {'tagBOJ': 177, 'tagSA': 'probability'}, {'tagBOJ': 70, 'tagSA': 'sprague_grundy'}, {'tagBOJ': 78, 'tagSA': 'topological_sorting'}]"

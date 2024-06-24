@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+28900,Равенство,,0,0,False,0.0,[]
+28901,Новые технологии,,1,0,False,1.0,[]
+28902,Не так грубо!,,1,0,False,1.0,[]
+28903,Вафелька,,1,0,False,1.0,[]
+28904,Урок арифметики,,1,0,False,6.0,[]
+28905,Возрастающий массив,,2,0,False,2.0,[]
+28906,Перлы и конвертер,,1,0,False,3.0,[]
+28907,Новый корабль,,8,10,False,2.0,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+28908,Новый фонтан,,0,0,False,0.0,[]
+28909,Подземелье для принцесс,,1,0,False,1.0,[]
+28910,Ландшафтный дизайн,,1,0,False,2.0,[]
+28911,Гонка,,0,0,False,0.0,[]
+28912,Подарок для Луиджи,,0,0,False,0.0,[]
+28913,Марио и параллельный мир,,0,0,False,0.0,[]
+28914,Огород Марио,,0,0,False,0.0,[]
+28915,Книжная полка,,32,4,False,2.125,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28916,Без девяток,,11,7,False,1.1818,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+28917,Восстановление пароля,,1,0,False,2.0,[]
+28918,Прибытие Таноса,,8,9,False,3.375,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}]"
+28919,Зал брони,,2,0,False,1.0,[]
+28920,Ресторан,,2,0,False,1.0,[]
+28921,Достойный финал,,1,0,False,1.0,[]
+28922,Карточная игра,,17,5,False,2.4706,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+28923,Просчет событий,,2,0,False,1.5,[]
+28924,Помогите спасти Землю!,,1,0,False,1.0,[]
+28925,Поиск корабля,,1,0,False,1.0,[]
+28926,Возвращение к домашней работе,,0,0,False,0.0,[]
+28927,Киноманы,,1136,1,False,1.2447,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28928,Макс и расстояния,,3,14,False,1.0,"[{'tagBOJ': 128, 'tagSA': 'constructive'}]"
+28929,Многочлены,,3,12,False,1.6667,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28930,Макс и Дюк,,3,24,False,2.3333,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 44, 'tagSA': 'manacher'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28931,Степенная башня Макса,,7,7,False,1.0,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+28932,Префиксы-суффиксы,,104,3,False,1.2885,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+28933,Восстановление массива,,2,17,False,1.0,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+28934,Расписание,,4,0,False,1.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+28935,Вентиляция,,4,16,False,8.0,"[{'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+28936,Треугольники,,3,10,False,1.0,"[{'tagBOJ': 100, 'tagSA': 'geometry'}]"
+28937,Подарок Диппера,,6,15,False,2.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}, {'tagBOJ': 67, 'tagSA': 'sieve'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28938,Конвейер,,1098,1,False,1.2996,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28939,Шкаф для обуви,,61,3,False,2.623,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28940,Дневник Гравити Фолз,,282,2,False,1.7021,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28941,Цифровая загадка,,13,8,False,1.6923,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+28942,Зеркало,,0,0,False,0.0,[]
+28943,В поисках неизведанного,,28,5,False,1.7857,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+28944,Тайная комната,,10,15,False,2.3,"[{'tagBOJ': 43, 'tagSA': 'lis'}]"
+28945,Починка хижины,,4,13,False,1.0,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+28946,Очередь к аттракциону,,7,8,False,2.1429,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+28947,Диппер и аппарат,,3,19,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+28948,Большой круглый стол,,3,7,False,1.0,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+28949,Помеха справа,,1,10,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 72, 'tagSA': 'queue'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+28950,Древнее заклинание,,0,16,False,0.0,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+28951,Эскалатор,,13,8,False,1.9231,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28952,Сериал,,3,16,False,1.0,"[{'tagBOJ': 89, 'tagSA': 'cht'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+28953,Парадокс с дробями,,0,21,False,0.0,"[{'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+28954,Головоломка,,0,11,False,0.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+28955,<<Кто хочет стать миллионером?>>,,45,4,False,1.5111,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}]"
+28956,Операция <<Перестановка>>,,0,14,False,0.0,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 213, 'tagSA': 'dag'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 78, 'tagSA': 'topological_sorting'}]"
+28957,Трудности переписки,,2,14,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+28958,"Таня, мячи и <<исключающее или>>",,1,13,False,2.0,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28959,Распродажа!,,2,17,False,1.5,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+28960,Плащ левитации,,254,2,False,2.2559,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28961,Доктор Стрэндж и выставка,,4,10,False,1.75,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 189, 'tagSA': 'pigeonhole_principle'}]"
+28962,Граненые стаканы,,9,11,False,1.6667,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 3, 'tagSA': 'polygon_area'}]"
+28963,Преследование,,4,13,False,2.75,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+28964,Библиотека,,8,11,False,2.625,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+28965,Магические сферы,,3,16,False,4.0,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+28966,Доктор Стрэндж и перестановка,,61,4,False,2.4262,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+28967,Послание,,44,5,False,1.1818,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28968,Знания --- сила,,9,8,False,2.3333,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28969,Путешествие сквозь миры,,23,5,False,1.3043,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28970,Карточный трюк,,2,19,False,8.0,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}, {'tagBOJ': 130, 'tagSA': 'sqrt_decomposition'}]"
+28971,Две карты,,2,21,False,4.0,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 161, 'tagSA': 'coordinate_compression'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+28972,Акромантулы,,4,12,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}]"
+28973,Разделение амулета,,33,4,False,1.0909,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28974,Волшебный чемодан,,0,0,False,0.0,[]
+28975,Волшебные существа,,8,7,False,3.75,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28976,Кольцевые дороги,,3,15,False,1.3333,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+28977,За коллективизм!,,2,12,False,2.5,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+28978,Кроссворды,,2,15,False,2.0,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+28979,Взрывопотам,,3,12,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+28980,Итоговая оценка,,17,5,False,2.2353,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+28981,Восстановление числа,,1,16,False,1.0,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 46, 'tagSA': 'mitm'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+28982,Сверкающие плюсы,,6,11,False,1.5,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+28983,Тайные комнаты,,3,10,False,1.0,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 171, 'tagSA': 'permutation_cycle_decomposition'}]"
+28984,Поиски,,16,6,False,2.8125,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 137, 'tagSA': 'case_work'}]"
+28985,Новый чемодан,,6,8,False,2.5,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+28986,Погружение в Анимус,,1,0,False,1.0,[]
+28987,Загадка древних Ассасинов,,7,8,False,2.7143,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+28988,Взлом сейфа,,0,0,False,0.0,[]
+28989,Площади и фонари,,0,0,False,0.0,[]
+28990,Бэтмен и Робин,,0,0,False,0.0,[]
+28991,Объединение Готэм-сити,,0,0,False,0.0,[]
+28992,Поймать Джокера,,0,0,False,0.0,[]
+28993,Завод,,0,0,False,0.0,[]
+28994,Замок для Адама,,16,7,False,1.625,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+28995,Перераспределение камней,,6,10,False,1.1667,"[{'tagBOJ': 106, 'tagSA': 'sweeping'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+28996,Красавица и циклы,,0,0,False,0.0,[]
+28997,Канделябра,,0,0,False,0.0,[]
+28998,Наконечник,,19,7,False,2.0526,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+28999,Логан и запросы,,13,11,False,1.0769,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"

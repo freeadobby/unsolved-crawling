@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+3100,국기 인식,ZASTAVE,91,8,False,2.4286,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3101,토끼의 이동,BROJEVI,315,13,False,3.4762,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+3102,겹치지 않는 원,KRUZNICE,66,17,False,2.1364,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+3103,순열의 순서,ASISTENT,51,21,False,3.2157,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 55, 'tagSA': 'pst'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+3104,쿠키,KOLACI,6,22,False,3.8333,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3105,벽 쌓기,CIGLE,4,0,False,14.0,[]
+3106,월급 인상,POVISICE,41,21,False,2.7561,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 150, 'tagSA': 'euler_tour_technique'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+3107,IPv6,IPv6,1355,11,False,2.7151,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3108,로고,LOGO,1170,14,False,3.1846,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+3109,빵집,PLINOVOD,6712,14,False,3.1692,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+3110,부등식,BERBA,78,13,False,3.0,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 46, 'tagSA': 'mitm'}]"
+3111,검열,CENZURA,845,17,False,4.7148,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 73, 'tagSA': 'deque'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 71, 'tagSA': 'stack'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3112,쥐덫,MISOLOVKE,2,0,False,4.5,[]
+3113,양,KLONOVI,37,16,False,2.7568,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 67, 'tagSA': 'sieve'}]"
+3114,사과와 바나나,BAGER,591,14,False,3.0102,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+3115,꽃,PCELICE,9,20,False,2.1111,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+3116,생물학자,MIKRO,36,14,False,4.5,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+3117,YouTube,YOUTUBE,514,15,False,1.8035,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}]"
+3118,과학자,STAKOR,4,22,False,12.25,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3119,울타리,OGRADA,69,20,False,4.4058,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+3120,PODJELA,PODJELA,6,0,False,2.5,[]
+3121,"빨간점, 파란점",DVAPRAVCA,92,23,False,2.2065,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+3122,IGRACI,IGRACI,4,17,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+3123,배추,KUPUS,53,14,False,2.4717,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3124,공원 산책,PARK,12,14,False,2.25,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+3125,GONDOR,GONDOR,18,12,False,1.6111,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 60, 'tagSA': 'pythagoras'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+3126,반역의 원철이,MAJMUN,18,12,False,3.7222,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+3127,JEZERO,JEZERO,2,0,False,3.5,[]
+3128,Hangman Game,VJEŠALA,31,14,False,4.5806,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3129,상범이의 은밀한 메세지,KLJUČ,36,10,False,1.9722,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3130,붙인드롬,BIPALIN,34,12,False,2.6765,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+3131,크리스마스 선물,POKLON,45,16,False,2.9111,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+3132,구조조정,TVRTKA,19,12,False,1.9474,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+3133,코끼리,SLON,112,20,False,2.2679,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 43, 'tagSA': 'lis'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+3134,A Standard Problem,A Standard Problem,3,0,False,1.6667,[]
+3135,라디오,RADIO,2236,6,False,1.6033,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+3136,평면도,ARHITEKT,114,17,False,2.7544,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 119, 'tagSA': 'euler_characteristic'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}]"
+3137,DORUCAK,DORUCAK,0,0,False,0.0,[]
+3138,STUPOVI,STUPOVI,20,8,False,1.75,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}]"
+3139,VANDAL,VANDAL,16,9,False,3.125,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+3140,GULIVER,GULIVER,15,15,False,2.2667,"[{'tagBOJ': 176, 'tagSA': '0_1_bfs'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+3141,폭발하는 공,KOLICA,5,0,False,6.4,[]
+3142,즐거운 삶을 위한 노력,POTPUNI,92,14,False,3.4891,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 67, 'tagSA': 'sieve'}]"
+3143,울타리를 치자!,OGRADA,5,0,False,1.4,[]
+3144,자석,MAGNETI,34,15,False,3.5294,"[{'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+3145,지리지도,KARTA,28,17,False,1.8571,"[{'tagBOJ': 13, 'tagSA': 'bipartite_matching'}]"
+3146,SLIKA,SLIKA,6,14,False,1.6667,[]
+3147,LIJEN,LIJEN,0,0,False,0.0,[]
+3148,빙고,BINGO,7,18,False,2.8571,"[{'tagBOJ': 46, 'tagSA': 'mitm'}]"
+3149,MRAVOGRAD,MRAVOGRAD,1,0,False,1.0,[]
+3150,NOGA,NOGA,2,0,False,1.0,[]
+3151,합이 0,Zero Sum,1654,12,False,4.3023,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+3152,예쁜 숫자,Binary Tree,56,10,False,2.625,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+3153,타워 디펜스,TORNJEVI,116,21,False,2.5603,"[{'tagBOJ': 1, 'tagSA': '2_sat'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 76, 'tagSA': 'scc'}]"
+3154,알람시계,alarm,233,5,False,2.3047,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3155,터널,tunel,35,9,False,2.1714,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3156,노래,toplista,36,11,False,2.1944,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+3157,osmo,osmo,10,12,False,3.4,[]
+3158,Sierpinski 삼각형,waclaw,43,12,False,2.2326,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3159,전구,lampice,51,18,False,1.9412,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+3160,24 성냥개비 퍼즐,sibice,18,11,False,1.4444,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3161,izbori,izbori,53,8,False,1.6038,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3162,turbo,turbo,10,8,False,2.9,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+3163,떨어지는 개미,Falling Ants,883,16,False,3.1518,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+3164,패턴,pruge,112,12,False,2.4554,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+3165,5,petice,135,13,False,4.2,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+3166,maraton,maraton,5,17,False,3.4,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+3167,기차표 검사,kontrola,61,13,False,1.9508,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+3168,stolni,stolni,18,7,False,2.0556,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+3169,테트리스 같은 게임,kockice,5,22,False,5.8,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+3170,grad,grad,14,10,False,1.9286,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+3171,크레인,kutije,2,0,False,5.0,[]
+3172,현주와 윤주의 재미있는 단어 게임,kaos,202,17,False,2.4109,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3173,karla,karla,0,0,False,0.0,[]
+3174,나누기,severina,29,19,False,3.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}]"
+3175,formule,formule,0,0,False,0.0,[]
+3176,도로 네트워크,lubenica,3078,17,False,2.6397,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+3177,크로아티아 수 읽기,super95,9,16,False,6.4444,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+3178,코코스,kokos,65,12,False,3.6462,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}]"
+3179,삼각형,trokut,17,20,False,4.5294,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+3180,banana,banana,9,0,False,2.1111,[]
+3181,줄임말 만들기,kratica,1021,4,False,1.5739,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3182,한동이는 공부가 하기 싫어!,ispit,621,8,False,1.3784,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+3183,Dates,Dates,178,4,False,1.8539,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3184,양,ovce,5537,10,False,1.5666,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+3185,kviz,kviz,26,9,False,1.8462,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3186,소변기,pisoar,210,8,False,2.6143,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+3187,양치기 꿍,koze,2608,10,False,1.4988,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+3188,nule,nule,16,10,False,2.875,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+3189,tomo,tomo,62,8,False,3.0968,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 189, 'tagSA': 'pigeonhole_principle'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+3190,뱀,zmija,22241,12,False,2.4265,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 73, 'tagSA': 'deque'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 72, 'tagSA': 'queue'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+3191,autoput,autoput,7,14,False,2.0,[]
+3192,매직 스퀘어,kvadrat,75,13,False,2.88,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+3193,공,lopta,59,12,False,2.9153,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+3194,nogomet,nogomet,10,13,False,1.4,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+3195,ribari,ribari,17,13,False,1.4706,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+3196,utrka,utrka,22,8,False,1.5,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+3197,백조의 호수,labudovi,4774,16,False,5.1736,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+3198,nagibni,nagibni,2,0,False,1.0,[]
+3199,ABCD,ABCD,45,9,False,1.8444,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"

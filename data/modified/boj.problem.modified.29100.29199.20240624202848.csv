@@ -1,0 +1,99 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+29100,Передача сообщения,,0,0,False,0.0,[]
+29101,Крестики-нолики,,0,0,False,0.0,[]
+29102,Стеки,,1,0,False,2.0,[]
+29103,Геном,,12,7,False,1.1667,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29104,Пароль,,0,0,False,0.0,[]
+29105,Забег,,7,8,False,1.2857,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+29106,Задача,,16,7,False,1.625,"[{'tagBOJ': 68, 'tagSA': 'sliding_window'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29107,Росомаха и стеллаж,,0,0,False,0.0,[]
+29108,Логины,,100,3,False,1.69,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29109,Нечетное или четное?,,0,0,False,0.0,[]
+29110,Треугольники,,0,0,False,0.0,[]
+29111,Последовательности,,0,0,False,0.0,[]
+29112,Экзамен,,0,0,False,0.0,[]
+29113,Игра в домино,,0,0,False,0.0,[]
+29114,"Беги, Альф! Беги!",,3,10,False,2.3333,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+29115,Граф,,0,0,False,0.0,[]
+29116,Маленькая шалость,,0,0,False,0.0,[]
+29117,Рутинная работа,,0,0,False,0.0,[]
+29118,Альф и доска с мелом,,0,0,False,0.0,[]
+29119,Задача для Альфа,,41,16,False,1.9024,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29120,"Ученье --- свет, а неученье --- тьма",,0,0,False,0.0,[]
+29121,Любимая строка,,2,0,False,1.0,[]
+29122,Домашнее задание,,0,0,False,0.0,[]
+29123,Новое развлечение,,0,0,False,0.0,[]
+29124,Ломать --- не строить,,0,0,False,0.0,[]
+29125,Сообщения,,0,0,False,0.0,[]
+29126,Диаграмма,,0,0,False,0.0,[]
+29127,Капитал,,16,6,False,2.0625,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29128,Поход в казино,,0,0,False,0.0,[]
+29129,Физкультурный зал,,0,0,False,0.0,[]
+29130,Стеллаж с книгами,,3,0,False,1.0,[]
+29131,Хобби,,20,5,False,1.5,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29132,Урок физкультуры,,1,0,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+29133,Фома и занимательная математика,,1,0,False,1.0,[]
+29134,Кошмар,,0,0,False,0.0,[]
+29135,Димас и конструктор,,0,0,False,0.0,[]
+29136,Бунт,,0,0,False,0.0,[]
+29137,Последовательность,,17,7,False,1.3529,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29138,Игра со строкой,,0,0,False,0.0,[]
+29139,Дерево,,0,0,False,0.0,[]
+29140,Волейбол,,0,0,False,0.0,[]
+29141,Лестница,,31,4,False,2.2258,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29142,Маньяк,,0,0,False,0.0,[]
+29143,Шифровка,,0,0,False,0.0,[]
+29144,Взлом шифра,,0,0,False,0.0,[]
+29145,Можно и отдохнуть,,0,0,False,0.0,[]
+29146,Морская баталия,,0,0,False,0.0,[]
+29147,"Допрыгни, если сможешь!",,0,0,False,0.0,[]
+29148,Cheezy dibbles,,0,0,False,0.0,[]
+29149,A→B,,44,19,False,2.4091,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+29150,기초적인 문제,,35,21,False,2.5429,"[{'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29151,2048,,18,22,False,3.7778,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}]"
+29152,디지털 트윈,,44,16,False,2.9773,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+29153,성게 밭,,44,18,False,3.4545,"[{'tagBOJ': 13, 'tagSA': 'bipartite_matching'}]"
+29154,작곡가 A의 시창 평가,,64,18,False,2.1094,"[{'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 40, 'tagSA': 'kmp'}, {'tagBOJ': 70, 'tagSA': 'sprague_grundy'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29155,개발자 지망생 구름이의 취업 뽀개기,,402,8,False,1.3607,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29156,탭 UI,,130,9,False,2.8615,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+29157,폭탄 피하기,,91,16,False,3.6154,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 38, 'tagSA': 'inclusion_and_exclusion'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+29158,큰 수 만들기 게임,,93,17,False,4.4731,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29159,케이크 두 개,,174,8,False,2.2874,"[{'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+29160,나의 FIFA 팀 가치는?,,337,9,False,2.8932,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 141, 'tagSA': 'simulation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29161,트리와 케이,,24,22,False,7.5417,"[{'tagBOJ': 188, 'tagSA': 'centroid'}, {'tagBOJ': 18, 'tagSA': 'centroid_decomposition'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+29162,북극여우는 괄호를 뒤집어,,15,25,False,3.4,"[{'tagBOJ': 69, 'tagSA': 'splay_tree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+29163,Счастье Мистера Бина,,1140,1,False,1.5904,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29164,Прогулка по парку,,8,11,False,2.0,"[{'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+29165,Мистер Бин и газета,,0,0,False,0.0,[]
+29166,Загрузка лекций,,0,0,False,0.0,[]
+29167,Муравьи-мутанты,,0,0,False,0.0,[]
+29168,Разбиение на камеры,,0,0,False,0.0,[]
+29169,Производство паутины,,0,0,False,0.0,[]
+29170,Эвакуация,,0,0,False,0.0,[]
+29171,Книжная коллекция Губки Боба,,1,0,False,1.0,[]
+29172,Ловушки,,0,0,False,0.0,[]
+29173,Занимательная игра,,1,0,False,2.0,[]
+29174,Крабсбургеры,,0,0,False,0.0,[]
+29175,Ковер,,0,0,False,0.0,[]
+29176,Воздушные шарики,,15,8,False,2.6667,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29177,Контрольная закупка,,0,0,False,0.0,[]
+29178,Торжественный парад,,0,0,False,0.0,[]
+29179,Миньоны развлекаются,,0,0,False,0.0,[]
+29180,Лотерея,,0,0,False,0.0,[]
+29181,Кубики,,24,5,False,1.7083,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+29182,Очередь в банк,,0,0,False,0.0,[]
+29183,Выборы президента,,0,0,False,0.0,[]
+29184,Пирожные,,0,0,False,0.0,[]
+29185,Счета дядюшки Скруджа,,0,0,False,0.0,[]
+29186,Фабрика,,6,9,False,2.5,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29187,Огромные прыжки,,0,0,False,0.0,[]
+29188,Каждая пони умеет писать,,0,0,False,0.0,[]
+29189,Революция,,0,0,False,0.0,[]
+29190,Стражи,,0,0,False,0.0,[]
+29191,Смит,,1,16,False,20.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+29192,Таблица,,0,0,False,0.0,[]
+29193,Башни,,0,0,False,0.0,[]
+29196,소수가 아닌 수 2,Not Decimal,538,5,False,2.5112,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29197,아침 태권도,Taekwondo,447,9,False,2.8568,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+29198,이번에는 C번이 문자열,Yet Another String Problem in C,414,8,False,1.9928,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29199,활쏘기 대결,Archery Duel,176,14,False,2.1875,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}]"

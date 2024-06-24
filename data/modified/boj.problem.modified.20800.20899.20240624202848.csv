@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+20800,Rikka with Random Tree,Rikka with Random Tree,1,0,False,1.0,[]
+20801,Rikka with New Year's Party,Rikka with New Year's Party,3,0,False,1.3333,[]
+20802,Rikka with Subsequence,Rikka with Subsequence,3,0,False,1.0,[]
+20803,Rikka with Lake,Rikka with Lake,0,0,False,0.0,[]
+20804,Rikka with Game Theory,Rikka with Game Theory,4,0,False,1.0,[]
+20805,Rikka with Storehouse,Rikka with Storehouse,2,0,False,1.5,[]
+20806,Rikka with RCPC,Rikka with RCPC,3,0,False,1.0,[]
+20807,Rikka with Book,Rikka with Book,3,0,False,1.3333,[]
+20808,Rikka with Composite Number,Rikka with Composite Number,6,0,False,1.3333,[]
+20809,Rikka with Generals,Rikka with Generals,3,0,False,1.3333,[]
+20810,Rikka with Employees,Rikka with Employees,2,0,False,1.0,[]
+20811,Öar,,62,4,False,1.0645,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+20812,Tebryggning,,23,6,False,1.3913,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+20813,Zoo,,9,10,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+20814,Planet X,,1,0,False,1.0,[]
+20815,Planetbacke,,0,0,False,0.0,[]
+20816,Cykeltävlingen,,1,0,False,1.0,[]
+20817,Konsonantkoll,,63,4,False,1.7778,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+20818,Godishalsbandet,,56,7,False,1.7321,"[{'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 68, 'tagSA': 'sliding_window'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+20819,TV-tittande,,3,0,False,2.0,[]
+20820,Rullband,,2,0,False,1.5,[]
+20821,Pariserhjulet,,3,0,False,2.0,[]
+20822,Bonsai,,2,0,False,1.0,[]
+20823,Glasspelet,,0,0,False,0.0,[]
+20824,Björnes Magasin,,1,0,False,2.0,[]
+20825,Stjärnbilder,,1,0,False,1.0,[]
+20826,Gruppindelning,,1,0,False,5.0,[]
+20827,Cellidentifikation,,1,0,False,3.0,[]
+20828,Fåglar i träd,,1,0,False,2.0,[]
+20829,Snurriga stolpar,,1,0,False,1.0,[]
+20830,Fladdermusen,,1,0,False,3.0,[]
+20831,Låssmeden,,1,0,False,1.0,[]
+20832,Lösenordsnoja,,0,0,False,0.0,[]
+20833,Kuber,,1020,2,False,1.151,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+20834,Studschiffret,,5,0,False,1.2,[]
+20835,Renoveringen,,22,7,False,1.0455,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+20836,Multationer,,2,0,False,2.0,[]
+20837,Robottävling,,11,9,False,1.0,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+20838,Avslutningsceremonin,,2,0,False,3.5,[]
+20839,Betygsättning,,836,2,False,1.9689,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+20840,Volleybollmatchen,,31,5,False,1.7097,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+20841,Skolavslutningen,,12,8,False,2.4167,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+20842,Eldberget,,10,13,False,1.0,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+20843,Brevoptimering,,2,0,False,1.0,[]
+20844,Matbeställning,,2,0,False,1.5,[]
+20845,Husbygge,,0,0,False,0.0,[]
+20846,수열과 쿼리 40,,5,26,False,5.4,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 150, 'tagSA': 'euler_tour_technique'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 69, 'tagSA': 'splay_tree'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}, {'tagBOJ': 182, 'tagSA': 'suffix_tree'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}]"
+20847,Födelsedagsmemorisering,,26,5,False,1.2692,"[{'tagBOJ': 97, 'tagSA': 'sorting'}]"
+20848,Jätten,,3,0,False,1.3333,[]
+20849,Kodkraft,,2,0,False,1.0,[]
+20850,Månresor,,1,0,False,1.0,[]
+20851,Skogsbrand,,0,0,False,0.0,[]
+20852,Lampknappar,,2,24,False,4.0,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+20853,Efterlyst,,0,0,False,0.0,[]
+20854,Poplåtar,,0,0,False,0.0,[]
+20855,Trädreklam,,0,0,False,0.0,[]
+20856,Tunnelbaneplatser,,24,6,False,1.25,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+20857,Köpa matta,,11,8,False,3.3636,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+20858,Flyttkartonger,,7,10,False,1.5714,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}]"
+20859,Brickor,,2,0,False,1.5,[]
+20860,DuTub,,5,15,False,1.0,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}]"
+20861,Skattkartan,,34,6,False,1.2647,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+20862,Femkortspelet,,0,0,False,0.0,[]
+20863,Lisp till C,,1,0,False,1.0,[]
+20864,Frukostbuffé,,0,0,False,0.0,[]
+20865,Byäldsten,,1,0,False,2.0,[]
+20866,Tornbygge,,0,0,False,0.0,[]
+20867,Rulltrappa,,692,2,False,1.5549,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+20868,Fluortanten,,23,7,False,1.3478,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+20869,Trevlig väg,,14,17,False,1.2857,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}]"
+20870,Teleportgång,,11,17,False,1.3636,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}, {'tagBOJ': 177, 'tagSA': 'probability'}]"
+20871,Vilse i tidtabellen,,2,13,False,5.5,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+20872,Cirkelskivevärlden,,0,0,False,0.0,[]
+20873,Företagsrykte,,0,0,False,0.0,[]
+20874,Guitar Hero,,0,0,False,0.0,[]
+20875,Kryssring,,0,0,False,0.0,[]
+20876,Rymdpromenad,,2,15,False,1.0,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+20877,Minigolf,,196,3,False,1.2092,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+20878,Sidnumrering,,5,16,False,1.6,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+20879,Armstöd,,3,13,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+20880,Bilda ord,,1,18,False,1.0,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}]"
+20881,Datorköp,,0,0,False,0.0,[]
+20882,Röksignaler,,9,11,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 71, 'tagSA': 'stack'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+20883,IOI-uttagning,,0,0,False,0.0,[]
+20884,Skidor,,0,0,False,0.0,[]
+20885,Snökaos,,0,0,False,0.0,[]
+20886,Snöbollskrig 2,,1,0,False,1.0,[]
+20887,Snömur,,0,0,False,0.0,[]
+20888,Kubiska boxar,,0,0,False,0.0,[]
+20889,Bitryssland,,2,14,False,1.0,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+20890,Bastubad,,2,0,False,1.5,[]
+20891,Snömurskontrollant,,0,0,False,0.0,[]
+20892,Julklappsköp,,4,18,False,1.5,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+20893,Snöbollskrig 1,,0,0,False,0.0,[]
+20894,Brobygge,,10,17,False,1.7,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+20895,Hemkör,,0,0,False,0.0,[]
+20896,Pekgälsvalsen,,0,0,False,0.0,[]
+20897,PO-arkivering,,0,0,False,0.0,[]
+20898,Labyrintkonstruktion,,0,0,False,0.0,[]
+20899,Primärfaktor,,0,0,False,0.0,[]

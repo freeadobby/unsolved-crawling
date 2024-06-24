@@ -1,0 +1,97 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+7200,Telecorp,,0,0,False,0.0,[]
+7201,Intressid,,0,0,False,0.0,[]
+7202,Meli kalikamaka,,0,0,False,0.0,[]
+7203,Toidu koostis,,0,0,False,0.0,[]
+7204,Karikakrad ja armastus,,0,0,False,0.0,[]
+7205,Poliitikud,,0,0,False,0.0,[]
+7206,Pikimad teed puus,,3,18,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 150, 'tagSA': 'euler_tour_technique'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+7207,Aadresside vastavus,,0,0,False,0.0,[]
+7208,Arvuruut,,0,0,False,0.0,[]
+7209,Protsessid,,0,0,False,0.0,[]
+7210,Rootsi laud,,12,8,False,1.25,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7211,Ringsõit,,9,13,False,1.0,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 49, 'tagSA': 'mst'}]"
+7212,Kosminė asamblėja,,12,8,False,1.1667,"[{'tagBOJ': 97, 'tagSA': 'sorting'}]"
+7213,"Akmuo, popierius, žirklės",,21,5,False,1.2381,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7214,Ateivių kojinės,,28,5,False,1.1429,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 189, 'tagSA': 'pigeonhole_principle'}]"
+7215,Ateivių kojinės,,39,5,False,1.1538,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 189, 'tagSA': 'pigeonhole_principle'}]"
+7216,Lankomumo žymėjimas,,28,6,False,1.1071,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7217,Šampūnas,,29,5,False,1.2414,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7218,Pasislėpę romėniški skaičiai,,77,3,False,1.3117,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7219,Kurjeris,,9,6,False,1.3333,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+7220,Apgavikas,,13,5,False,1.5385,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7221,Kvantinis kompiuteris,,1,0,False,1.0,[]
+7222,Kartingas,,17,7,False,2.0588,"[{'tagBOJ': 97, 'tagSA': 'sorting'}]"
+7223,Vieneto transformacija,,0,0,False,0.0,[]
+7224,Žvejyba,,18,7,False,1.9444,"[{'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 68, 'tagSA': 'sliding_window'}]"
+7225,Elektromobilis,,0,0,False,0.0,[]
+7226,Raketa,,0,0,False,0.0,[]
+7227,Vieneto transformacija,,0,0,False,0.0,[]
+7228,Melagiai,,5,13,False,1.0,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 197, 'tagSA': 'bipartite_graph'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+7229,Malkos,,5,10,False,1.0,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7230,Bitlandijos katinas,,4,13,False,1.5,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+7231,Koncertas,,3,14,False,1.6667,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+7232,Robotai,,0,0,False,0.0,[]
+7233,Medžiai,,0,0,False,0.0,[]
+7234,Unter,,2,15,False,4.5,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+7235,Rūbų kabykla,,0,0,False,0.0,[]
+7236,Vagys,,0,0,False,0.0,[]
+7237,Kortos,,0,0,False,0.0,[]
+7238,Piramidės,,17,7,False,1.2353,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7239,Pjūklas,,56,5,False,1.3393,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+7240,Rogutės,,120,3,False,1.25,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7241,Skaičiai,,69,4,False,1.1159,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+7242,Gyvūnai,,42,4,False,1.2857,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7243,Gyvūnai,,3,12,False,1.3333,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7244,Kurjeris,,12,6,False,1.25,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7245,Kurjeris,,23,4,False,1.2174,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7246,Pentago,,1,0,False,1.0,[]
+7247,Šifravimas,,16,7,False,1.0625,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7248,Žodžių grupavimas,,0,0,False,0.0,[]
+7249,Kamuoliukų kritimas,,0,0,False,0.0,[]
+7250,Plunksna,,0,0,False,0.0,[]
+7251,Puokštė,,0,0,False,0.0,[]
+7252,Rikiavimas,,0,0,False,0.0,[]
+7253,Skaitmens keitimas,,1,0,False,1.0,[]
+7254,Šokoladas,,1,0,False,1.0,[]
+7255,Sujungimas,,18,12,False,2.2222,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 49, 'tagSA': 'mst'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+7256,Torto pjaustymas,,1,0,False,1.0,[]
+7257,Žoliapjovė,,9,0,False,2.4444,[]
+7258,ASM,ASM,0,0,False,0.0,[]
+7259,Monthly railway pass,Monthly railway pass,5,15,False,1.8,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+7260,Cheap flights,Cheap flights,3,13,False,5.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}]"
+7261,Swimming competition,Swimming competition,1,13,False,3.0,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+7262,Fire drill,Fire drill,0,0,False,0.0,[]
+7263,Cutting a rectangle,Cutting a rectangle,0,0,False,0.0,[]
+7264,Apsukimas,,6,10,False,1.3333,"[{'tagBOJ': 158, 'tagSA': 'string'}]"
+7265,Herbamedžiai,,7,9,False,1.5714,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+7266,Metaprogramavimas,,4,9,False,4.5,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7267,Plaukimo varžybos,,3,12,False,1.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+7268,Televizija,,4,13,False,2.5,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+7269,Lygtys,,24,5,False,1.4583,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+7270,Keleiviai,,3,10,False,1.6667,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+7271,Viršininkai,,7,12,False,1.2857,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+7272,Keleiviai,,0,0,False,0.0,[]
+7273,Kapitonas Latvija,,0,0,False,0.0,[]
+7274,Liftas,,24,6,False,1.4583,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+7275,Skalbiniai,,41,4,False,1.1463,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7276,Lenktynės,,8,7,False,1.625,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7277,Metro,,6,10,False,4.0,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+7278,Kaladėlės,,45,4,False,1.4889,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7279,Autobusas,,141,3,False,1.1986,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7280,Kortos,,123,3,False,1.2683,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7281,Internetas,,116,3,False,1.1638,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+7286,Ancient Keyboard,Ancient Keyboard,166,4,False,1.3976,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+7287,등록,Registration,58302,1,True,1.9182,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+7288,Changing Phone Numbers,Changing Phone Numbers,2,16,False,1.5,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}]"
+7289,Entertainment,Entertainment,1,0,False,10.0,[]
+7290,Fortune at El Dorado,Fortune at El Dorado,1,0,False,7.0,[]
+7291,Griddy Hobby,Griddy Hobby,0,0,False,0.0,[]
+7292,Scrabble Scoring,Scrabble Scoring,12,8,False,1.6667,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+7293,Intercepting Missiles,Intercepting Missiles,3,18,False,6.0,"[{'tagBOJ': 13, 'tagSA': 'bipartite_matching'}, {'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+7294,Joy of Mobile Routing,Joy of Mobile Routing,0,0,False,0.0,[]
+7295,IOI Photos,IOI Photos,1,0,False,4.0,[]
+7296,Vice City,Vice City,0,0,False,0.0,[]
+7297,Fixing Codes,Fixing Codes,0,0,False,0.0,[]
+7298,Wiping Words,Wiping Words,0,0,False,0.0,[]
+7299,Food Cubes,Food Cubes,19,11,False,2.3158,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 210, 'tagSA': 'flood_fill'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"

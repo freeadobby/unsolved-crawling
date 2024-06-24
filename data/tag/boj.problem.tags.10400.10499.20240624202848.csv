@@ -1,0 +1,48 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+3,polygon_area,다각형의 넓이,area of a polygon,[{'alias': '넓이'}]
+5,backtracking,백트래킹,backtracking,"[{'alias': '백트래킹'}, {'alias': '퇴각검색'}, {'alias': '퇴각 검색'}]"
+6,combinatorics,조합론,combinatorics,"[{'alias': 'combination'}, {'alias': 'permutation'}, {'alias': 'probability'}, {'alias': '확률'}, {'alias': '순열'}]"
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+9,primality_test,소수 판정,primality test,"[{'alias': '소수'}, {'alias': '소수판별'}, {'alias': '소수판정'}, {'alias': 'prime'}]"
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+12,binary_search,이분 탐색,binary search,"[{'alias': '이분탐색'}, {'alias': '이진탐색'}]"
+14,bitmask,비트마스킹,bitmask,"[{'alias': '비트필드'}, {'alias': '비트마스크'}]"
+20,convex_hull,볼록 껍질,convex hull,[{'alias': '컨벡스헐'}]
+22,dijkstra,데이크스트라,dijkstra's,"[{'alias': '다익'}, {'alias': '다익스트라'}, {'alias': '데이크스트라'}]"
+24,divide_and_conquer,분할 정복,divide and conquer,[{'alias': 'dnc'}]
+25,dp,다이나믹 프로그래밍,dynamic programming,"[{'alias': '동적계획법'}, {'alias': '동적 계획법'}, {'alias': '다이나믹프로그래밍'}]"
+26,euclidean,유클리드 호제법,euclidean algorithm,[{'alias': '유클리드알고리즘'}]
+31,floyd_warshall,플로이드–워셜,floyd–warshall,"[{'alias': '플로이드'}, {'alias': '플로이드와셜'}, {'alias': '플로이드와샬'}]"
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+49,mst,최소 스패닝 트리,minimum spanning tree,[]
+64,rotating_calipers,회전하는 캘리퍼스,rotating calipers,[]
+65,segtree,세그먼트 트리,segment tree,"[{'alias': '구간트리'}, {'alias': '세그트리'}, {'alias': 'fenwick'}, {'alias': '펜윅'}]"
+67,sieve,에라토스테네스의 체,sieve of eratosthenes,"[{'alias': 'sieve'}, {'alias': '에라체'}, {'alias': '소수'}, {'alias': 'prime'}]"
+71,stack,스택,stack,[]
+77,suffix_array,접미사 배열과 LCP 배열,suffix array and lcp array,[]
+81,disjoint_set,분리 집합,disjoint set,"[{'alias': 'union'}, {'alias': 'find'}, {'alias': '유니온'}, {'alias': '파인드'}, {'alias': 'dsu'}]"
+95,number_theory,정수론,number theory,[]
+96,parsing,파싱,parsing,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+111,calculus,미적분학,calculus,"[{'alias': '미분'}, {'alias': '적분'}]"
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"[{'alias': '빅인티저'}, {'alias': '빅데시멀'}, {'alias': 'biginteger'}, {'alias': 'bigdecimal'}]"
+120,trees,트리,tree,[{'alias': 'trees'}]
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+123,offline_queries,오프라인 쿼리,offline queries,[{'alias': 'offlinequery'}]
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+126,bfs,너비 우선 탐색,breadth-first search,"[{'alias': 'breadthfirst'}, {'alias': 'breadth first'}]"
+127,dfs,깊이 우선 탐색,depth-first search,"[{'alias': 'depth first'}, {'alias': 'depthfirst'}]"
+128,constructive,해 구성하기,constructive,"[{'alias': 'constructive'}, {'alias': '컨스트럭티브'}, {'alias': '구성적'}]"
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+141,simulation,시뮬레이션,simulation,[]
+148,knapsack,배낭 문제,knapsack,[{'alias': '냅색'}]
+151,euler_phi,오일러 피 함수,euler totient function,"[{'alias': '오일러 파이'}, {'alias': '토션트'}, {'alias': 'eulerphi'}, {'alias': 'euler phi'}]"
+158,string,문자열,string,[{'alias': '스트링'}]
+170,parametric_search,매개 변수 탐색,parametric search,[{'alias': '파라메트릭'}]
+171,permutation_cycle_decomposition,순열 사이클 분할,permutation cycle decomposition,[]
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+215,shortest_path,최단 경로,shortest path,[]

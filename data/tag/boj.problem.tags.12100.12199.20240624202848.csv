@@ -1,0 +1,44 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+5,backtracking,백트래킹,backtracking,"[{'alias': '백트래킹'}, {'alias': '퇴각검색'}, {'alias': '퇴각 검색'}]"
+6,combinatorics,조합론,combinatorics,"[{'alias': 'combination'}, {'alias': 'permutation'}, {'alias': 'probability'}, {'alias': '확률'}, {'alias': '순열'}]"
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+12,binary_search,이분 탐색,binary search,"[{'alias': '이분탐색'}, {'alias': '이진탐색'}]"
+14,bitmask,비트마스킹,bitmask,"[{'alias': '비트필드'}, {'alias': '비트마스크'}]"
+16,burnside,번사이드 보조정리,burnside's lemma,[]
+20,convex_hull,볼록 껍질,convex hull,[{'alias': '컨벡스헐'}]
+22,dijkstra,데이크스트라,dijkstra's,"[{'alias': '다익'}, {'alias': '다익스트라'}, {'alias': '데이크스트라'}]"
+25,dp,다이나믹 프로그래밍,dynamic programming,"[{'alias': '동적계획법'}, {'alias': '동적 계획법'}, {'alias': '다이나믹프로그래밍'}]"
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+38,inclusion_and_exclusion,포함 배제의 원리,inclusion and exclusion,[]
+40,kmp,KMP,knuth–morris–pratt,[]
+45,flow,최대 유량,maximum flow,"[{'alias': 'dinic'}, {'alias': 'dinitz'}, {'alias': 'ford'}, {'alias': 'fulkerson'}, {'alias': 'fordfulkerson'}, {'alias': '디닉'}, {'alias': '디니츠'}, {'alias': '포드풀커슨'}, {'alias': '플로우'}]"
+59,priority_queue,우선순위 큐,priority queue,"[{'alias': 'heap'}, {'alias': '힙'}]"
+70,sprague_grundy,스프라그–그런디 정리,sprague–grundy theorem,"[{'alias': '님버'}, {'alias': 'nimber'}]"
+80,two_pointer,두 포인터,two-pointer,"[{'alias': '투포인터'}, {'alias': '인치웜'}, {'alias': 'inchworm'}, {'alias': 'twopointer'}]"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"[{'alias': '동적계획법'}, {'alias': '비트마스크'}, {'alias': '비트dp'}]"
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"[{'alias': '빅인티저'}, {'alias': '빅데시멀'}, {'alias': 'biginteger'}, {'alias': 'bigdecimal'}]"
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+126,bfs,너비 우선 탐색,breadth-first search,"[{'alias': 'breadthfirst'}, {'alias': 'breadth first'}]"
+127,dfs,깊이 우선 탐색,depth-first search,"[{'alias': 'depth first'}, {'alias': 'depthfirst'}]"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': '해싱'}, {'alias': 'hashing'}, {'alias': 'dict'}]"
+137,case_work,많은 조건 분기,case work,"[{'alias': '케이스'}, {'alias': '케이스워크'}, {'alias': '케이스 워크'}]"
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+140,game_theory,게임 이론,game theory,"[{'alias': '게임이론'}, {'alias': '님'}, {'alias': 'nim'}]"
+141,simulation,시뮬레이션,simulation,[]
+148,knapsack,배낭 문제,knapsack,[{'alias': '냅색'}]
+158,string,문자열,string,[{'alias': '스트링'}]
+167,mfmc,최대 유량 최소 컷 정리,max-flow min-cut theorem,[]
+170,parametric_search,매개 변수 탐색,parametric search,[{'alias': '파라메트릭'}]
+172,precomputation,런타임 전의 전처리,precomputation,"[{'alias': 'lookup table'}, {'alias': 'db'}, {'alias': 'database'}]"
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+177,probability,확률론,probability theory,"[{'alias': 'expected value'}, {'alias': '기대값'}, {'alias': '기댓값'}]"
+179,linearity_of_expectation,기댓값의 선형성,linearity of expectation,[]
+215,shortest_path,최단 경로,shortest path,[]

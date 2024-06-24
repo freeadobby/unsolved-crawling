@@ -1,0 +1,23 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+6,combinatorics,조합론,combinatorics,"[{'alias': 'combination'}, {'alias': 'permutation'}, {'alias': 'probability'}, {'alias': '확률'}, {'alias': '순열'}]"
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+39,exponentiation_by_squaring,분할 정복을 이용한 거듭제곱,exponentiation by squaring,"[{'alias': '거듭제곱'}, {'alias': '제곱'}, {'alias': 'power'}, {'alias': 'square'}]"
+72,queue,큐,queue,[]
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': 'bbst'}, {'alias': '트리'}, {'alias': 'tree'}]"
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"[{'alias': '빅인티저'}, {'alias': '빅데시멀'}, {'alias': 'biginteger'}, {'alias': 'bigdecimal'}]"
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+126,bfs,너비 우선 탐색,breadth-first search,"[{'alias': 'breadthfirst'}, {'alias': 'breadth first'}]"
+128,constructive,해 구성하기,constructive,"[{'alias': 'constructive'}, {'alias': '컨스트럭티브'}, {'alias': '구성적'}]"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': '해싱'}, {'alias': 'hashing'}, {'alias': 'dict'}]"
+141,simulation,시뮬레이션,simulation,[]
+158,string,문자열,string,[{'alias': '스트링'}]
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+177,probability,확률론,probability theory,"[{'alias': 'expected value'}, {'alias': '기대값'}, {'alias': '기댓값'}]"

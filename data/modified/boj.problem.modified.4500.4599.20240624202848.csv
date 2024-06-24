@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+4500,"“Bubble Gum, Bubble Gum, in the dish, how many pieces do you wish?”","“Bubble Gum, Bubble Gum, in the dish, how many pieces do you wish?”",115,5,False,1.113,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4501,Games R Us,Games R Us,4,10,False,1.0,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4502,Cover Up,Cover Up,0,0,False,0.0,[]
+4503,구슬,Bridged Marble Rings,8,18,False,4.375,"[{'tagBOJ': 176, 'tagSA': '0_1_bfs'}, {'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+4504,배수 찾기,Find Multiples,5106,3,False,1.8566,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+4505,Car Racing,Car Racing,0,0,False,0.0,[]
+4506,All Your Base,All Your Base,3,12,False,2.6667,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4507,단어와 주기율표,"Periodic, My Dear Watson",6,14,False,2.6667,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+4508,This is Halloween: Saving Money,This is Halloween: Saving Money,14,7,False,1.8571,"[{'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4509,Coffin Tiles,Coffin Tiles,13,8,False,1.3846,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 67, 'tagSA': 'sieve'}]"
+4510,Thinking Inside the Box,Thinking Inside the Box,5,11,False,1.6,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4511,Lightbulb Testing,Lightbulb Testing,0,0,False,0.0,[]
+4512,Operation: Merchant Boorinei,Operation: Merchant Boorinei,0,0,False,0.0,[]
+4513,The Neptune Adventure,The Neptune Adventure,4,14,False,3.25,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+4514,Phil In the Blanks,Phil In the Blanks,1,0,False,2.0,[]
+4515,"Honeycomb, Honeycomb, Me Want Honeycomb!","Honeycomb, Honeycomb, Me Want Honeycomb!",2,0,False,1.0,[]
+4516,YO!,YO!,0,0,False,0.0,[]
+4517,Barcode of Judgment,Barcode of Judgment,6,0,False,1.3333,[]
+4518,Frenemies,Frenemies,0,0,False,0.0,[]
+4519,Know When to Hold Them,Know When to Hold Them,0,0,False,0.0,[]
+4520,I'm Attacking the Darkness!,I'm Attacking the Darkness!,9,12,False,2.5556,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4521,Rank and File,Rank and File,0,0,False,0.0,[]
+4522,The Extent of the Problem,The Extent of the Problem,0,0,False,0.0,[]
+4523,Filtration,Filtration,0,0,False,0.0,[]
+4524,Like Water for Clay,Like Water for Clay,0,0,False,0.0,[]
+4525,Wandering Aimlessly,Wandering Aimlessly,0,0,False,0.0,[]
+4526,Cables ... in Spaaace!,Cables ... in Spaaace!,0,0,False,0.0,[]
+4527,Patterns and Pictures,Patterns and Pictures,52,4,False,1.1346,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+4528,No Wormholes Were Harmed...,No Wormholes Were Harmed...,0,0,False,0.0,[]
+4529,Tribute (Editor),Tribute (Editor),1,0,False,2.0,[]
+4530,1은 흥미로운 숫자,One is an Interesting Number,21,10,False,3.8571,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 67, 'tagSA': 'sieve'}]"
+4531,Verdis Quo,Verdis Quo,45,10,False,1.4889,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4532,The Screen Behind the Mirror,The Screen Behind the Mirror,0,0,False,0.0,[]
+4533,Another Brick in the Wall,Another Brick in the Wall,1,17,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 168, 'tagSA': 'planar_graph'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+4534,The Sidewinder Sleeps Tonite,The Sidewinder Sleeps Tonite,5,12,False,1.0,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4535,Rout 66,Rout 66,0,0,False,0.0,[]
+4536,Schottkey 7th Path,Schottkey 7th Path,0,0,False,0.0,[]
+4537,Another Version of the Truth,Another Version of the Truth,0,0,False,0.0,[]
+4538,The Final Countdown,The Final Countdown,17,11,False,2.5294,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4539,반올림,Rounders,786,5,False,1.3944,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+4540,Q,Q,66,7,False,1.5,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4541,Enigmatologically Cruciverbalistic,Enigmatologically Cruciverbalistic,1,0,False,1.0,[]
+4542,Blue Jeans,Blue Jeans,26,6,False,1.8077,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4543,Core Wars,Core Wars,1,0,False,1.0,[]
+4544,'Roid Rage,'Roid Rage,3,17,False,2.0,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 42, 'tagSA': 'line_intersection'}, {'tagBOJ': 57, 'tagSA': 'point_in_non_convex_polygon'}]"
+4545,Children of the Candy Corn,Children of the Candy Corn,7,13,False,1.0,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+4546,Panic Room,Panic Room,5,18,False,1.4,"[{'tagBOJ': 45, 'tagSA': 'flow'}]"
+4547,Plinko,Plinko,0,0,False,0.0,[]
+4548,Defining Moment,Defining Moment,18,8,False,2.1111,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4549,Jetpack Sniper 3000 Fragfest Extreme,Jetpack Sniper 3000 Fragfest Extreme,0,0,False,0.0,[]
+4550,Pegs,Pegs,12,13,False,3.25,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+4551,Janken Tactics,Janken Tactics,0,0,False,0.0,[]
+4552,Bingo!,Bingo!,7,9,False,1.7143,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+4553,Artificial Strife,Artificial Strife,1,14,False,1.0,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+4554,It's My Derivative,It's My Derivative,8,13,False,2.875,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4555,MisLED,MisLED,2,18,False,4.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 137, 'tagSA': 'case_work'}]"
+4556,Relative Relatives,Relative Relatives,11,9,False,1.3636,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+4557,Syntax Included,Syntax Included,11,13,False,1.6364,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 63, 'tagSA': 'regex'}, {'tagBOJ': 71, 'tagSA': 'stack'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4558,Choose Your Own Adventure,Choose Your Own Adventure,1,0,False,1.0,[]
+4559,Know When to Hold 'em,Know When to Hold 'em,0,0,False,0.0,[]
+4560,Cubic Rube,Cubic Rube,2,19,False,2.5,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4561,As the Crow Flies,As the Crow Flies,2,13,False,4.0,"[{'tagBOJ': 7, 'tagSA': 'graphs'}]"
+4562,No Brainer,No Brainer,3319,2,False,1.3823,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4563,리벤지 오브 피타고라스,Pythagoras's Revenge,199,11,False,1.2563,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 60, 'tagSA': 'pythagoras'}]"
+4564,숫자 카드놀이,Digit Solitaire,1149,4,False,1.3594,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+4565,Any Way You Slice It,Any Way You Slice It,0,0,False,0.0,[]
+4566,Is the Name of This Problem,Is the Name of This Problem,82,5,False,2.4634,"[{'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4567,The Mark of a Wizard,The Mark of a Wizard,7,0,False,6.8571,[]
+4568,LRU Caching,LRU Caching,92,11,False,2.25,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4569,Jugglefest,Jugglefest,18,6,False,1.0556,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+4570,Bounce,Bounce,1,0,False,5.0,[]
+4571,Grade School Multiplication,Grade School Multiplication,30,8,False,1.5667,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4572,Laser Tag,Laser Tag,0,0,False,0.0,[]
+4573,Pizza Pricing,Pizza Pricing,130,5,False,1.1769,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+4574,스도미노쿠,Su-domino-ku,837,15,False,2.2043,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4575,Refrigerator Magnets,Refrigerator Magnets,219,4,False,1.2466,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4576,Shut the Box,Shut the Box,3,15,False,1.0,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}]"
+4577,소코반,Sokoban,479,13,False,3.5073,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+4578,Crash and Go(relians),Crash and Go(relians),0,0,False,0.0,[]
+4579,Judges' Time Calculation,Judges' Time Calculation,2,0,False,2.5,[]
+4580,Mad Scientist,Mad Scientist,118,4,False,1.0678,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4581,Voting,Voting,219,4,False,1.2329,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4582,Queen Collisions,Queen Collisions,14,8,False,1.7857,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4583,거울상,"Mirror, Mirror on the Wall",540,4,False,1.6167,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4584,Top This,Top This,1,0,False,1.0,[]
+4585,Quick Search,Quick Search,3,0,False,1.3333,[]
+4586,Image Compression,Image Compression,25,10,False,1.56,"[{'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}]"
+4587,이집트 분수,Egyptian Fractions,97,10,False,2.701,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+4588,Up and Down,Up and Down,1,0,False,2.0,[]
+4589,Gnome Sequencing,Gnome Sequencing,1949,2,False,1.5259,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4590,DuLL,DuLL,4,10,False,1.0,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+4591,Black Vienna,Black Vienna,0,0,False,0.0,[]
+4592,중복을 없애자,Duplicate Removal,1462,4,False,1.5219,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+4593,"Rock, Paper, Scissors","Rock, Paper, Scissors",314,4,False,1.2261,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4594,A to Z Numerals,A to Z Numerals,0,0,False,0.0,[]
+4595,Cell Towers,Cell Towers,0,0,False,0.0,[]
+4596,RIPOFF,RIPOFF,15,11,False,1.4,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+4597,패리티,Parity,1294,4,False,1.2473,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+4598,Lampyridae Teleportae,Lampyridae Teleportae,20,7,False,2.4,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+4599,Hex Tile Equations,Hex Tile Equations,1,0,False,1.0,[]

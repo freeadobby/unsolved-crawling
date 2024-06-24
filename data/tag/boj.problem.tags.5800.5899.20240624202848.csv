@@ -1,0 +1,66 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+5,backtracking,백트래킹,backtracking,"[{'alias': '백트래킹'}, {'alias': '퇴각검색'}, {'alias': '퇴각 검색'}]"
+7,graphs,그래프 이론,graph theory,"[{'alias': '그래프이론'}, {'alias': '그래프'}]"
+10,bellman_ford,벨만–포드,bellman–ford,"[{'alias': 'bellmanford'}, {'alias': '벨만포드'}, {'alias': 'spfa'}]"
+11,graph_traversal,그래프 탐색,graph traversal,"[{'alias': 'bfs'}, {'alias': 'dfs'}]"
+12,binary_search,이분 탐색,binary search,"[{'alias': '이분탐색'}, {'alias': '이진탐색'}]"
+14,bitmask,비트마스킹,bitmask,"[{'alias': '비트필드'}, {'alias': '비트마스크'}]"
+18,centroid_decomposition,센트로이드 분할,centroid decomposition,[{'alias': '센트로이드'}]
+22,dijkstra,데이크스트라,dijkstra's,"[{'alias': '다익'}, {'alias': '다익스트라'}, {'alias': '데이크스트라'}]"
+24,divide_and_conquer,분할 정복,divide and conquer,[{'alias': 'dnc'}]
+25,dp,다이나믹 프로그래밍,dynamic programming,"[{'alias': '동적계획법'}, {'alias': '동적 계획법'}, {'alias': '다이나믹프로그래밍'}]"
+26,euclidean,유클리드 호제법,euclidean algorithm,[{'alias': '유클리드알고리즘'}]
+31,floyd_warshall,플로이드–워셜,floyd–warshall,"[{'alias': '플로이드'}, {'alias': '플로이드와셜'}, {'alias': '플로이드와샬'}]"
+33,greedy,그리디 알고리즘,greedy,[{'alias': '탐욕법'}]
+40,kmp,KMP,knuth–morris–pratt,[]
+41,lca,최소 공통 조상,lowest common ancestor,[]
+45,flow,최대 유량,maximum flow,"[{'alias': 'dinic'}, {'alias': 'dinitz'}, {'alias': 'ford'}, {'alias': 'fulkerson'}, {'alias': 'fordfulkerson'}, {'alias': '디닉'}, {'alias': '디니츠'}, {'alias': '포드풀커슨'}, {'alias': '플로우'}]"
+46,mitm,중간에서 만나기,meet in the middle,[]
+48,mcmf,최소 비용 최대 유량,minimum cost maximum flow,"[{'alias': 'dinic'}, {'alias': 'dinitz'}, {'alias': 'ford'}, {'alias': 'fulkerson'}, {'alias': 'fordfulkerson'}, {'alias': '디닉'}, {'alias': '디니츠'}, {'alias': '포드풀커슨'}]"
+49,mst,최소 스패닝 트리,minimum spanning tree,[]
+57,point_in_non_convex_polygon,오목 다각형 내부의 점 판정,point in non-convex polygon check,[]
+59,priority_queue,우선순위 큐,priority queue,"[{'alias': 'heap'}, {'alias': '힙'}]"
+65,segtree,세그먼트 트리,segment tree,"[{'alias': '구간트리'}, {'alias': '세그트리'}, {'alias': 'fenwick'}, {'alias': '펜윅'}]"
+66,lazyprop,느리게 갱신되는 세그먼트 트리,segment tree with lazy propagation,"[{'alias': '레이지'}, {'alias': '레이지프로퍼게이션'}, {'alias': '레이지프로파게이션'}, {'alias': '구간트리'}, {'alias': 'fenwick'}, {'alias': '펜윅'}]"
+68,sliding_window,슬라이딩 윈도우,sliding window,[{'alias': '슬라이딩윈도'}]
+71,stack,스택,stack,[]
+72,queue,큐,queue,[]
+73,deque,덱,deque,[]
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': 'bbst'}, {'alias': '트리'}, {'alias': 'tree'}]"
+78,topological_sorting,위상 정렬,topological sorting,[]
+79,trie,트라이,trie,[]
+80,two_pointer,두 포인터,two-pointer,"[{'alias': '투포인터'}, {'alias': '인치웜'}, {'alias': 'inchworm'}, {'alias': 'twopointer'}]"
+81,disjoint_set,분리 집합,disjoint set,"[{'alias': 'union'}, {'alias': 'find'}, {'alias': '유니온'}, {'alias': '파인드'}, {'alias': 'dsu'}]"
+84,sparse_table,희소 배열,sparse table,"[{'alias': '스파스어레이'}, {'alias': 'sparse table'}]"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"[{'alias': '동적계획법'}, {'alias': '비트마스크'}, {'alias': '비트dp'}]"
+92,dp_tree,트리에서의 다이나믹 프로그래밍,dynamic programming on trees,[{'alias': '트리dp'}]
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,[{'alias': '라인 스위핑'}]
+108,dp_deque,덱을 이용한 다이나믹 프로그래밍,dynamic programming using a deque,"[{'alias': '동적계획법'}, {'alias': '덱dp'}]"
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"[{'alias': '빅인티저'}, {'alias': '빅데시멀'}, {'alias': 'biginteger'}, {'alias': 'bigdecimal'}]"
+120,trees,트리,tree,[{'alias': 'trees'}]
+121,arithmetic,사칙연산,arithmetic,"[{'alias': '덧셈'}, {'alias': '뺄셈'}, {'alias': '곱셈'}, {'alias': '나눗셈'}, {'alias': '더하기'}, {'alias': '빼기'}, {'alias': '곱하기'}, {'alias': '나누기'}]"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"[{'alias': '완전탐색'}, {'alias': '완전 탐색'}, {'alias': '브루트포스'}, {'alias': 'bruteforce'}, {'alias': 'brute force'}, {'alias': '완탐'}]"
+126,bfs,너비 우선 탐색,breadth-first search,"[{'alias': 'breadthfirst'}, {'alias': 'breadth first'}]"
+127,dfs,깊이 우선 탐색,depth-first search,"[{'alias': 'depth first'}, {'alias': 'depthfirst'}]"
+128,constructive,해 구성하기,constructive,"[{'alias': 'constructive'}, {'alias': '컨스트럭티브'}, {'alias': '구성적'}]"
+130,sqrt_decomposition,제곱근 분할법,square root decomposition,"[{'alias': '루트분할법'}, {'alias': '평방분할법'}, {'alias': '모'}, {'alias': 'mo'}, {'alias': 'sqrt'}]"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"[{'alias': '집합'}, {'alias': '맵'}, {'alias': '셋'}, {'alias': '딕셔너리'}, {'alias': 'dictionary'}, {'alias': 'map'}, {'alias': 'set'}, {'alias': '해싱'}, {'alias': 'hashing'}, {'alias': 'dict'}]"
+137,case_work,많은 조건 분기,case work,"[{'alias': '케이스'}, {'alias': '케이스워크'}, {'alias': '케이스 워크'}]"
+138,tsp,외판원 순회 문제,travelling salesman problem,[{'alias': '외판원순회'}]
+139,prefix_sum,누적 합,prefix sum,"[{'alias': '구간합'}, {'alias': '부분합'}, {'alias': 'rangesum'}]"
+141,simulation,시뮬레이션,simulation,[]
+142,heuristics,휴리스틱,heuristics,[]
+158,string,문자열,string,[{'alias': '스트링'}]
+161,coordinate_compression,값 / 좌표 압축,value / coordinate compression,[{'alias': 'zip'}]
+169,smaller_to_larger,작은 집합에서 큰 집합으로 합치는 테크닉,smaller to larger technique,"[{'alias': 'merge heuristics'}, {'alias': 'sack'}, {'alias': 'small to large'}, {'alias': '작은거'}, {'alias': '큰거'}]"
+175,data_structures,자료 구조,data structures,"[{'alias': '자료구조'}, {'alias': '자구'}]"
+176,0_1_bfs,0-1 너비 우선 탐색,0-1 bfs,[]
+188,centroid,센트로이드,centroid,[]
+213,dag,방향 비순환 그래프,directed acyclic graph,[]
+215,shortest_path,최단 경로,shortest path,[]
+216,deque_trick,덱을 이용한 구간 최댓값 트릭,deque range maximum trick,[]
