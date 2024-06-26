@@ -1,0 +1,24 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+9,primality_test,소수 판정,primality test,"['소수', '소수판별', '소수판정', 'prime']"
+12,binary_search,이분 탐색,binary search,"['이분탐색', '이진탐색']"
+14,bitmask,비트마스킹,bitmask,"['비트필드', '비트마스크']"
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+44,manacher,매내처,manacher's,[]
+67,sieve,에라토스테네스의 체,sieve of eratosthenes,"['sieve', '에라체', '소수', 'prime']"
+68,sliding_window,슬라이딩 윈도우,sliding window,['슬라이딩윈도']
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', 'bbst', '트리', 'tree']"
+80,two_pointer,두 포인터,two-pointer,"['투포인터', '인치웜', 'inchworm', 'twopointer']"
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+124,math,수학,mathematics,[]
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+147,discrete_sqrt,이산 제곱근,discrete square root,['루트']
+158,string,문자열,string,['스트링']
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"

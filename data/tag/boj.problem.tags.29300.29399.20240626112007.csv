@@ -1,0 +1,23 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+39,exponentiation_by_squaring,분할 정복을 이용한 거듭제곱,exponentiation by squaring,"['거듭제곱', '제곱', 'power', 'square']"
+72,queue,큐,queue,[]
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', 'bbst', '트리', 'tree']"
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"['빅인티저', '빅데시멀', 'biginteger', 'bigdecimal']"
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+126,bfs,너비 우선 탐색,breadth-first search,"['breadthfirst', 'breadth first']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+141,simulation,시뮬레이션,simulation,[]
+158,string,문자열,string,['스트링']
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+177,probability,확률론,probability theory,"['expected value', '기대값', '기댓값']"

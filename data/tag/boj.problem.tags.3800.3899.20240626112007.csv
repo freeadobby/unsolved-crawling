@@ -1,0 +1,63 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+1,2_sat,2-sat,2-sat,"['투셋', 'twosat', '2sat']"
+3,polygon_area,다각형의 넓이,area of a polygon,['넓이']
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+9,primality_test,소수 판정,primality test,"['소수', '소수판별', '소수판정', 'prime']"
+10,bellman_ford,벨만–포드,bellman–ford,"['bellmanford', '벨만포드', 'spfa']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+12,binary_search,이분 탐색,binary search,"['이분탐색', '이진탐색']"
+14,bitmask,비트마스킹,bitmask,"['비트필드', '비트마스크']"
+16,burnside,번사이드 보조정리,burnside's lemma,[]
+20,convex_hull,볼록 껍질,convex hull,['컨벡스헐']
+22,dijkstra,데이크스트라,dijkstra's,"['다익', '다익스트라', '데이크스트라']"
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+32,gaussian_elimination,가우스 소거법,gaussian elimination,[]
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+39,exponentiation_by_squaring,분할 정복을 이용한 거듭제곱,exponentiation by squaring,"['거듭제곱', '제곱', 'power', 'square']"
+40,kmp,KMP,knuth–morris–pratt,[]
+42,line_intersection,선분 교차 판정,line segment intersection check,[]
+45,flow,최대 유량,maximum flow,"['dinic', 'dinitz', 'ford', 'fulkerson', 'fordfulkerson', '디닉', '디니츠', '포드풀커슨', '플로우']"
+49,mst,최소 스패닝 트리,minimum spanning tree,[]
+56,point_in_convex_polygon,볼록 다각형 내부의 점 판정,point in convex polygon check,[]
+62,recursion,재귀,recursion,[]
+65,segtree,세그먼트 트리,segment tree,"['구간트리', '세그트리', 'fenwick', '펜윅']"
+67,sieve,에라토스테네스의 체,sieve of eratosthenes,"['sieve', '에라체', '소수', 'prime']"
+73,deque,덱,deque,[]
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', 'bbst', '트리', 'tree']"
+76,scc,강한 연결 요소,strongly connected component,[]
+77,suffix_array,접미사 배열과 LCP 배열,suffix array and lcp array,[]
+81,disjoint_set,분리 집합,disjoint set,"['union', 'find', '유니온', '파인드', 'dsu']"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"['동적계획법', '비트마스크', '비트dp']"
+95,number_theory,정수론,number theory,[]
+96,parsing,파싱,parsing,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+101,ternary_search,삼분 탐색,ternary search,[]
+102,implementation,구현,implementation,[]
+104,matroid,매트로이드,matroid,[]
+106,sweeping,스위핑,sweeping,['라인 스위핑']
+109,ad_hoc,애드 혹,ad-hoc,[]
+111,calculus,미적분학,calculus,"['미분', '적분']"
+115,randomization,무작위화,randomization,['랜덤']
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+126,bfs,너비 우선 탐색,breadth-first search,"['breadthfirst', 'breadth first']"
+127,dfs,깊이 우선 탐색,depth-first search,"['depth first', 'depthfirst']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+131,geometry_3d,3차원 기하학,geometry; 3d,[]
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+141,simulation,시뮬레이션,simulation,[]
+142,heuristics,휴리스틱,heuristics,[]
+144,linear_algebra,선형대수학,linear algebra,['선형대수']
+148,knapsack,배낭 문제,knapsack,['냅색']
+158,string,문자열,string,['스트링']
+161,coordinate_compression,값 / 좌표 압축,value / coordinate compression,['zip']
+164,modular_multiplicative_inverse,모듈로 곱셈 역원,modular multiplicative inverse,['modinv']
+170,parametric_search,매개 변수 탐색,parametric search,['파라메트릭']
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+177,probability,확률론,probability theory,"['expected value', '기대값', '기댓값']"
+190,half_plane_intersection,반평면 교집합,half plane intersection,[]
+215,shortest_path,최단 경로,shortest path,[]

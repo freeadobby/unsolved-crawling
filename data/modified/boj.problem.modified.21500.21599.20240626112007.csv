@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+21500,Памятник,,2,17,False,1.0,"[{'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+21501,Вышивка жемчугом,,4,16,False,2.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 119, 'tagSA': 'euler_characteristic'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+21502,Пингвиноведение,,4,23,False,2.75,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 48, 'tagSA': 'mcmf'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}]"
+21503,Поможем дикой природе,,1,0,False,2.0,[]
+21504,Подводная лодка,,1,0,False,1.0,[]
+21505,Фонари,,2,0,False,3.0,[]
+21506,Сигнализация,,5,0,False,6.8,[]
+21507,POBEDA-2014,,118,4,False,3.1864,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+21508,Список школ,,23,7,False,2.0435,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 63, 'tagSA': 'regex'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+21509,Межрегиональная олимпиада,,0,0,False,0.0,[]
+21510,Дом Мэра,,0,0,False,0.0,[]
+21511,Светофоры,,10,11,False,4.7,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+21512,Кондиционеры,,12,10,False,1.6667,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+21513,Конфеты,,0,0,False,0.0,[]
+21514,Волонтеры,,0,0,False,0.0,[]
+21515,Автомат с игрушками,,0,0,False,0.0,[]
+21516,Робинзон и крокодилы,,2,0,False,2.5,[]
+21517,Петя и Робот,,0,0,False,0.0,[]
+21518,Коллайдер 2.0,,0,0,False,0.0,[]
+21519,Киноакадемия,,8,8,False,1.25,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+21520,Съезд кинозвёзд - 1,,4,0,False,4.25,[]
+21521,Съезд кинозвёзд - 2,,4,0,False,2.5,[]
+21522,Съезд кинозвёзд - 3,,4,0,False,1.25,[]
+21523,Съезд кинозвёзд - 4,,5,0,False,1.8,[]
+21524,Съезд кинозвёзд - 5,,4,0,False,1.0,[]
+21525,Съезд кинозвёзд - 6,,5,0,False,1.0,[]
+21526,Съезд кинозвёзд - 7,,1,0,False,1.0,[]
+21527,Здоровое питание,,1,0,False,2.0,[]
+21528,Магистраль <<Урал>>,,3,0,False,2.3333,[]
+21529,Кастинг,,55,4,False,1.7818,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+21530,Города,,35,5,False,1.4286,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+21531,A + B = C,,9,15,False,2.3333,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+21532,Березовая аллея,,0,0,False,0.0,[]
+21533,Игральные кубики,,27,6,False,1.4815,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+21534,Имена,,9,12,False,1.4444,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+21535,Две окружности,,0,0,False,0.0,[]
+21536,Столицы,,0,0,False,0.0,[]
+21537,Хоккей на Урале,,1,0,False,1.0,[]
+21538,Робот-сборщик,,0,0,False,0.0,[]
+21539,Графический редактор <<Хамелеон>>,,0,0,False,0.0,[]
+21540,Древние династии,,1,0,False,1.0,[]
+21541,Звёздный путь,,0,0,False,0.0,[]
+21542,Морской бой,,0,0,False,0.0,[]
+21543,Массовый прогноз,,1,22,False,2.0,"[{'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+21544,Флешмоб,,0,0,False,0.0,[]
+21545,Перфокарты,,10,14,False,2.3,"[{'tagBOJ': 213, 'tagSA': 'dag'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 78, 'tagSA': 'topological_sorting'}]"
+21546,Родные просторы,,7,25,False,3.1429,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}]"
+21547,Игра с тайным смыслом,,1,0,False,26.0,[]
+21548,Доклад инвесторам,,11,25,False,6.8182,[]
+21549,Московские числа,,14,16,False,2.8571,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+21550,Гаджеты на дереве,,22,19,False,2.5,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+21551,Вырубка деревьев,,8,26,False,5.125,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+21552,Блогеры-путешественники,,14,26,False,3.5714,"[{'tagBOJ': 153, 'tagSA': 'biconnected_component'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+21553,암호 만들기,,512,3,False,1.5352,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+21554,마법의 돌 장난감,,118,7,False,2.4322,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+21555,빛의 돌 옮기기,,159,9,False,1.7799,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+21556,우물 파기,,48,15,False,3.3958,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}]"
+21557,불꽃놀이,,206,7,False,2.0777,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+21558,전쟁 준비하기,,21,10,False,1.4286,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+21559,암호 찾기,,55,16,False,2.7818,"[{'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+21560,마법의 돌 조각 연구,,9,21,False,6.7778,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+21561,빛의 돌 시뮬레이션,,1,0,False,1.0,[]
+21562,우물 유적 발굴하기,,20,19,False,6.05,"[{'tagBOJ': 128, 'tagSA': 'constructive'}]"
+21563,원형 불꽃놀이,,28,15,False,3.25,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+21564,평화롭게 전쟁하기,,3,23,False,2.3333,[]
+21565,논리의 돌,,15,20,False,4.0667,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+21566,트리 정리하기,,32,18,False,1.7188,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+21567,숫자의 개수 2,,816,4,False,1.2904,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+21568,Ax+By=C,,0,0,False,0.0,[]
+21569,Цапли,,68,4,False,1.3971,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+21570,Круглый стол,,6,10,False,1.6667,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+21571,Поврежденный XML,,2,14,False,1.0,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 71, 'tagSA': 'stack'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+21572,Игра с числами,,0,0,False,0.0,[]
+21573,Кондиционер,,131,3,False,1.1908,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+21574,Праздничный ужин,,1,0,False,2.0,[]
+21575,Космический кегельбан,,0,0,False,0.0,[]
+21576,«Abracadabra»,,0,0,False,0.0,[]
+21577,Пароль,,1,0,False,3.0,[]
+21578,Вирусы и антивирусы,,0,0,False,0.0,[]
+21579,Урюк,,0,0,False,0.0,[]
+21580,Древний календарь,,1,0,False,1.0,[]
+21581,Мозаика,,0,0,False,0.0,[]
+21582,Театр начинается с актеров,,0,0,False,0.0,[]
+21583,Ёжик в тумане,,0,0,False,0.0,[]
+21584,Ордынское войско,,0,0,False,0.0,[]
+21585,Alien Microwave,Alien Microwave,16,14,False,1.4375,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+21586,Another Substring Query Problem,Another Substring Query Problem,31,19,False,4.0323,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 155, 'tagSA': 'merge_sort_tree'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}]"
+21587,Borders,Borders,12,19,False,1.3333,"[{'tagBOJ': 13, 'tagSA': 'bipartite_matching'}]"
+21588,Circle of Friends,Circle of Friends,10,20,False,4.2,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+21589,Finding Polly,Finding Polly,3,22,False,3.0,[]
+21590,Investigating Imposters,Investigating Imposters,29,12,False,1.3448,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+21591,Laptop Sticker,Laptop Sticker,1476,2,False,1.3957,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+21592,Longest Common Substring,Longest Common Substring,66,6,False,1.9697,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+21593,Simple Cron Spec,Simple Cron Spec,9,10,False,1.1111,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+21594,Surveillance,Surveillance,6,23,False,1.5,"[{'tagBOJ': 111, 'tagSA': 'calculus'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+21595,Train Line,Train Line,6,25,False,2.1667,[]
+21596,Window Shopping,Window Shopping,3,25,False,1.0,[]
+21597,You Be the Judge!,You Be the Judge!,23,7,False,3.3478,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}]"
+21598,SciComLove,,3791,1,False,1.1852,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+21599,아이템 배치하기,,93,9,False,3.6237,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"

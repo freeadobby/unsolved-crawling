@@ -1,0 +1,66 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+5,backtracking,백트래킹,backtracking,"['백트래킹', '퇴각검색', '퇴각 검색']"
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+9,primality_test,소수 판정,primality test,"['소수', '소수판별', '소수판정', 'prime']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+12,binary_search,이분 탐색,binary search,"['이분탐색', '이진탐색']"
+14,bitmask,비트마스킹,bitmask,"['비트필드', '비트마스크']"
+18,centroid_decomposition,센트로이드 분할,centroid decomposition,['센트로이드']
+22,dijkstra,데이크스트라,dijkstra's,"['다익', '다익스트라', '데이크스트라']"
+24,divide_and_conquer,분할 정복,divide and conquer,['dnc']
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+31,floyd_warshall,플로이드–워셜,floyd–warshall,"['플로이드', '플로이드와셜', '플로이드와샬']"
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+35,hld,Heavy-light 분할,heavy-light decomposition,[]
+38,inclusion_and_exclusion,포함 배제의 원리,inclusion and exclusion,[]
+41,lca,최소 공통 조상,lowest common ancestor,[]
+42,line_intersection,선분 교차 판정,line segment intersection check,[]
+47,miller_rabin,밀러–라빈 소수 판별법,miller–rabin,[]
+55,pst,퍼시스턴트 세그먼트 트리,persistent segment tree,"['퍼시스턴트구간트리', '구간트리', '퍼시스턴트세그트리']"
+57,point_in_non_convex_polygon,오목 다각형 내부의 점 판정,point in non-convex polygon check,[]
+58,pollard_rho,폴라드 로,pollard rho,[]
+59,priority_queue,우선순위 큐,priority queue,"['heap', '힙']"
+62,recursion,재귀,recursion,[]
+65,segtree,세그먼트 트리,segment tree,"['구간트리', '세그트리', 'fenwick', '펜윅']"
+66,lazyprop,느리게 갱신되는 세그먼트 트리,segment tree with lazy propagation,"['레이지', '레이지프로퍼게이션', '레이지프로파게이션', '구간트리', 'fenwick', '펜윅']"
+69,splay_tree,스플레이 트리,splay tree,[]
+71,stack,스택,stack,[]
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', 'bbst', '트리', 'tree']"
+80,two_pointer,두 포인터,two-pointer,"['투포인터', '인치웜', 'inchworm', 'twopointer']"
+81,disjoint_set,분리 집합,disjoint set,"['union', 'find', '유니온', '파인드', 'dsu']"
+84,sparse_table,희소 배열,sparse table,"['스파스어레이', 'sparse table']"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"['동적계획법', '비트마스크', '비트dp']"
+89,cht,볼록 껍질을 이용한 최적화,convex hull trick,"['컨벡스헐트릭', '컨벡스헐최적화']"
+91,divide_and_conquer_optimization,분할 정복을 사용한 최적화,divide and conquer optimization,"['분할 정복 최적화', 'dnc opt']"
+92,dp_tree,트리에서의 다이나믹 프로그래밍,dynamic programming on trees,['트리dp']
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,['라인 스위핑']
+109,ad_hoc,애드 혹,ad-hoc,[]
+115,randomization,무작위화,randomization,['랜덤']
+120,trees,트리,tree,['trees']
+123,offline_queries,오프라인 쿼리,offline queries,['offlinequery']
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+126,bfs,너비 우선 탐색,breadth-first search,"['breadthfirst', 'breadth first']"
+127,dfs,깊이 우선 탐색,depth-first search,"['depth first', 'depthfirst']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+130,sqrt_decomposition,제곱근 분할법,square root decomposition,"['루트분할법', '평방분할법', '모', 'mo', 'sqrt']"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+141,simulation,시뮬레이션,simulation,[]
+142,heuristics,휴리스틱,heuristics,[]
+147,discrete_sqrt,이산 제곱근,discrete square root,['루트']
+150,euler_tour_technique,오일러 경로 테크닉,euler tour technique,[]
+154,linked_list,연결 리스트,linked list,['링크드리스트']
+158,string,문자열,string,['스트링']
+161,coordinate_compression,값 / 좌표 압축,value / coordinate compression,['zip']
+169,smaller_to_larger,작은 집합에서 큰 집합으로 합치는 테크닉,smaller to larger technique,"['merge heuristics', 'sack', 'small to large', '작은거', '큰거']"
+172,precomputation,런타임 전의 전처리,precomputation,"['lookup table', 'db', 'database']"
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+188,centroid,센트로이드,centroid,[]
+215,shortest_path,최단 경로,shortest path,[]

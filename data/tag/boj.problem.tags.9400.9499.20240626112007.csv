@@ -1,0 +1,51 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+9,primality_test,소수 판정,primality test,"['소수', '소수판별', '소수판정', 'prime']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+12,binary_search,이분 탐색,binary search,"['이분탐색', '이진탐색']"
+13,bipartite_matching,이분 매칭,bipartite matching,[]
+14,bitmask,비트마스킹,bitmask,"['비트필드', '비트마스크']"
+22,dijkstra,데이크스트라,dijkstra's,"['다익', '다익스트라', '데이크스트라']"
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+26,euclidean,유클리드 호제법,euclidean algorithm,['유클리드알고리즘']
+32,gaussian_elimination,가우스 소거법,gaussian elimination,[]
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+38,inclusion_and_exclusion,포함 배제의 원리,inclusion and exclusion,[]
+42,line_intersection,선분 교차 판정,line segment intersection check,[]
+45,flow,최대 유량,maximum flow,"['dinic', 'dinitz', 'ford', 'fulkerson', 'fordfulkerson', '디닉', '디니츠', '포드풀커슨', '플로우']"
+48,mcmf,최소 비용 최대 유량,minimum cost maximum flow,"['dinic', 'dinitz', 'ford', 'fulkerson', 'fordfulkerson', '디닉', '디니츠', '포드풀커슨']"
+65,segtree,세그먼트 트리,segment tree,"['구간트리', '세그트리', 'fenwick', '펜윅']"
+67,sieve,에라토스테네스의 체,sieve of eratosthenes,"['sieve', '에라체', '소수', 'prime']"
+77,suffix_array,접미사 배열과 LCP 배열,suffix array and lcp array,[]
+78,topological_sorting,위상 정렬,topological sorting,[]
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"['동적계획법', '비트마스크', '비트dp']"
+95,number_theory,정수론,number theory,[]
+96,parsing,파싱,parsing,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,['라인 스위핑']
+109,ad_hoc,애드 혹,ad-hoc,[]
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"['빅인티저', '빅데시멀', 'biginteger', 'bigdecimal']"
+120,trees,트리,tree,['trees']
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+126,bfs,너비 우선 탐색,breadth-first search,"['breadthfirst', 'breadth first']"
+127,dfs,깊이 우선 탐색,depth-first search,"['depth first', 'depthfirst']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+131,geometry_3d,3차원 기하학,geometry; 3d,[]
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+140,game_theory,게임 이론,game theory,"['게임이론', '님', 'nim']"
+141,simulation,시뮬레이션,simulation,[]
+144,linear_algebra,선형대수학,linear algebra,['선형대수']
+148,knapsack,배낭 문제,knapsack,['냅색']
+158,string,문자열,string,['스트링']
+170,parametric_search,매개 변수 탐색,parametric search,['파라메트릭']
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+177,probability,확률론,probability theory,"['expected value', '기대값', '기댓값']"
+213,dag,방향 비순환 그래프,directed acyclic graph,[]
+215,shortest_path,최단 경로,shortest path,[]

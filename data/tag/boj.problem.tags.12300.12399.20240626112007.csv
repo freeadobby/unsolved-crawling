@@ -1,0 +1,42 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+5,backtracking,백트래킹,backtracking,"['백트래킹', '퇴각검색', '퇴각 검색']"
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+12,binary_search,이분 탐색,binary search,"['이분탐색', '이진탐색']"
+22,dijkstra,데이크스트라,dijkstra's,"['다익', '다익스트라', '데이크스트라']"
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+45,flow,최대 유량,maximum flow,"['dinic', 'dinitz', 'ford', 'fulkerson', 'fordfulkerson', '디닉', '디니츠', '포드풀커슨', '플로우']"
+48,mcmf,최소 비용 최대 유량,minimum cost maximum flow,"['dinic', 'dinitz', 'ford', 'fulkerson', 'fordfulkerson', '디닉', '디니츠', '포드풀커슨']"
+59,priority_queue,우선순위 큐,priority queue,"['heap', '힙']"
+60,pythagoras,피타고라스 정리,pythagoras theorem,[]
+65,segtree,세그먼트 트리,segment tree,"['구간트리', '세그트리', 'fenwick', '펜윅']"
+71,stack,스택,stack,[]
+93,eulerian_path,오일러 경로,eulerian path / circuit,"['eulerian circuit', 'euler tour']"
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+115,randomization,무작위화,randomization,['랜덤']
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"['빅인티저', '빅데시멀', 'biginteger', 'bigdecimal']"
+120,trees,트리,tree,['trees']
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+126,bfs,너비 우선 탐색,breadth-first search,"['breadthfirst', 'breadth first']"
+127,dfs,깊이 우선 탐색,depth-first search,"['depth first', 'depthfirst']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+141,simulation,시뮬레이션,simulation,[]
+150,euler_tour_technique,오일러 경로 테크닉,euler tour technique,[]
+158,string,문자열,string,['스트링']
+170,parametric_search,매개 변수 탐색,parametric search,['파라메트릭']
+172,precomputation,런타임 전의 전처리,precomputation,"['lookup table', 'db', 'database']"
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+177,probability,확률론,probability theory,"['expected value', '기대값', '기댓값']"
+203,birthday,생일 문제,birthday problem,"['패러독스', '파라독스', 'birthday']"
+215,shortest_path,최단 경로,shortest path,[]

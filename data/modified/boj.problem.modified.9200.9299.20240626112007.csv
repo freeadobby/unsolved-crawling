@@ -1,0 +1,99 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+9200,Anchored Balloon,Anchored Balloon,3,18,False,3.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 116, 'tagSA': 'physics'}, {'tagBOJ': 101, 'tagSA': 'ternary_search'}]"
+9201,Rotate and Rewrite,Rotate and Rewrite,0,0,False,0.0,[]
+9202,Boggle,Boggle,1300,16,False,3.8077,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}]"
+9203,호텔 예약,Booking,120,13,False,13.9,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9204,체스,Chess,231,10,False,2.0866,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9205,맥주 마시면서 걸어가기,Kastenlauf,10625,11,False,2.4983,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+9206,나무 말고 꽃,No Trees But Flowers,110,18,False,8.7364,"[{'tagBOJ': 111, 'tagSA': 'calculus'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 122, 'tagSA': 'numerical_analysis'}]"
+9207,페그 솔리테어,Peg Solitaire,934,12,False,2.0214,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9208,링월드,Ringworld,63,23,False,4.127,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 34, 'tagSA': 'hall'}]"
+9209,The King of the North,The King of the North,48,20,False,4.4167,"[{'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 167, 'tagSA': 'mfmc'}]"
+9210,복권 표,Ticket Draw,3,14,False,2.3333,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+9211,타이밍,Timing,8,15,False,1.875,"[{'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9212,트라이앵글,Triangles,36,21,False,4.2222,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 131, 'tagSA': 'geometry_3d'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9213,꽤 좋은 수,Quite Good Numbers,167,14,False,1.8623,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 67, 'tagSA': 'sieve'}]"
+9214,첫 번째 항,Primordial Values,129,6,False,2.124,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9215,신나는 분수 계산,Fun With Fractions,86,8,False,1.9651,"[{'tagBOJ': 117, 'tagSA': 'arbitrary_precision'}, {'tagBOJ': 26, 'tagSA': 'euclidean'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9216,The Queen's English,The Queen's English,2,0,False,2.0,[]
+9217,Powerbase Format,Powerbase Format,0,0,False,0.0,[]
+9218,Jumble Match,Jumble Match,1,0,False,2.0,[]
+9219,Road Trip,Road Trip,7,0,False,1.5714,[]
+9220,Bafﬂed!,Bafﬂed!,0,0,False,0.0,[]
+9221,A Voting Protocol,A Voting Protocol,2,0,False,1.5,[]
+9222,Family Trees,Family Trees,0,0,False,0.0,[]
+9223,The Jury is out,The Jury is out,1,19,False,4.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+9224,Box Toppling,Box Toppling,0,0,False,0.0,[]
+9225,Superstitious Helicopter Pilots,Superstitious Helicopter Pilots,0,0,False,0.0,[]
+9226,도깨비말,Pig Latin,891,4,False,1.9686,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9227,W**h y**r mouth out with s**p,W**h y**r mouth out with s**p,69,5,False,2.4638,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9228,Check Digits,Check Digits,125,4,False,2.168,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9229,단어 사다리,Word Ladder,225,5,False,1.9689,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9230,TAXI ROUTES,TAXI ROUTES,44,8,False,1.1136,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9231,URNS,URNS,7,9,False,2.7143,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9232,Crossword Puzzle Clue Numbering,Crossword Puzzle Clue Numbering,14,8,False,4.8571,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9233,"Molecules, Molecules","Molecules, Molecules",13,14,False,1.2308,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9234,"Molecules, Molecules 2","Molecules, Molecules 2",4,19,False,2.5,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}, {'tagBOJ': 45, 'tagSA': 'flow'}]"
+9235,Fragment reassembly,Fragment reassembly,0,0,False,0.0,[]
+9236,고급 레스토랑,SLASTIČAR,12,0,False,4.1667,[]
+9237,이장님 초대,Planting Trees,4334,6,False,1.5826,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+9238,당근 볶기,Boiling Vegetables,83,19,False,1.8193,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}]"
+9239,스티브 잡숭,Number Trick,62,10,False,7.5968,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9240,로버트 후드,Robert Hood,1445,18,False,2.7958,"[{'tagBOJ': 20, 'tagSA': 'convex_hull'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 64, 'tagSA': 'rotating_calipers'}]"
+9241,바이러스 복제,Virus Replication,162,11,False,3.4012,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9242,폭탄 해체,Timebomb,267,7,False,1.9813,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9243,파일 완전 삭제,Erase Securely,1779,4,False,1.6026,"[{'tagBOJ': 158, 'tagSA': 'string'}]"
+9244,핀볼,Pinball,105,22,False,3.7714,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+9245,댄스,Dance Reconstruction,7,24,False,3.2857,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 164, 'tagSA': 'modular_multiplicative_inverse'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 171, 'tagSA': 'permutation_cycle_decomposition'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+9246,다트판,Dartboard,36,13,False,1.4444,"[{'tagBOJ': 111, 'tagSA': 'calculus'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 177, 'tagSA': 'probability'}]"
+9247,절벽 걷기,Cliff Walk,8,19,False,1.375,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+9248,Suffix Array,,1144,18,False,2.5472,"[{'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}]"
+9249,최장 공통 부분 문자열,,537,18,False,3.5382,"[{'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}]"
+9250,문자열 집합 판별,,1056,19,False,2.7727,"[{'tagBOJ': 2, 'tagSA': 'aho_corasick'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}]"
+9251,LCS,,27246,11,False,2.4491,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9252,LCS 2,,12354,12,False,2.6333,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+9253,스페셜 저지,,501,4,False,1.6727,"[{'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9254,역행렬,,145,0,False,3.1931,"[{'tagBOJ': 32, 'tagSA': 'gaussian_elimination'}, {'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9255,The Friend of My Enemy is My Enemy,The Friend of My Enemy is My Enemy,62,6,False,2.8548,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9256,"Call Me Back, Please!","Call Me Back, Please!",5,0,False,4.4,[]
+9257,Suspicious Orders,Suspicious Orders,6,0,False,2.0,[]
+9258,Code Breakers,Code Breakers,5,0,False,2.2,[]
+9259,Privacy Loss,Privacy Loss,14,12,False,1.4286,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 148, 'tagSA': 'knapsack'}]"
+9260,E-Mail Snooping,E-Mail Snooping,20,6,False,3.45,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9263,Russian Dolls,Russian Dolls,23,10,False,2.0,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+9264,Intercity,Intercity,33,21,False,7.0,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+9265,Count,Count,15,9,False,10.4667,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9266,체스 게임,Chess,4,20,False,2.0,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9267,A+B,A+B,224,21,False,9.8304,"[{'tagBOJ': 27, 'tagSA': 'extended_euclidean'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+9268,Dragon Pattern,Dragon Pattern,4,22,False,7.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 40, 'tagSA': 'kmp'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9269,Points,Points,20,11,False,2.3,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+9270,Red John Game,Red John Game,127,18,False,2.3543,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9271,Influence,Influence,4,0,False,3.25,[]
+9272,상근이의 아이디어,An Idea of Mr. A,94,9,False,1.2128,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+9273,정제헌을 팔자!,Fractional Lotion,85,9,False,2.4353,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+9274,종이 지도,Folded Map,19,14,False,1.7895,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+9275,토끼와 상근,Furry Nuisance,14,17,False,2.3571,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}]"
+9276,채소 보호,Fence Orthogonality,57,20,False,2.4035,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 20, 'tagSA': 'convex_hull'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 64, 'tagSA': 'rotating_calipers'}]"
+9277,꽃병,Flower Pots,5,10,False,3.4,"[{'tagBOJ': 172, 'tagSA': 'precomputation'}]"
+9278,절망적인 줄,Frustrated Queue,56,12,False,2.2143,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9279,얼어붙은 스프링쿨러,Frozen Rose-Heads,71,13,False,2.7183,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+9280,False Sense of Security,False Sense of Security,40,7,False,1.75,"[{'tagBOJ': 158, 'tagSA': 'string'}]"
+9281,전차,Tram,18,22,False,2.6667,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+9282,Splot,Splot,3,27,False,1.0,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9283,"보드 게임 ""트리""",Board,10,0,False,2.8,[]
+9284,Adriatic,Adriatic,27,23,False,2.037,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+9285,Watering - 1,Watering,67,5,False,1.4179,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+9286,Gradabase,Gradabase,393,3,False,1.2774,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9287,Jenga,Jenga,124,5,False,1.3548,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9288,More Dice,More Dice,463,3,False,1.8639,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+9289,Morse Code,Morse Code,183,5,False,1.3552,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9290,틱택토 이기기,Tic Tac Toe For the Win,188,7,False,1.7128,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9291,스도쿠 채점,Sudoku Solution Checker,589,7,False,2.5042,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+9292,Robot In A Room,Robot In A Room,2,0,False,2.0,[]
+9293,모험을 떠나자,Excellent Adventure,6,0,False,3.8333,[]
+9294,Even More Dice,Even More Dice,29,9,False,1.6552,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 62, 'tagSA': 'recursion'}]"
+9295,주사위,Dice,5478,3,False,1.3447,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9296,Grading Exams,Grading Exams,339,4,False,1.174,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+9297,Reducing Improper Fractions,Reducing Improper Fractions,328,3,False,1.9573,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9298,Ant Entrapment,Ant Entrapment,316,3,False,1.962,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+9299,Math Tutoring,Math Tutoring,374,4,False,1.3422,"[{'tagBOJ': 111, 'tagSA': 'calculus'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"

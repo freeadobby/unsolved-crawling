@@ -1,0 +1,28 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+9,primality_test,소수 판정,primality test,"['소수', '소수판별', '소수판정', 'prime']"
+12,binary_search,이분 탐색,binary search,"['이분탐색', '이진탐색']"
+14,bitmask,비트마스킹,bitmask,"['비트필드', '비트마스크']"
+20,convex_hull,볼록 껍질,convex hull,['컨벡스헐']
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+50,mo,mo's,mo's,"['squarerootdecomposition', 'sqrtdecomposition', '평방분할법']"
+67,sieve,에라토스테네스의 체,sieve of eratosthenes,"['sieve', '에라체', '소수', 'prime']"
+79,trie,트라이,trie,[]
+95,number_theory,정수론,number theory,[]
+96,parsing,파싱,parsing,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+117,arbitrary_precision,임의 정밀도 / 큰 수 연산,arbitrary precision / big integers,"['빅인티저', '빅데시멀', 'biginteger', 'bigdecimal']"
+120,trees,트리,tree,['trees']
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+123,offline_queries,오프라인 쿼리,offline queries,['offlinequery']
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+140,game_theory,게임 이론,game theory,"['게임이론', '님', 'nim']"
+141,simulation,시뮬레이션,simulation,[]
+158,string,문자열,string,['스트링']
+161,coordinate_compression,값 / 좌표 압축,value / coordinate compression,['zip']
+170,parametric_search,매개 변수 탐색,parametric search,['파라메트릭']
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"

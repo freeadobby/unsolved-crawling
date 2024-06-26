@@ -1,0 +1,97 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+29200,문제 수 줄이기,Reducing the Number of Problems,143,16,False,3.3497,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+29201,K-정렬 게임,K-Sorting Game,44,23,False,4.1591,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+29202,책가방,Backpack,52,21,False,4.7692,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+29203,테마파크,Theme Park,32,22,False,3.9375,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 169, 'tagSA': 'smaller_to_larger'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+29204,KSA에서 숨바꼭질,Hide and Seek in KSA,17,22,False,3.8235,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 169, 'tagSA': 'smaller_to_larger'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+29205,마라톤,Marathon,12,22,False,6.75,"[{'tagBOJ': 10, 'tagSA': 'bellman_ford'}, {'tagBOJ': 89, 'tagSA': 'cht'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+29206,Сортировка Хакуна Матата,,2,0,False,1.5,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29207,Математика,,0,0,False,0.0,[]
+29208,Родственные связи,,0,0,False,0.0,[]
+29209,Ужин из жуков,,0,0,False,0.0,[]
+29210,Бутерброды из жуков,,0,0,False,0.0,[]
+29211,Побег,,0,0,False,0.0,[]
+29213,Колевская бухгалтерия,,32,4,False,1.4688,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29214,Водохранилище Пумбы,,0,0,False,0.0,[]
+29215,Полупалиндромы,,0,0,False,0.0,[]
+29216,Пришло время праздника,,0,0,False,0.0,[]
+29217,Шрам готовит атаку,,0,0,False,0.0,[]
+29218,Испытание Рафики,,0,0,False,0.0,[]
+29219,Нападение,,0,0,False,0.0,[]
+29220,Свидание,,81,3,False,1.7654,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29221,Чтение,,0,0,False,0.0,[]
+29222,Вампирский баскетбол,,0,0,False,0.0,[]
+29223,Ликантропия,,2,0,False,1.0,[]
+29224,Мощь вампира,,17,6,False,1.9412,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 185, 'tagSA': 'differential_cryptanalysis'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29225,Пещеры,,0,0,False,0.0,[]
+29226,Магические стержни,,0,0,False,0.0,[]
+29227,Хладнокровный дуб,,0,0,False,0.0,[]
+29228,Лучшие друзья Беллы,,0,0,False,0.0,[]
+29229,Нападения,,0,0,False,0.0,[]
+29230,Соревнование по программированию,,2,21,False,1.0,"[{'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 48, 'tagSA': 'mcmf'}]"
+29231,Запасы на зиму,,0,0,False,0.0,[]
+29232,Заправки,,0,0,False,0.0,[]
+29233,Необычные шахматы,,0,0,False,0.0,[]
+29234,Путешествие,,0,0,False,0.0,[]
+29235,Стенка на стенку,,0,0,False,0.0,[]
+29236,Дерево,,21,8,False,2.3333,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+29237,Билеты в Провал,,0,0,False,0.0,[]
+29238,Антилопа Гну,,0,0,False,0.0,[]
+29239,Геркулес,,15,5,False,3.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+29241,Инверсии,,0,0,False,0.0,[]
+29242,Стулья,,0,0,False,0.0,[]
+29243,Рекламный щит,,0,0,False,0.0,[]
+29244,Боги,,0,0,False,0.0,[]
+29245,Javalhalla,,0,0,False,0.0,[]
+29246,Молот Тора,,0,0,False,0.0,[]
+29247,Один,,1,0,False,1.0,[]
+29248,Покер,,0,0,False,0.0,[]
+29249,День Рагнарёк,,1,0,False,2.0,[]
+29250,Вальгалла,,0,0,False,0.0,[]
+29251,Вёлунд,,0,0,False,0.0,[]
+29252,Хель,,1,0,False,2.0,[]
+29253,Защита,,0,0,False,0.0,[]
+29254,История,,0,0,False,0.0,[]
+29255,Список,,0,0,False,0.0,[]
+29256,Выкуп,,0,0,False,0.0,[]
+29257,하늘의 타일링,,5,29,False,5.8,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29258,나노의 머리 속 시곗바늘,,20,19,False,3.35,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+29259,치노의 라떼 아트 만들기,,15,21,False,2.1333,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 100, 'tagSA': 'geometry'}]"
+29260,THE iDEM@STER (M@STER VERSION),,2,24,False,1.0,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 62, 'tagSA': 'recursion'}]"
+29261,소수 세기,,99,17,False,2.0202,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}]"
+29262,하이퍼 주사위 굴리기,,10,18,False,1.6,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 132, 'tagSA': 'geometry_hyper'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+29263,Штурм,,0,0,False,0.0,[]
+29264,Карта,,0,0,False,0.0,[]
+29265,Сокровища,,0,0,False,0.0,[]
+29266,Делоне,,0,0,False,0.0,[]
+29267,Случай с игрой,,173,2,False,1.2081,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29268,Вы соскучились?,,0,0,False,0.0,[]
+29269,Взлом,,0,0,False,0.0,[]
+29270,Пляшущие биты,,0,0,False,0.0,[]
+29271,Фильтр,,0,0,False,0.0,[]
+29272,Тестирование,,0,0,False,0.0,[]
+29273,T-X против T-850,,0,0,False,0.0,[]
+29274,Начало конца,,0,0,False,0.0,[]
+29276,Протокол,,0,0,False,0.0,[]
+29277,Связанность и пересечения,,0,0,False,0.0,[]
+29279,Поломка Бамблби,,0,0,False,0.0,[]
+29280,Штурм,,0,0,False,0.0,[]
+29281,Хэдмастеры,,0,0,False,0.0,[]
+29282,Прогулка,,0,0,False,0.0,[]
+29283,Алекс и стейк,,71,3,False,2.2535,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29284,Ягоды для лемуров,,0,0,False,0.0,[]
+29285,Мощный взрыв,,0,0,False,0.0,[]
+29286,А когда праздники?,,0,0,False,0.0,[]
+29287,Мелман,,0,0,False,0.0,[]
+29288,Полетели!,,1,0,False,1.0,[]
+29289,Возвращение,,0,0,False,0.0,[]
+29290,Карлсон и боулинг,,0,0,False,0.0,[]
+29291,Варенье,,0,0,False,0.0,[]
+29292,X частей,,1,0,False,1.0,[]
+29293,Игрушка детства,,6,13,False,1.5,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+29294,Паша и тропинки,,0,0,False,0.0,[]
+29295,Парк BlueTube,,0,0,False,0.0,[]
+29296,Забор,,1,0,False,1.0,[]
+29297,Футбол,,39,4,False,1.0,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29298,Шоссе,,0,0,False,0.0,[]
+29299,Экспериментальное лечение,,0,0,False,0.0,[]

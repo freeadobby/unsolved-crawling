@@ -1,0 +1,65 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+4,articulation,단절점과 단절선,articulation points and bridges,"['단절점', '단절선', '브리지', '브릿지', 'bridge']"
+5,backtracking,백트래킹,backtracking,"['백트래킹', '퇴각검색', '퇴각 검색']"
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+12,binary_search,이분 탐색,binary search,"['이분탐색', '이진탐색']"
+14,bitmask,비트마스킹,bitmask,"['비트필드', '비트마스크']"
+20,convex_hull,볼록 껍질,convex hull,['컨벡스헐']
+22,dijkstra,데이크스트라,dijkstra's,"['다익', '다익스트라', '데이크스트라']"
+24,divide_and_conquer,분할 정복,divide and conquer,['dnc']
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+29,flt,페르마의 소정리,fermat's little theorem,[]
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+39,exponentiation_by_squaring,분할 정복을 이용한 거듭제곱,exponentiation by squaring,"['거듭제곱', '제곱', 'power', 'square']"
+40,kmp,KMP,knuth–morris–pratt,[]
+45,flow,최대 유량,maximum flow,"['dinic', 'dinitz', 'ford', 'fulkerson', 'fordfulkerson', '디닉', '디니츠', '포드풀커슨', '플로우']"
+46,mitm,중간에서 만나기,meet in the middle,[]
+51,mobius_inversion,뫼비우스 반전 공식,möbius inversion,['mobius']
+55,pst,퍼시스턴트 세그먼트 트리,persistent segment tree,"['퍼시스턴트구간트리', '구간트리', '퍼시스턴트세그트리']"
+59,priority_queue,우선순위 큐,priority queue,"['heap', '힙']"
+62,recursion,재귀,recursion,[]
+65,segtree,세그먼트 트리,segment tree,"['구간트리', '세그트리', 'fenwick', '펜윅']"
+66,lazyprop,느리게 갱신되는 세그먼트 트리,segment tree with lazy propagation,"['레이지', '레이지프로퍼게이션', '레이지프로파게이션', '구간트리', 'fenwick', '펜윅']"
+71,stack,스택,stack,[]
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', 'bbst', '트리', 'tree']"
+81,disjoint_set,분리 집합,disjoint set,"['union', 'find', '유니온', '파인드', 'dsu']"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"['동적계획법', '비트마스크', '비트dp']"
+95,number_theory,정수론,number theory,[]
+96,parsing,파싱,parsing,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+111,calculus,미적분학,calculus,"['미분', '적분']"
+115,randomization,무작위화,randomization,['랜덤']
+120,trees,트리,tree,['trees']
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+126,bfs,너비 우선 탐색,breadth-first search,"['breadthfirst', 'breadth first']"
+127,dfs,깊이 우선 탐색,depth-first search,"['depth first', 'depthfirst']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+138,tsp,외판원 순회 문제,travelling salesman problem,['외판원순회']
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+144,linear_algebra,선형대수학,linear algebra,['선형대수']
+148,knapsack,배낭 문제,knapsack,['냅색']
+152,bitset,비트 집합,bit set,"['bitset', '비트셋']"
+155,merge_sort_tree,머지 소트 트리,merge sort tree,"['병합정렬트리', '합병정렬트리']"
+158,string,문자열,string,['스트링']
+160,majority_vote,보이어–무어 다수결 투표,boyer–moore majority vote,[]
+164,modular_multiplicative_inverse,모듈로 곱셈 역원,modular multiplicative inverse,['modinv']
+170,parametric_search,매개 변수 탐색,parametric search,['파라메트릭']
+171,permutation_cycle_decomposition,순열 사이클 분할,permutation cycle decomposition,[]
+172,precomputation,런타임 전의 전처리,precomputation,"['lookup table', 'db', 'database']"
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+177,probability,확률론,probability theory,"['expected value', '기대값', '기댓값']"
+179,linearity_of_expectation,기댓값의 선형성,linearity of expectation,[]
+183,green,그린 정리,green's theorem,[]
+197,bipartite_graph,이분 그래프,bipartite graph,[]
+201,chordal_graph,현 그래프,chordal graph,[]
+202,geometric_boolean_operations,도형에서의 불 연산,boolean operations on geometric objects,"['병합', '교집합', '합집합', 'union', 'intersect']"
+215,shortest_path,최단 경로,shortest path,[]

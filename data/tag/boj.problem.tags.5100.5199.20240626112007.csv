@@ -1,0 +1,36 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+5,backtracking,백트래킹,backtracking,"['백트래킹', '퇴각검색', '퇴각 검색']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+14,bitmask,비트마스킹,bitmask,"['비트필드', '비트마스크']"
+20,convex_hull,볼록 껍질,convex hull,['컨벡스헐']
+22,dijkstra,데이크스트라,dijkstra's,"['다익', '다익스트라', '데이크스트라']"
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+42,line_intersection,선분 교차 판정,line segment intersection check,[]
+56,point_in_convex_polygon,볼록 다각형 내부의 점 판정,point in convex polygon check,[]
+57,point_in_non_convex_polygon,오목 다각형 내부의 점 판정,point in non-convex polygon check,[]
+59,priority_queue,우선순위 큐,priority queue,"['heap', '힙']"
+63,regex,정규 표현식,regular expression,['정규식']
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', 'bbst', '트리', 'tree']"
+87,dp_bitfield,비트필드를 이용한 다이나믹 프로그래밍,dynamic programming using bitfield,"['동적계획법', '비트마스크', '비트dp']"
+96,parsing,파싱,parsing,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+116,physics,물리학,physics,[]
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+126,bfs,너비 우선 탐색,breadth-first search,"['breadthfirst', 'breadth first']"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+141,simulation,시뮬레이션,simulation,[]
+148,knapsack,배낭 문제,knapsack,['냅색']
+158,string,문자열,string,['스트링']
+171,permutation_cycle_decomposition,순열 사이클 분할,permutation cycle decomposition,[]
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+210,flood_fill,플러드 필,flood-fill,[]
+215,shortest_path,최단 경로,shortest path,[]

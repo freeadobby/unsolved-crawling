@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+29500,Разрезание торта,,2,15,False,12.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 3, 'tagSA': 'polygon_area'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+29501,Перекресток,,0,0,False,0.0,[]
+29502,Химический шифр,,1,0,False,1.0,[]
+29503,Шахматы,,1,0,False,1.0,[]
+29504,Клеить!,,1,0,False,1.0,[]
+29505,Большой квадратный кусок,,1,0,False,1.0,[]
+29506,Нет Пети,,1,0,False,2.0,[]
+29507,Подлый парковщик,,23,6,False,1.3913,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29508,Базовая строка,,1,0,False,1.0,[]
+29509,Дизайн-проект,,0,0,False,0.0,[]
+29510,Проект,,0,0,False,0.0,[]
+29511,Железнодорожные перевозки,,0,0,False,0.0,[]
+29512,Столы и ножки,,0,0,False,0.0,[]
+29513,Химеры,,1,0,False,1.0,[]
+29514,Признание,,1,0,False,3.0,[]
+29515,Зубы дракона,,2,0,False,1.0,[]
+29516,Королевский сад,,1,0,False,1.0,[]
+29517,Зелье <<Сила чисел>>,,27,4,False,1.7407,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29518,Разбиение войска,,1,0,False,1.0,[]
+29519,Странный кузнечик,,2,0,False,1.0,[]
+29520,Дерево,,1,0,False,1.0,[]
+29521,Приблизительно,,0,0,False,0.0,[]
+29522,Балкон зáмка,,3,12,False,4.6667,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+29523,Большое множество,,0,0,False,0.0,[]
+29524,Заклинание границы,,0,0,False,0.0,[]
+29525,Зелье <<Фи>>,,0,0,False,0.0,[]
+29526,Экскурсии,,0,0,False,0.0,[]
+29527,Шахматы,,0,0,False,0.0,[]
+29528,Предсказание,,0,0,False,0.0,[]
+29529,Почтовая реформа,,0,0,False,0.0,[]
+29530,НЖМД,,0,0,False,0.0,[]
+29531,Вася,,0,0,False,0.0,[]
+29532,Осада,,0,0,False,0.0,[]
+29533,Два квадрата,,0,0,False,0.0,[]
+29534,Буквы и весы,,1,0,False,1.0,[]
+29535,Геном-палиндром,,3,12,False,1.0,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29536,Елка,,0,0,False,0.0,[]
+29537,Большая сумма,,0,0,False,0.0,[]
+29538,Взлет,,0,0,False,0.0,[]
+29539,Улей,,3,0,False,2.3333,[]
+29540,Сосна --- это дерево,,0,0,False,0.0,[]
+29541,Маршрутное такси,,0,0,False,0.0,[]
+29542,Wipe it!,Wipe it!,24,8,False,1.4167,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29543,Smooth numbers,Smooth numbers,22,11,False,2.0455,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29544,Brick towers,Brick towers,7,15,False,1.5714,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+29545,Rhyme,Rhyme,0,0,False,0.0,[]
+29546,Файлы,,286,2,False,1.5944,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29547,Морской бой,,7,8,False,2.2857,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29548,Тетрис,,0,0,False,0.0,[]
+29549,Тикал,,0,0,False,0.0,[]
+29550,Кубики,,8,7,False,1.875,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29551,Игра на блоге,,1,0,False,1.0,[]
+29552,Доставка,,0,0,False,0.0,[]
+29553,Головоломка <<Суперподстрока>>,,0,0,False,0.0,[]
+29554,Ситха джедай против,,1,0,False,1.0,[]
+29555,Министерство правды,,0,0,False,0.0,[]
+29556,Йою Ньерк,,0,0,False,0.0,[]
+29557,Обратный кузнечик,,1,0,False,2.0,[]
+29558,Эксперимент,,61,4,False,1.623,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29559,Округление,,0,0,False,0.0,[]
+29560,Туча над городом,,0,0,False,0.0,[]
+29561,Травля тараканов,,0,0,False,0.0,[]
+29562,Системы счисления,,8,9,False,1.875,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29563,Передача данных,,11,6,False,1.4545,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29564,Строки Фибоначчи,,8,9,False,1.0,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 62, 'tagSA': 'recursion'}]"
+29565,Дробные фокусы,,8,8,False,3.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29566,Система глобальнейшего позиционирования,,5,15,False,12.0,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29567,Преобразование Капрекара,,15,6,False,1.2,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29568,Налеее-во!,,4,12,False,1.0,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+29569,Перестановка букв,,7,11,False,2.7143,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 96, 'tagSA': 'parsing'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29570,Приготовление сэндвича,,10,6,False,2.6,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29571,Конфеты Дяди Федора,,10,7,False,1.9,"[{'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+29572,Здоровое питание,,5,14,False,1.2,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 72, 'tagSA': 'queue'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+29573,Налеее-во!,,8,8,False,2.375,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29574,Языки,,16,4,False,1.25,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29575,Игровой автомат,,27,4,False,1.037,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29576,Карта,,28,4,False,2.4286,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29577,Красивые числа,,4,12,False,2.0,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29578,Сумма степеней,,6,12,False,1.3333,"[{'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+29579,Усердные бобры,,1,0,False,1.0,[]
+29580,Бюджет,,1,0,False,1.0,[]
+29581,Разложение графа,,0,0,False,0.0,[]
+29582,Опора для крыши,,0,0,False,0.0,[]
+29583,Расстановка книг,,11,8,False,1.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+29584,Кодовый замок,,8,7,False,1.5,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29585,Даты,,18,5,False,4.1667,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29586,Оптическое распознавание символов,,15,4,False,1.8667,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29587,Последовательность,,19,4,False,2.9474,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+29588,Налогообложение,,10,6,False,1.3,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29589,Трамваи,,10,5,False,1.9,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29590,Обобщенные числа-близнецы,,18,8,False,2.1667,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}, {'tagBOJ': 67, 'tagSA': 'sieve'}]"
+29591,Игра <<Bloxx city>>,,0,0,False,0.0,[]
+29592,Выпуклая оболочка,,1,0,False,1.0,[]
+29593,Строки Фибоначчи --- 2,,6,13,False,1.0,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 62, 'tagSA': 'recursion'}]"
+29594,Резиновый рюкзак,,2,15,False,4.5,"[{'tagBOJ': 148, 'tagSA': 'knapsack'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29595,MP3-плеер,,4,13,False,1.0,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29596,Шары,,23,5,False,2.4783,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 116, 'tagSA': 'physics'}]"
+29597,Электронные часы,,9,8,False,1.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29598,Два формата,,30,4,False,1.2,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29599,Бряк,,10,7,False,1.2,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"

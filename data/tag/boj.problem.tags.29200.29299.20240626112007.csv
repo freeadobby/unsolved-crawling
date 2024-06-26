@@ -1,0 +1,41 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+9,primality_test,소수 판정,primality test,"['소수', '소수판별', '소수판정', 'prime']"
+10,bellman_ford,벨만–포드,bellman–ford,"['bellmanford', '벨만포드', 'spfa']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+22,dijkstra,데이크스트라,dijkstra's,"['다익', '다익스트라', '데이크스트라']"
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+39,exponentiation_by_squaring,분할 정복을 이용한 거듭제곱,exponentiation by squaring,"['거듭제곱', '제곱', 'power', 'square']"
+45,flow,최대 유량,maximum flow,"['dinic', 'dinitz', 'ford', 'fulkerson', 'fordfulkerson', '디닉', '디니츠', '포드풀커슨', '플로우']"
+48,mcmf,최소 비용 최대 유량,minimum cost maximum flow,"['dinic', 'dinitz', 'ford', 'fulkerson', 'fordfulkerson', '디닉', '디니츠', '포드풀커슨']"
+59,priority_queue,우선순위 큐,priority queue,"['heap', '힙']"
+62,recursion,재귀,recursion,[]
+65,segtree,세그먼트 트리,segment tree,"['구간트리', '세그트리', 'fenwick', '펜윅']"
+74,tree_set,트리를 사용한 집합과 맵,set / map by trees,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', 'bbst', '트리', 'tree']"
+81,disjoint_set,분리 집합,disjoint set,"['union', 'find', '유니온', '파인드', 'dsu']"
+89,cht,볼록 껍질을 이용한 최적화,convex hull trick,"['컨벡스헐트릭', '컨벡스헐최적화']"
+92,dp_tree,트리에서의 다이나믹 프로그래밍,dynamic programming on trees,['트리dp']
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,['라인 스위핑']
+109,ad_hoc,애드 혹,ad-hoc,[]
+120,trees,트리,tree,['trees']
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+127,dfs,깊이 우선 탐색,depth-first search,"['depth first', 'depthfirst']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+132,geometry_hyper,4차원 이상의 기하학,geometry; hyperdimensional,"['4차원', '5차원', '6차원', '7차원', '8차원', '9차원', '4d', '5d', '6d', '7d', '8d', '9d']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+140,game_theory,게임 이론,game theory,"['게임이론', '님', 'nim']"
+141,simulation,시뮬레이션,simulation,[]
+144,linear_algebra,선형대수학,linear algebra,['선형대수']
+169,smaller_to_larger,작은 집합에서 큰 집합으로 합치는 테크닉,smaller to larger technique,"['merge heuristics', 'sack', 'small to large', '작은거', '큰거']"
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+185,differential_cryptanalysis,차분 공격,differential cryptanalysis,['dc']
+215,shortest_path,최단 경로,shortest path,[]

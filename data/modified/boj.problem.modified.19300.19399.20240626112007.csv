@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+19300,Game of Sorting,Game of Sorting,12,0,False,2.4167,[]
+19301,Repeating Subsequence Tests,Subsequence Queries,3,26,False,1.6667,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+19302,Window XOR,XOR Transformation,11,22,False,1.2727,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 171, 'tagSA': 'permutation_cycle_decomposition'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+19303,Aftermath,Aftermath,153,11,False,1.4641,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+19304,Believer,Believer,6,18,False,1.1667,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}]"
+19305,Chalk Outline,Chalk Outline,3,0,False,1.3333,[]
+19306,Do I Wanna Know?,Do I Wanna Know?,4,23,False,1.25,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+19307,Exit Song,Exit Song,8,24,False,1.625,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+19308,Forever and Always,Forever and Always,7,15,False,1.1429,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+19309,Gate 21,Gate 21,2,21,False,1.0,[]
+19310,Hamilton,Hamilton,3,23,False,3.6667,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+19311,I've Got Friends,I've Got Friends,0,0,False,0.0,[]
+19312,Joke,Joke,5,12,False,1.2,[]
+19313,Kids Aren't Alright,Kids Aren't Alright,7,21,False,2.5714,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+19314,Swap,Swap,6,22,False,1.5,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+19315,Conic Section,Conic Section,2,0,False,1.0,[]
+19316,Connected Subgraph,Connected Subgraph,3,0,False,1.6667,[]
+19317,Hanoi,Hanoi,3,0,False,1.0,[]
+19318,Binary String,Binary String,4,14,False,1.75,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+19319,Pattern Matching,Pattern Matching,3,0,False,1.6667,[]
+19320,Interval Tree,Interval Tree,2,0,False,1.5,[]
+19321,Longest Increasing Subsequence,Longest Increasing Subsequence,38,13,False,1.2368,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+19322,Median,Median,2,0,False,1.5,[]
+19323,Dogs,Dogs,5,27,False,1.2,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 152, 'tagSA': 'bitset'}, {'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+19324,Three Arrays,Three Arrays,12,16,False,1.6667,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+19325,Expected Shopping,Expected Shopping,0,0,False,0.0,[]
+19326,Cover the Paths,Cover the Paths,25,20,False,2.64,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+19327,Elevator,Elevator,11,21,False,1.3636,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+19328,Code-Cola Plants,Code-Cola Plants,12,23,False,1.4167,"[{'tagBOJ': 13, 'tagSA': 'bipartite_matching'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+19329,GCD,GCD,13,23,False,7.2308,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 58, 'tagSA': 'pollard_rho'}, {'tagBOJ': 115, 'tagSA': 'randomization'}]"
+19330,Berland Post,Berland Post,10,21,False,4.8,"[{'tagBOJ': 10, 'tagSA': 'bellman_ford'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 170, 'tagSA': 'parametric_search'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+19331,Compressed Spanning Subtrees,Compressed Spanning Subtrees,8,24,False,1.25,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+19332,Prefix-free Queries,Prefix-free Queries,6,23,False,8.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 77, 'tagSA': 'suffix_array'}, {'tagBOJ': 120, 'tagSA': 'trees'}, {'tagBOJ': 79, 'tagSA': 'trie'}]"
+19333,Subsequence Sum Queries,Subsequence Sum Queries,20,20,False,4.4,"[{'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}]"
+19334,Consistent Occurrences,Consistent Occurrences,13,21,False,7.3077,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 130, 'tagSA': 'sqrt_decomposition'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+19335,Increasing Costs,Increasing Costs,18,22,False,1.8333,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 135, 'tagSA': 'dominator_tree'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+19336,Mines,Mines,7,23,False,5.1429,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 76, 'tagSA': 'scc'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+19337,Balls,Balls,24,12,False,2.5833,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+19338,Flip a Coin,Flip a Coin,19,20,False,4.4737,"[{'tagBOJ': 32, 'tagSA': 'gaussian_elimination'}, {'tagBOJ': 144, 'tagSA': 'linear_algebra'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 177, 'tagSA': 'probability'}]"
+19339,Octagons,Octagons,8,14,False,4.25,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 71, 'tagSA': 'stack'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+19340,Tree Paths,Tree Paths,10,24,False,2.1,"[{'tagBOJ': 188, 'tagSA': 'centroid'}, {'tagBOJ': 18, 'tagSA': 'centroid_decomposition'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+19341,Very New York,Very New York,3,0,False,1.3333,[]
+19342,Sheep,Sheep,1,0,False,2.0,[]
+19343,Bin Packing,Bin Packing,19,19,False,1.7895,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+19344,Statistics,Statistics,1,0,False,1.0,[]
+19345,Zigzag,Zigzag,9,20,False,4.2222,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+19346,Knapsack,Knapsack,3,26,False,1.0,[]
+19347,The Catcher in the Rye,The Catcher in the Rye,18,18,False,6.7778,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 116, 'tagSA': 'physics'}]"
+19348,Dissertation,Dissertation,18,19,False,2.3333,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+19349,Dominoes,Dominoes,3,0,False,1.0,[]
+19350,Endgame,Endgame,5,21,False,1.6,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 140, 'tagSA': 'game_theory'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}]"
+19351,Evacuation,Evacuation,25,0,False,4.92,[]
+19352,Factory,Factory,24,20,False,5.7917,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 208, 'tagSA': 'gradient_descent'}, {'tagBOJ': 142, 'tagSA': 'heuristics'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 101, 'tagSA': 'ternary_search'}]"
+19353,Grasshoppers,Grasshoppers,2,0,False,1.0,[]
+19354,Education Nightmare,Education Nightmare,3,0,False,1.0,[]
+19355,A Really Odd Sequence,A Really Odd Sequence,21,10,False,2.1429,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+19356,Spoonerisms,Spoonerisms,15,22,False,6.0667,"[{'tagBOJ': 161, 'tagSA': 'coordinate_compression'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 130, 'tagSA': 'sqrt_decomposition'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+19357,A Text Problem,A Text Problem,12,0,False,5.8333,[]
+19358,Waiter's Problem,Waiter's Problem,18,8,False,1.1111,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+19359,Even Three is Odd,Even Three is Odd,30,18,False,1.4667,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+19360,Walk of Length 6,Walk of Length 6,3,0,False,1.0,[]
+19361,City United,City United,25,0,False,1.72,[]
+19362,Coins 2,Coins 2,20,0,False,2.4,[]
+19363,Lowest Common Ancestor,Lowest Common Ancestor,21,23,False,5.9524,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 35, 'tagSA': 'hld'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+19364,Multi-stage Marathon,Multi-stage Marathon,2,0,False,2.5,[]
+19365,Matrix Recurrence,Matrix Recurrence,9,0,False,4.1111,[]
+19366,Permutation and noitatumreP,Permutation and noitatumreP,10,22,False,1.7,"[{'tagBOJ': 110, 'tagSA': 'berlekamp_massey'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}]"
+19367,Compressed LCS,Compressed LCS,7,28,False,6.4286,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+19368,Circular Sectors,Circular Sectors,4,28,False,15.25,"[{'tagBOJ': 111, 'tagSA': 'calculus'}, {'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+19369,Welcome to ICPCCamp 2017,Welcome to ICPCCamp 2017,3,0,False,2.0,[]
+19370,Spanning Trees,Spanning Trees,13,17,False,1.6154,"[{'tagBOJ': 128, 'tagSA': 'constructive'}]"
+19371,Triangle,Triangle,16,15,False,2.875,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+19372,Boxes and Balls,Boxes and Balls,7,25,False,9.2857,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 48, 'tagSA': 'mcmf'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+19373,Bit Operations,Bit Operations,7,0,False,5.5714,[]
+19374,Randomized Binary Search Tree,Randomized Binary Search Tree,2,0,False,1.5,[]
+19375,Election,Election,3,0,False,1.3333,[]
+19376,Hash,Hash,11,25,False,3.0909,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 8, 'tagSA': 'hashing'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+19377,K-th String,K-th String,2,0,False,1.0,[]
+19378,Shortest Path Queries,Shortest Path Queries,15,23,False,2.4,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+19379,Kitamasa's Counterattack,Kitamasa's Counterattack,5,24,False,1.6,"[{'tagBOJ': 180, 'tagSA': 'duality'}, {'tagBOJ': 45, 'tagSA': 'flow'}, {'tagBOJ': 48, 'tagSA': 'mcmf'}]"
+19380,Wrapping,Wrapping,8,0,False,2.0,[]
+19381,Ascending Tree,Ascending Tree,29,23,False,2.0345,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 157, 'tagSA': 'slope_trick'}, {'tagBOJ': 169, 'tagSA': 'smaller_to_larger'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+19382,Bicycle Race,Bicycle Race,1,21,False,9.0,[]
+19383,Those Russian Hackers,Those Russian Hackers,0,0,False,0.0,[]
+19384,Circular Shift,Circular Shift,1,0,False,1.0,[]
+19385,Frogs,Frogs,4,16,False,1.25,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+19386,HDRF,HDRF,4,20,False,1.5,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 150, 'tagSA': 'euler_tour_technique'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+19387,Counting Orders,Counting Orders,1,0,False,1.0,[]
+19388,UFO Rectangles,UFO Rectangles,1,0,False,3.0,[]
+19389,Test For An Intern,Test For An Intern,0,0,False,0.0,[]
+19390,Coprime Queries,Coprime Queries,6,22,False,5.6667,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+19391,2084,2084,0,0,False,0.0,[]
+19392,Random Numbers,Random Numbers,3,0,False,7.6667,[]
+19393,Defense Tower,Defense Tower,0,0,False,0.0,[]
+19394,Eulerian Orientation,Eulerian Orientation,29,0,False,2.5517,[]
+19395,Tube Master II,Tube Master II,2,0,False,2.0,[]
+19396,Palindrome,Palindrome,1,0,False,1.0,[]
+19397,Median on Binary Tree,Median on Binary Tree,1,0,False,1.0,[]
+19398,Card Shuffling,Card Shuffling,2,0,False,2.0,[]
+19399,Independent Events,Independent Events,3,0,False,10.6667,[]

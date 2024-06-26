@@ -1,0 +1,53 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+1,2_sat,2-sat,2-sat,"['투셋', 'twosat', '2sat']"
+5,backtracking,백트래킹,backtracking,"['백트래킹', '퇴각검색', '퇴각 검색']"
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+7,graphs,그래프 이론,graph theory,"['그래프이론', '그래프']"
+9,primality_test,소수 판정,primality test,"['소수', '소수판별', '소수판정', 'prime']"
+11,graph_traversal,그래프 탐색,graph traversal,"['bfs', 'dfs']"
+12,binary_search,이분 탐색,binary search,"['이분탐색', '이진탐색']"
+13,bipartite_matching,이분 매칭,bipartite matching,[]
+22,dijkstra,데이크스트라,dijkstra's,"['다익', '다익스트라', '데이크스트라']"
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+41,lca,최소 공통 조상,lowest common ancestor,[]
+43,lis,가장 긴 증가하는 부분 수열: O(n log n),longest increasing sequence in o(n log n),[]
+46,mitm,중간에서 만나기,meet in the middle,[]
+55,pst,퍼시스턴트 세그먼트 트리,persistent segment tree,"['퍼시스턴트구간트리', '구간트리', '퍼시스턴트세그트리']"
+59,priority_queue,우선순위 큐,priority queue,"['heap', '힙']"
+60,pythagoras,피타고라스 정리,pythagoras theorem,[]
+65,segtree,세그먼트 트리,segment tree,"['구간트리', '세그트리', 'fenwick', '펜윅']"
+67,sieve,에라토스테네스의 체,sieve of eratosthenes,"['sieve', '에라체', '소수', 'prime']"
+71,stack,스택,stack,[]
+72,queue,큐,queue,[]
+73,deque,덱,deque,[]
+76,scc,강한 연결 요소,strongly connected component,[]
+79,trie,트라이,trie,[]
+80,two_pointer,두 포인터,two-pointer,"['투포인터', '인치웜', 'inchworm', 'twopointer']"
+81,disjoint_set,분리 집합,disjoint set,"['union', 'find', '유니온', '파인드', 'dsu']"
+84,sparse_table,희소 배열,sparse table,"['스파스어레이', 'sparse table']"
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+106,sweeping,스위핑,sweeping,['라인 스위핑']
+109,ad_hoc,애드 혹,ad-hoc,[]
+119,euler_characteristic,오일러 지표 (χ=V-E+F),euler characteristic (χ=v-e+f),[]
+120,trees,트리,tree,['trees']
+123,offline_queries,오프라인 쿼리,offline queries,['offlinequery']
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+126,bfs,너비 우선 탐색,breadth-first search,"['breadthfirst', 'breadth first']"
+127,dfs,깊이 우선 탐색,depth-first search,"['depth first', 'depthfirst']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+137,case_work,많은 조건 분기,case work,"['케이스', '케이스워크', '케이스 워크']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+141,simulation,시뮬레이션,simulation,[]
+150,euler_tour_technique,오일러 경로 테크닉,euler tour technique,[]
+158,string,문자열,string,['스트링']
+170,parametric_search,매개 변수 탐색,parametric search,['파라메트릭']
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+176,0_1_bfs,0-1 너비 우선 탐색,0-1 bfs,[]
+189,pigeonhole_principle,비둘기집 원리,pigeonhole principle,[]
+215,shortest_path,최단 경로,shortest path,[]

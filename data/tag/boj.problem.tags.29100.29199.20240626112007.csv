@@ -1,0 +1,34 @@
+tagBOJ,tagSA,nameKo,nameEn,aliases
+6,combinatorics,조합론,combinatorics,"['combination', 'permutation', 'probability', '확률', '순열']"
+13,bipartite_matching,이분 매칭,bipartite matching,[]
+18,centroid_decomposition,센트로이드 분할,centroid decomposition,['센트로이드']
+24,divide_and_conquer,분할 정복,divide and conquer,['dnc']
+25,dp,다이나믹 프로그래밍,dynamic programming,"['동적계획법', '동적 계획법', '다이나믹프로그래밍']"
+26,euclidean,유클리드 호제법,euclidean algorithm,['유클리드알고리즘']
+33,greedy,그리디 알고리즘,greedy,['탐욕법']
+38,inclusion_and_exclusion,포함 배제의 원리,inclusion and exclusion,[]
+39,exponentiation_by_squaring,분할 정복을 이용한 거듭제곱,exponentiation by squaring,"['거듭제곱', '제곱', 'power', 'square']"
+40,kmp,KMP,knuth–morris–pratt,[]
+59,priority_queue,우선순위 큐,priority queue,"['heap', '힙']"
+68,sliding_window,슬라이딩 윈도우,sliding window,['슬라이딩윈도']
+69,splay_tree,스플레이 트리,splay tree,[]
+70,sprague_grundy,스프라그–그런디 정리,sprague–grundy theorem,"['님버', 'nimber']"
+95,number_theory,정수론,number theory,[]
+97,sorting,정렬,sorting,[]
+100,geometry,기하학,geometry,[]
+102,implementation,구현,implementation,[]
+109,ad_hoc,애드 혹,ad-hoc,[]
+120,trees,트리,tree,['trees']
+121,arithmetic,사칙연산,arithmetic,"['덧셈', '뺄셈', '곱셈', '나눗셈', '더하기', '빼기', '곱하기', '나누기']"
+124,math,수학,mathematics,[]
+125,bruteforcing,브루트포스 알고리즘,bruteforcing,"['완전탐색', '완전 탐색', '브루트포스', 'bruteforce', 'brute force', '완탐']"
+128,constructive,해 구성하기,constructive,"['constructive', '컨스트럭티브', '구성적']"
+136,hash_set,해시를 사용한 집합과 맵,set / map by hashing,"['집합', '맵', '셋', '딕셔너리', 'dictionary', 'map', 'set', '해싱', 'hashing', 'dict']"
+139,prefix_sum,누적 합,prefix sum,"['구간합', '부분합', 'rangesum']"
+140,game_theory,게임 이론,game theory,"['게임이론', '님', 'nim']"
+141,simulation,시뮬레이션,simulation,[]
+144,linear_algebra,선형대수학,linear algebra,['선형대수']
+158,string,문자열,string,['스트링']
+172,precomputation,런타임 전의 전처리,precomputation,"['lookup table', 'db', 'database']"
+175,data_structures,자료 구조,data structures,"['자료구조', '자구']"
+188,centroid,센트로이드,centroid,[]

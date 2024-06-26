@@ -1,0 +1,100 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+29800,The Decades of Coding Competitions,The Decades of Coding Competitions,1,18,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}]"
+29801,Game Sort: Part 2,Game Sort: Part 2,1,20,False,5.0,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+29802,Indispensable Overpass,Indispensable Overpass,2,20,False,3.5,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+29803,Genetic Sequences,Genetic Sequences,0,0,False,0.0,[]
+29804,"Hey Google, Drive!","Hey Google, Drive!",1,0,False,6.0,[]
+29805,Old Gold,Old Gold,1,0,False,6.0,[]
+29807,학번을 찾아줘!,,704,2,False,1.8892,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29808,너의 수능 점수가 궁금해,,143,6,False,3.007,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29809,주식을 안전하게 (Easy),,23,11,False,4.5652,"[{'tagBOJ': 124, 'tagSA': 'math'}]"
+29810,배신자,,58,13,False,2.3793,"[{'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+29811,지각하기 싫어,,61,12,False,1.5902,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+29812,아니 이게 왜 안 돼,,148,6,False,2.5135,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29813,최애의 팀원,,303,8,False,1.3069,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 72, 'tagSA': 'queue'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29814,원교수님 과제가 너무 많아요,,34,14,False,2.9706,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29815,발전 장치,,19,18,False,2.6842,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29816,사랑의 묘약,,22,18,False,1.1818,"[{'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 38, 'tagSA': 'inclusion_and_exclusion'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+29817,주식을 안전하게 (Hard),,15,15,False,1.5333,"[{'tagBOJ': 39, 'tagSA': 'exponentiation_by_squaring'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29818,효율적으로 과제하기,,24,16,False,2.9167,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}]"
+29819,Two Pointers (easy version),Two Pointers (easy version),21,10,False,2.0952,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+29820,Love Letter,Love Letter,24,13,False,1.2083,"[{'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+29821,Two Pointers (hard version),Two Pointers (hard version),9,20,False,3.2222,"[{'tagBOJ': 161, 'tagSA': 'coordinate_compression'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+29822,Segment Union,Segment Union,0,0,False,0.0,[]
+29823,Pakirobot Manhattanis,,304,2,False,1.25,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29824,Pliiatsite pööramine,,11,6,False,1.7273,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+29825,Tsirkus,,1,0,False,2.0,[]
+29826,Bititehete avaldis,,0,0,False,0.0,[]
+29827,Pesunöör,,0,0,False,0.0,[]
+29828,Rikkis teleporter,,0,0,False,0.0,[]
+29829,Palindroom,,52,4,False,1.2308,"[{'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29830,Mägedes sõitmine,,2,0,False,1.0,[]
+29831,Kulude jagamine,,1,0,False,2.0,[]
+29832,Kaustad,,1,0,False,1.0,[]
+29833,Kontrollsumma,,1,0,False,1.0,[]
+29834,Metroovõrgu tsoonid,,1,0,False,1.0,[]
+29835,Palindroom,,48,4,False,1.6667,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29836,Auhinnad,,5,12,False,1.2,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}]"
+29837,Kottide tassimine,,0,0,False,0.0,[]
+29838,Kuulujutud,,0,0,False,0.0,[]
+29839,Vaheseinad,,0,0,False,0.0,[]
+29840,Lõppvooru kutsumine,,0,0,False,0.0,[]
+29841,Doominokivid,,0,0,False,0.0,[]
+29842,Lõikude tükeldamine,,0,0,False,0.0,[]
+29843,Sõnarühmad,,0,0,False,0.0,[]
+29844,Card Game,,0,0,False,0.0,[]
+29845,Pipes,,1,15,False,2.0,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 60, 'tagSA': 'pythagoras'}]"
+29846,Choice,,0,0,False,0.0,[]
+29847,Character Frequencies,Character Frequencies,32,4,False,1.0938,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+29848,Broken Piano,Broken Piano,2,0,False,1.0,[]
+29849,Air Leak,Air Leak,1,0,False,1.0,[]
+29850,Racing Strategy,Racing Strategy,1,0,False,1.0,[]
+29851,Internet Monopoly,Internet Monopoly,1,0,False,3.0,[]
+29852,Pasture 1,Pasture 1,4,0,False,2.0,[]
+29853,Pasture 2,Pasture 2,4,0,False,1.0,[]
+29854,Pasture 3,Pasture 3,3,0,False,1.0,[]
+29855,Pasture 4,Pasture 4,3,0,False,1.0,[]
+29856,Pasture 5,Pasture 5,4,0,False,1.25,[]
+29857,Pasture 6,Pasture 6,3,0,False,1.0,[]
+29858,Pasture 7,Pasture 7,5,15,False,1.6,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29859,Pasture 8,Pasture 8,4,16,False,1.0,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29860,Pasture 9,Pasture 9,3,18,False,1.0,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29861,Pasture 10,Pasture 10,3,18,False,1.0,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29862,Lazy Sorting,Lazy Sorting,1,0,False,3.0,[]
+29863,Arno's Sleep Schedule,Arno's Sleep Schedule,1138,1,False,1.6098,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29864,Tenniseturniir,,21,6,False,1.1905,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+29865,Kahe käigu ratsu,,13,8,False,1.4615,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29866,Aia värvimine,,0,0,False,0.0,[]
+29867,Kolmnurkade loendamine,,0,0,False,0.0,[]
+29868,Suluavaldised,,5,17,False,1.8,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+29869,Jada kustutamine,,0,0,False,0.0,[]
+29870,Lõikude kustutamine,,0,0,False,0.0,[]
+29871,Servade kustutamine,,0,0,False,0.0,[]
+29872,Hiirelõks,,0,0,False,0.0,[]
+29873,Linn,,0,0,False,0.0,[]
+29874,Põranda katmine,,11,5,False,2.8182,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+29875,Imeline masin,,20,5,False,1.55,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+29876,Täpilised ribad,,2,13,False,3.5,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+29877,LED-skeem,,4,12,False,2.75,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 213, 'tagSA': 'dag'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+29878,Pendelkeks,,2,12,False,2.0,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 148, 'tagSA': 'knapsack'}]"
+29879,MAX-elemendid,,0,0,False,0.0,[]
+29880,How to Avoid Disqualification in 75 Easy Steps,How to Avoid Disqualification in 75 Easy Steps,2,0,False,2.5,[]
+29881,Account Names,Account Names,23,7,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}]"
+29882,Ranking,Ranking,15,8,False,1.0667,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29883,Practice,Practice,13,9,False,2.0,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}]"
+29884,Catapult-Carousel,Catapult-Carousel,0,0,False,0.0,[]
+29885,Magical Plants,Magical Plants,0,0,False,0.0,[]
+29886,Magical BF 1,Magical BF 1,15,11,False,3.2,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+29887,Magical BF 2,Magical BF 2,2,20,False,1.5,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+29888,Magical BF 3,Magical BF 3,3,19,False,1.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+29889,Magical BF 4,Magical BF 4,2,19,False,1.5,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+29890,Magical BF 5,Magical BF 5,2,20,False,1.0,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}]"
+29891,체크포인트 달리기,Race with Checkpoints,97,7,False,2.6082,"[{'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29892,게임판,Gameboard,14,16,False,3.3571,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 68, 'tagSA': 'sliding_window'}]"
+29893,데이터 분석,Data Analysis,7,16,False,5.2857,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}]"
+29894,별자리,Constellation,7,15,False,1.8571,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 97, 'tagSA': 'sorting'}]"
+29895,Jõululaul,,84,3,False,1.3095,"[{'tagBOJ': 121, 'tagSA': 'arithmetic'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+29896,Kingikott,,1,0,False,1.0,[]
+29897,Halma,,0,0,False,0.0,[]
+29898,Pael,,0,0,False,0.0,[]
+29899,Linesweeper,,0,0,False,0.0,[]

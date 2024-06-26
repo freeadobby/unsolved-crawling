@@ -1,0 +1,101 @@
+problemId,titleKo,titleEn,acceptedUserCount,level,sprout,averageTries,tags
+17600,Change Making,Change Making,40,11,False,1.325,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+17601,Disrupting Defense,Disrupting Defense,14,15,False,1.5714,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+17602,Explosion,Explosion,0,0,False,0.0,[]
+17603,Factorization,Factorization,34,21,False,4.8235,"[{'tagBOJ': 147, 'tagSA': 'discrete_sqrt'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+17604,Gifted Bafuko,Gifted Bafuko,0,0,False,0.0,[]
+17605,Hotel,Hotel,13,19,False,3.4615,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+17606,Integral Points,Integral Points,26,20,False,1.6923,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+17607,수열과 쿼리 31,,118,24,False,3.7288,"[{'tagBOJ': 69, 'tagSA': 'splay_tree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17608,막대기,,9361,4,False,2.3162,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+17609,회문,,5850,11,False,3.4547,"[{'tagBOJ': 158, 'tagSA': 'string'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+17610,양팔저울,,1870,10,False,2.4604,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}]"
+17611,직각다각형,,857,14,False,2.7211,"[{'tagBOJ': 139, 'tagSA': 'prefix_sum'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+17612,쇼핑몰,,1145,14,False,2.7773,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}]"
+17613,점프,,547,19,False,2.2998,"[{'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+17614,369,,3852,3,False,1.7863,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+17615,볼 모으기,,2729,10,False,2.3892,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+17616,등수 찾기,,1116,13,False,2.207,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}]"
+17617,로봇,,193,23,False,3.3161,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+17618,신기한 수,,2393,3,False,1.6761,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+17619,개구리 점프,,1302,13,False,3.6398,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+17620,드론,,0,0,False,0.0,[]
+17621,물채우기,,75,19,False,5.2933,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+17622,타일 교체,,168,13,False,4.3988,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 141, 'tagSA': 'simulation'}]"
+17623,괄호,,391,14,False,2.5371,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+17624,검은 돌,,150,22,False,3.1533,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17625,고압선,,69,24,False,3.913,"[{'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+17626,Four Squares,Four Squares,10433,8,False,2.2829,"[{'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+17627,XORanges,XORanges,44,17,False,1.6364,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+17628,Hanging Rack,Hanging Rack,3,0,False,1.0,[]
+17629,T - Covering,T - Covering,1,0,False,1.0,[]
+17630,Tower,Tower,0,0,False,0.0,[]
+17631,Awesome Arrowland Adventure,Awesome Arrowland Adventure,19,14,False,1.4211,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+17632,Colouring a rectangle,Colouring a rectangle,3,23,False,1.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+17633,제곱수의 합 (More Huge),,361,23,False,3.2936,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 47, 'tagSA': 'miller_rabin'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 58, 'tagSA': 'pollard_rho'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}]"
+17634,이상한 기계,Strange Device,56,18,False,3.4107,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}]"
+17635,다리,Bridges,41,24,False,3.3659,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 130, 'tagSA': 'sqrt_decomposition'}]"
+17636,가로등,Street Lamps,22,24,False,4.6818,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 74, 'tagSA': 'tree_set'}]"
+17637,Count Squares,Count Squares,31,7,False,1.9032,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+17638,Separator,Separator,12,12,False,1.5833,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 71, 'tagSA': 'stack'}]"
+17639,Tower Defense,Tower Defense,4,15,False,1.0,"[{'tagBOJ': 137, 'tagSA': 'case_work'}, {'tagBOJ': 102, 'tagSA': 'implementation'}]"
+17640,Building Skyscrapers,Building Skyscrapers,3,27,False,2.0,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 127, 'tagSA': 'dfs'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 136, 'tagSA': 'hash_set'}]"
+17641,Cubeword,Cubeword,15,19,False,1.8,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}]"
+17642,Dynamic Diameter,Dynamic Diameter,70,25,False,3.0,"[{'tagBOJ': 188, 'tagSA': 'centroid'}, {'tagBOJ': 18, 'tagSA': 'centroid_decomposition'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 150, 'tagSA': 'euler_tour_technique'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17643,Amusement Park,Amusement Park,25,24,False,2.24,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 87, 'tagSA': 'dp_bitfield'}, {'tagBOJ': 38, 'tagSA': 'inclusion_and_exclusion'}]"
+17644,Magic Tree,Magic Tree,32,23,False,1.7188,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 169, 'tagSA': 'smaller_to_larger'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17645,Scissors and Tape,Scissors and Tape,6,29,False,2.3333,"[{'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+17646,제곱수의 합 2 (More Huge),,104,27,False,11.9423,"[{'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 47, 'tagSA': 'miller_rabin'}, {'tagBOJ': 95, 'tagSA': 'number_theory'}, {'tagBOJ': 58, 'tagSA': 'pollard_rho'}, {'tagBOJ': 9, 'tagSA': 'primality_test'}]"
+17647,Trap,Trap,14,12,False,1.1429,"[{'tagBOJ': 5, 'tagSA': 'backtracking'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}, {'tagBOJ': 62, 'tagSA': 'recursion'}]"
+17648,Majorant,Majorant,0,0,False,0.0,[]
+17649,Triangle,Triangle,1,0,False,14.0,[]
+17650,Namuhs,Namuhs,1,0,False,1.0,[]
+17651,Artillery,Artillery,0,0,False,0.0,[]
+17652,Domino,Domino,0,0,False,0.0,[]
+17653,Ruler,Ruler,6,0,False,2.8333,[]
+17654,Resistance,Resistance,1,0,False,16.0,[]
+17655,Activity,Activity,0,0,False,0.0,[]
+17656,Park,Park,0,0,False,0.0,[]
+17657,Seats,Seats,1,0,False,22.0,[]
+17658,Chess,Chess,2,0,False,1.0,[]
+17659,Cap Size,Cap Size,23,9,False,4.7826,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 137, 'tagSA': 'case_work'}]"
+17660,First-Name Basis,First-Name Basis,3,0,False,2.0,[]
+17661,Mangling Names,Mangling Names,18,8,False,1.2222,"[{'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 158, 'tagSA': 'string'}]"
+17662,GPA,GPA,6,0,False,3.8333,[]
+17663,Department Receptions,Department Receptions,0,0,False,0.0,[]
+17664,Jump!,Jump!,2,0,False,1.5,[]
+17665,Triple Jump,Triple Jump,40,26,False,2.5,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+17666,Remittance,Remittance,43,21,False,2.8605,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+17667,Virus Experiment,Virus Experiment,10,26,False,1.6,"[{'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 115, 'tagSA': 'randomization'}]"
+17668,시험,Examination,94,21,False,2.2979,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+17669,Meetings,Meetings,19,23,False,3.1053,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 188, 'tagSA': 'centroid'}, {'tagBOJ': 18, 'tagSA': 'centroid_decomposition'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 35, 'tagSA': 'hld'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17670,난,Naan,40,21,False,3.65,"[{'tagBOJ': 33, 'tagSA': 'greedy'}]"
+17671,두 안테나,Two Antennas,35,25,False,2.4571,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}]"
+17672,두 요리,Two Dishes,26,25,False,4.5769,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+17673,Two Transportations,Two Transportations,11,23,False,2.7273,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+17674,특별관광도시,Designated Cities,30,23,False,2.8,"[{'tagBOJ': 188, 'tagSA': 'centroid'}, {'tagBOJ': 18, 'tagSA': 'centroid_decomposition'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17675,램프,Lamps,62,22,False,2.4355,"[{'tagBOJ': 25, 'tagSA': 'dp'}]"
+17676,시간을 달리는 비타로,"Bitaro, who Leaps through Time",12,24,False,2.75,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 123, 'tagSA': 'offline_queries'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+17677,케이크 3,Cake 3,57,23,False,2.7193,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 91, 'tagSA': 'divide_and_conquer_optimization'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 55, 'tagSA': 'pst'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+17678,합병,Mergers,54,21,False,4.1111,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 92, 'tagSA': 'dp_tree'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17679,Minerals,Minerals,17,25,False,4.5294,"[{'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 142, 'tagSA': 'heuristics'}]"
+17680,Construction of Highway,Construction of Highway,21,23,False,1.3333,"[{'tagBOJ': 161, 'tagSA': 'coordinate_compression'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 35, 'tagSA': 'hld'}, {'tagBOJ': 66, 'tagSA': 'lazyprop'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17681,Fences,Fences,9,24,False,1.4444,"[{'tagBOJ': 31, 'tagSA': 'floyd_warshall'}, {'tagBOJ': 100, 'tagSA': 'geometry'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 42, 'tagSA': 'line_intersection'}, {'tagBOJ': 57, 'tagSA': 'point_in_non_convex_polygon'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+17682,Tents,Tents,77,17,False,1.2338,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+17683,Asceticism,Asceticism,29,23,False,1.3793,"[{'tagBOJ': 6, 'tagSA': 'combinatorics'}, {'tagBOJ': 38, 'tagSA': 'inclusion_and_exclusion'}, {'tagBOJ': 124, 'tagSA': 'math'}]"
+17684,Road Service 1,Road Service 1,20,16,False,5.7,"[{'tagBOJ': 126, 'tagSA': 'bfs'}, {'tagBOJ': 125, 'tagSA': 'bruteforcing'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 172, 'tagSA': 'precomputation'}, {'tagBOJ': 115, 'tagSA': 'randomization'}]"
+17685,Worst Reporter 3,Worst Reporter 3,44,19,False,1.0909,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}]"
+17686,Airline Route Map,Airline Route Map,10,23,False,1.6,"[{'tagBOJ': 14, 'tagSA': 'bitmask'}, {'tagBOJ': 7, 'tagSA': 'graphs'}]"
+17687,Bitaro’s Party,Bitaro’s Party,37,22,False,6.5135,"[{'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 130, 'tagSA': 'sqrt_decomposition'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+17688,Security Gate,Security Gate,0,0,False,0.0,[]
+17689,Candies,Candies,84,22,False,2.4762,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 33, 'tagSA': 'greedy'}, {'tagBOJ': 59, 'tagSA': 'priority_queue'}]"
+17690,Library,Library,28,22,False,2.4643,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}]"
+17691,Wild Boar,Wild Boar,18,26,False,3.7778,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 22, 'tagSA': 'dijkstra'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 65, 'tagSA': 'segtree'}, {'tagBOJ': 215, 'tagSA': 'shortest_path'}]"
+17692,Cultivation,Cultivation,7,26,False,9.0,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 102, 'tagSA': 'implementation'}, {'tagBOJ': 154, 'tagSA': 'linked_list'}, {'tagBOJ': 97, 'tagSA': 'sorting'}, {'tagBOJ': 106, 'tagSA': 'sweeping'}, {'tagBOJ': 80, 'tagSA': 'two_pointer'}]"
+17693,Port Facility,Port Facility,47,23,False,3.0213,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 81, 'tagSA': 'disjoint_set'}, {'tagBOJ': 7, 'tagSA': 'graphs'}, {'tagBOJ': 11, 'tagSA': 'graph_traversal'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
+17694,Sparklers,Sparklers,29,25,False,2.4138,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+17695,Arranging Tickets,Arranging Tickets,17,27,False,3.0588,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 33, 'tagSA': 'greedy'}]"
+17696,Broken Device,Broken Device,23,25,False,5.1739,"[{'tagBOJ': 109, 'tagSA': 'ad_hoc'}, {'tagBOJ': 128, 'tagSA': 'constructive'}, {'tagBOJ': 124, 'tagSA': 'math'}, {'tagBOJ': 115, 'tagSA': 'randomization'}]"
+17697,Railway Trip,Railway Trip,17,26,False,1.7059,"[{'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 25, 'tagSA': 'dp'}, {'tagBOJ': 41, 'tagSA': 'lca'}, {'tagBOJ': 84, 'tagSA': 'sparse_table'}, {'tagBOJ': 71, 'tagSA': 'stack'}, {'tagBOJ': 120, 'tagSA': 'trees'}]"
+17698,Long Distance Coach,Long Distance Coach,17,24,False,1.1765,"[{'tagBOJ': 89, 'tagSA': 'cht'}, {'tagBOJ': 25, 'tagSA': 'dp'}]"
+17699,Long Mansion,Long Mansion,30,23,False,2.3,"[{'tagBOJ': 12, 'tagSA': 'binary_search'}, {'tagBOJ': 175, 'tagSA': 'data_structures'}, {'tagBOJ': 24, 'tagSA': 'divide_and_conquer'}, {'tagBOJ': 65, 'tagSA': 'segtree'}]"
